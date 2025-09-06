@@ -1,0 +1,21 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda María. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buenos días. Me llamo Ricardo.
+[00:00:07] AGENTE: Mucho gusto, Ricardo. ¿En qué puedo ayudarte el día de hoy?
+[00:00:12] CLIENTE: Estoy llamando porque mi factura llegó con un monto más alto de lo esperado y quiero entender el motivo.
+[00:00:20] AGENTE: Comprendo. Con gusto te ayudo a revisar. ¿Podrías indicarme tu número de línea, por favor?
+[00:00:25] CLIENTE: Claro, es el 321-456-789.
+[00:00:28] AGENTE: Perfecto. Dame un momento mientras verifico tu cuenta en el sistema.
+[00:00:35] AGENTE: Ricardo, veo que tu factura este mes incluye un cobro adicional por un servicio de suscripción. ¿Reconoces esta suscripción?
+[00:00:42] CLIENTE: No, la verdad no. No recuerdo haber activado nada extra.
+[00:00:47] AGENTE: Entiendo. Este tipo de suscripciones a veces se activan por error al aceptar promociones en línea. Puedo proceder con la cancelación para evitar cargos futuros. ¿Te gustaría que lo haga?
+[00:00:55] CLIENTE: Sí, por favor. ¿Y el monto de este mes se puede corregir?
+[00:00:58] AGENTE: Déjame revisar... Veo que el cobro ya fue procesado, pero puedo generar un ajuste que se reflejará en tu próxima factura.
+[00:01:06] CLIENTE: Ah, ya entiendo. Está bien, hagamos eso.
+[00:01:09] AGENTE: Perfecto, ya realicé la cancelación del servicio y generé el ajuste. Recibirás un mensaje con la confirmación en breve.
+[00:01:18] CLIENTE: ¡Muchas gracias!
+[00:01:20] AGENTE: Con gusto, Ricardo. ¿Algo más en lo que pueda ayudarte hoy?
+[00:01:23] CLIENTE: No, eso era todo.
+[00:01:25] AGENTE: Excelente. Gracias por comunicarte con <LOCATION>. Que tengas un buen día.
+[00:01:30] CLIENTE: Igualmente, hasta luego.
+[00:01:32] AGENTE: Hasta luego.
+

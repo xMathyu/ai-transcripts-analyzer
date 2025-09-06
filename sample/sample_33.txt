@@ -1,0 +1,89 @@
+[00:00:00] AGENTE: <LOCATION> TV Digital. Le atiende Daniela. ¿En qué puedo ayudarle?
+
+[00:00:07] CLIENTE: Hola, buenas tardes. Tengo problemas con mi decodificador de televisión. No muestra imagen en algunos canales.
+
+[00:00:15] AGENTE: Buenas tardes. Lamento escuchar que está experimentando problemas con su servicio. Vamos a solucionarlo juntos. Para acceder a su cuenta, ¿podría proporcionarme su número de cliente o la dirección donde está instalado el servicio?
+
+[00:00:30] CLIENTE: Mi número de cliente es 5896-2341-7802.
+
+[00:00:37] AGENTE: Gracias. Y para confirmar que estoy hablando con el titular, ¿me podría indicar su nombre completo?
+
+[00:00:44] CLIENTE: <PERSON>.
+
+[00:00:46] AGENTE: Muchas gracias, <PERSON>. Permítame un momento mientras reviso la información de su cuenta y el estado de su servicio.
+
+[00:01:03] AGENTE: Gracias por su paciencia. Veo que tiene nuestro servicio de Televisión Digital Premium con decodificador HD instalado hace aproximadamente 8 meses. Me menciona que algunos canales no muestran imagen. ¿Podría indicarme específicamente qué canales presentan el problema?
+
+[00:01:21] CLIENTE: Sí, son todos los canales de deportes, del 210 al 220 aproximadamente. También el canal de películas que es el 305, y algunos canales infantiles entre el 150 y 160.
+
+[00:01:35] AGENTE: Entiendo. ¿Y cuándo comenzó a notar este problema?
+
+[00:01:40] CLIENTE: Desde ayer por la noche. Estaba viendo un partido de fútbol y de repente se puso la pantalla negra con un mensaje que decía "señal no disponible" o algo así. Revisé otros canales y algunos funcionaban bien, pero otros no.
+
+[00:01:55] AGENTE: Gracias por la información. ¿El mensaje exacto que aparece es "Señal no disponible" o "Sin señal"?
+
+[00:02:03] CLIENTE: Dice "Señal no disponible. Código E-48".
+
+[00:02:07] AGENTE: Perfecto, ese código nos da información importante sobre el problema. El error E-48 generalmente indica una dificultad en la autenticación del decodificador con nuestros servidores. Vamos a realizar algunas acciones para resolverlo. Primero, ¿su decodificador está conectado directamente a la corriente eléctrica o a través de un regulador o regleta?
+
+[00:02:30] CLIENTE: Está conectado a una regleta donde también tengo conectado el televisor y otros equipos.
+
+[00:02:36] AGENTE: Entiendo. Lo primero que vamos a intentar es un reinicio completo del decodificador. Para esto, necesito que desconecte el cable de alimentación del decodificador directamente de la regleta, espere 30 segundos, y luego lo vuelva a conectar. ¿Puede hacer eso ahora?
+
+[00:02:53] CLIENTE: Sí, un momento.
+
+[00:03:10] CLIENTE: Listo, ya lo desconecté y volví a conectar. Está iniciando nuevamente.
+
+[00:03:15] AGENTE: Excelente. El decodificador tardará aproximadamente un minuto en reiniciarse completamente. Mientras esperamos, voy a revisar si hay alguna incidencia reportada en su zona que pudiera estar afectando el servicio.
+
+[00:03:36] AGENTE: No veo ninguna incidencia reportada en su zona que pudiera estar causando este problema. El decodificador, ¿ya terminó de reiniciarse?
+
+[00:03:46] CLIENTE: Sí, ya encendió. Apareció la pantalla de bienvenida y ahora está en un canal normal, el 12, que funciona bien.
+
+[00:03:54] AGENTE: Perfecto. Ahora le pediría que verifique uno de los canales que no estaban funcionando antes. Por ejemplo, intente acceder al canal 210 de deportes.
+
+[00:04:04] CLIENTE: A ver... No, sigue igual. Aparece el mismo mensaje: "Señal no disponible. Código E-48".
+
+[00:04:12] AGENTE: Entiendo. Vamos a intentar una solución más específica. Necesito realizar una actualización y reconfiguración remota de su decodificador. Para esto, necesito que el decodificador esté encendido y conectado tanto a la corriente eléctrica como a su televisor. ¿Confirma que es así?
+
+[00:04:30] CLIENTE: Sí, está encendido y conectado al televisor.
+
+[00:04:34] AGENTE: Perfecto. Ahora voy a enviar una señal de reinicio y reautenticación desde nuestro sistema. Es posible que vea que el decodificador se apaga y vuelve a encender, o que aparezcan algunos mensajes en pantalla. Es un proceso normal que tomará aproximadamente 2-3 minutos. Por favor, no apague ni desconecte el decodificador durante este proceso.
+
+[00:04:56] CLIENTE: De acuerdo, esperaré.
+
+[00:05:00] AGENTE: He enviado la señal de reinicio. ¿Nota algún cambio en el decodificador?
+
+[00:05:06] CLIENTE: Sí, se acaba de apagar y está volviendo a iniciar. Aparece un mensaje que dice "Actualizando sistema. No apague el equipo".
+
+[00:05:15] AGENTE: Excelente, eso indica que la señal fue recibida correctamente. Vamos a esperar a que complete la actualización.
+
+[00:05:45] CLIENTE: Ya terminó la actualización y volvió al canal 12.
+
+[00:05:49] AGENTE: Perfecto. Ahora le pediría que revise nuevamente los canales que presentaban problemas. Por favor, intente acceder al canal 210 o cualquier otro del paquete deportivo.
+
+[00:06:02] CLIENTE: Voy al 210... ¡Sí, ahora funciona! Voy a probar con el 305, el de películas... Este también funciona. Y el canal infantil 155... Sí, todos están funcionando ahora.
+
+[00:06:18] AGENTE: ¡Excelente noticia! El problema se ha resuelto exitosamente. Lo que ocurrió fue una desincronización entre su decodificador y nuestros servidores de autenticación. La actualización que acabamos de realizar restableció esta conexión. Es algo que puede ocurrir ocasionalmente, especialmente después de alguna fluctuación en la energía eléctrica o en la conexión de internet si utiliza nuestro servicio de TV por IP.
+
+[00:06:42] CLIENTE: Entiendo. ¿Hay algo que pueda hacer para evitar que vuelva a ocurrir?
+
+[00:06:47] AGENTE: Una recomendación importante sería conectar el decodificador directamente a la pared en lugar de a una regleta, o utilizar un regulador de voltaje de buena calidad. Las fluctuaciones eléctricas pueden afectar la estabilidad del equipo. También es aconsejable realizar un reinicio del decodificador una vez al mes, simplemente desconectando el cable de alimentación por 30 segundos y volviéndolo a conectar, preferiblemente durante la noche cuando no esté utilizando el servicio.
+
+[00:07:14] CLIENTE: Perfecto, seguiré esas recomendaciones. ¿Y si vuelve a ocurrir el problema?
+
+[00:07:19] AGENTE: Si el problema vuelve a presentarse, puede intentar el reinicio manual como lo hicimos hoy. Si eso no resuelve el problema, puede contactarnos nuevamente, y un agente podrá realizar la actualización remota como hicimos ahora. También tenemos disponible una guía de solución de problemas en nuestra aplicación móvil y sitio web, en la sección "Ayuda y Soporte", donde encontrará pasos detallados para resolver varios códigos de error.
+
+[00:07:45] CLIENTE: Muy bien. Muchas gracias por la ayuda.
+
+[00:07:49] AGENTE: Ha sido un placer ayudarle, <PERSON>. ¿Hay algo más en lo que pueda asistirle hoy?
+
+[00:07:56] CLIENTE: No, eso sería todo. Gracias por la rápida solución.
+
+[00:08:00] AGENTE: Gracias a usted por su paciencia. Recuerde que puede contactarnos las 24 horas a través de nuestro número de atención al cliente, nuestra aplicación móvil o el chat en línea si necesita asistencia adicional. Le deseo un excelente día y que disfrute de su servicio de TV Digital.
+
+[00:08:18] CLIENTE: Igualmente, que tenga buen día.
+
+[00:08:21] AGENTE: Hasta pronto.
+
+[00:08:22] SISTEMA: Llamada finalizada.

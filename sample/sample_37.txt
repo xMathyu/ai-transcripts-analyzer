@@ -1,0 +1,67 @@
+[00:00:00] AGENTE: <LOCATION>TechConnect. Le saluda Mariana. ¿Con quién tengo el gusto de hablar?
+
+[00:00:06] CLIENTE: Hola, buenos días. Mi nombre es <PERSON>.
+
+[00:00:09] AGENTE: Buenos días, <PERSON>. ¿Cómo se encuentra hoy? ¿En qué puedo ayudarle?
+
+[00:00:14] CLIENTE: Mire, le llamo porque tengo un problema con mi factura del mes pasado. Me están cobrando por un servicio adicional que yo nunca solicité.
+
+[00:00:23] AGENTE: Entiendo su preocupación. Para poder revisar su cuenta, ¿me podría proporcionar su número de cliente, por favor?
+
+[00:00:30] CLIENTE: Sí, un momento... es el 74-581-923-0.
+
+[00:00:37] AGENTE: Gracias. ¿Y me confirma también su nombre completo y dirección para verificación?
+
+[00:00:42] CLIENTE: <PERSON>, y vivo en Avenida Constitución 248, apartamento 3B.
+
+[00:00:49] AGENTE: Perfecto, muchas gracias. Un momento, por favor, mientras reviso su información en el sistema.
+
+[00:01:02] AGENTE: Bien, estoy viendo su cuenta, <PERSON>. Efectivamente, veo que en su última factura hay un cargo por "Servicio Premium de Datos" por un valor de 18.90. ¿Es este el cargo que usted menciona?
+
+[00:01:15] CLIENTE: Sí, exactamente. Yo nunca pedí ese servicio y quiero que me lo quiten y me devuelvan el dinero.
+
+[00:01:22] AGENTE: Comprendo perfectamente. Voy a revisar las notas de su cuenta para ver cuándo se activó este servicio. Un momento por favor.
+
+[00:01:52] AGENTE: <PERSON>, he revisado su historial y veo que este servicio fue activado el día 12 del mes pasado durante una interacción con nuestro sistema automatizado. Aparentemente, se registró una solicitud a través de nuestra aplicación móvil.
+
+[00:02:08] CLIENTE: Eso es imposible. Yo casi nunca uso la aplicación, y definitivamente no solicité ningún servicio adicional. Debe haber algún error.
+
+[00:02:17] AGENTE: Le ofrezco una disculpa por este inconveniente. En estos casos, procedemos a favor del cliente. Voy a desactivar inmediatamente este servicio y procesaré el reembolso del cargo de 18.90 en su próxima factura. ¿Le parece bien?
+
+[00:02:33] CLIENTE: Sí, pero ¿no pueden hacerme el reembolso directamente a mi tarjeta?
+
+[00:02:37] AGENTE: Entiendo su solicitud. Déjeme verificar si podemos realizar un reembolso directo. Un momento, por favor.
+
+[00:03:04] AGENTE: Agradezco su paciencia. Revisando nuestras políticas, podemos procesar un reembolso directo, pero tardaría entre 5 y 7 días hábiles en reflejarse en su cuenta bancaria. Alternativamente, podemos aplicarlo como crédito en su próxima factura, lo que sería efectivo inmediatamente. ¿Qué opción prefiere?
+
+[00:03:22] CLIENTE: Prefiero el reembolso directo, no me importa esperar unos días.
+
+[00:03:26] AGENTE: Perfecto. Procederé con el reembolso directo. ¿El reembolso debe realizarse a la misma tarjeta que tiene registrada para sus pagos automáticos?
+
+[00:03:35] CLIENTE: Sí, a esa misma.
+
+[00:03:37] AGENTE: Excelente. Estoy procesando la solicitud en este momento. También quiero asegurarme de que el servicio quede completamente desactivado de su cuenta. Un momento, por favor.
+
+[00:04:02] AGENTE: <PERSON>, he completado ambos procesos. El servicio "Premium de Datos" ha sido desactivado de su cuenta permanentemente y he enviado la solicitud de reembolso por 18.90 a su tarjeta terminación 4582. Recibirá un correo electrónico de confirmación en los próximos minutos, y el reembolso debería procesarse en un plazo máximo de 7 días hábiles.
+
+[00:04:23] CLIENTE: Perfecto, muchas gracias. Una pregunta más, ¿hay alguna forma de evitar que esto vuelva a suceder en el futuro?
+
+[00:04:30] AGENTE: Por supuesto. Puedo activar una protección adicional en su cuenta que requeriría una verificación por mensaje de texto para cualquier cambio o adición de servicios, incluso si se solicita desde la aplicación. ¿Le gustaría que active esta protección?
+
+[00:04:44] CLIENTE: Sí, por favor, eso me daría más tranquilidad.
+
+[00:04:47] AGENTE: Entendido. Estoy configurando la protección adicional en su cuenta. Ahora, cada vez que se intente agregar un servicio o hacer un cambio significativo, recibirá un código por SMS que deberá confirmar. Listo, la protección ha sido activada.
+
+[00:05:02] CLIENTE: Muchas gracias por su ayuda, Mariana. Ha sido muy eficiente.
+
+[00:05:06] AGENTE: Al contrario, <PERSON>, gracias a usted por su paciencia y comprensión. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:05:13] CLIENTE: No, eso sería todo.
+
+[00:05:15] AGENTE: Perfecto. Recuerde que puede contactarnos en cualquier momento si surge alguna otra inquietud. Le deseo un excelente día. Gracias por llamar a TechConnect.
+
+[00:05:25] CLIENTE: Igualmente, que tenga buen día. Adiós.
+
+[00:05:28] AGENTE: Adiós, que esté bien.
+
+[00:05:30] [FIN DE LA LLAMADA]

@@ -1,0 +1,20 @@
+[00:00:00] AGENTE: ¡Hola! ¿Cómo estás? Soy Martín de <LOCATION>, ¿en qué te puedo ayudar hoy?
+[00:00:04] CLIENTE: ¡Hola! Soy Mariana. Mira, quiero agregar el servicio de deportes a mi cuenta de streaming, pero no encuentro cómo hacerlo. Ayúdame con eso, por favor.
+[00:00:12] AGENTE: ¡Claro, Mariana! Te ayudo al toque. ¿Me puedes pasar tu correo o el número de cliente para que busque tu cuenta y te active el servicio?
+[00:00:18] CLIENTE: Sí, claro. Mi correo es mariana.silva@email.com.
+[00:00:21] AGENTE: Genial, Mariana. Un segundito mientras reviso tu cuenta... Ok, ya te tengo. Veo que tienes el plan básico, ¿quieres agregar el servicio de deportes al mismo plan o cambiarte a uno superior?
+[00:00:31] CLIENTE: No, no quiero cambiar de plan. Solo quiero agregar lo de deportes. Lo necesito para los partidos del fin de semana, sobre todo.
+[00:00:38] AGENTE: Perfecto. Entonces te activamos el servicio de deportes por $7.990 adicionales al mes. ¿Lo quiero poner activo ya mismo?
+[00:00:45] CLIENTE: Sí, sí, por favor. No quiero perderme el partido de mañana.
+[00:00:49] AGENTE: ¡Perfecto! Procedo a activarlo. Un segundito... ¡Listo! Ya está activado en tu cuenta. Deberías poder verlo en tu catálogo en cuanto reinicies la app o la página web.
+[00:01:00] CLIENTE: ¡Qué rápido! Ya estoy viendo los partidos que me faltaban. ¡Gracias, Martín!
+[00:01:04] AGENTE: ¡Qué bien, Mariana! Me alegra que todo esté ok. ¿Hay algo más con lo que te pueda ayudar? Algo más de servicios, alguna duda sobre tu cuenta, o algo de tus partidos de fútbol, jeje.
+[00:01:13] CLIENTE: Jajaja, sí, tengo una pregunta. ¿Si me cambio a otro plan más grande, me descuentan algo por el tiempo que llevo con ustedes?
+[00:01:19] AGENTE: Buena pregunta. Si decides cambiarte a un plan superior, podríamos ofrecerte un descuento de un 10% durante los primeros tres meses. ¿Te gustaría que lo revisemos?
+[00:01:28] CLIENTE: ¡Sí, suena bien! A ver si puedo conseguir un buen descuento para el mes siguiente.
+[00:01:33] AGENTE: ¡Dale! Vamos a hacer que te contacten para ver qué plan te conviene más. Un momento, que te agendo la solicitud. ¡Listo! El equipo de ventas te mandará un mensaje en cuanto haya una oferta exclusiva para ti.
+[00:01:45] CLIENTE: ¡Súper! Ya me siento más tranquila, gracias por todo, Martín. Estaba a punto de perderme la jugada clave de la tarde.
+[00:01:50] AGENTE: Jajaja, ¡espero que lo disfrutes mucho! No dudes en llamarnos si necesitas algo más. ¡Nos vemos!
+[00:01:55] CLIENTE: ¡Nos vemos! ¡Y que empiece el partido!
+[00:01:58] AGENTE: ¡Eso! ¡Disfrútalo! Chau.
+[00:02:00] *** LLAMADA FINALIZADA ***

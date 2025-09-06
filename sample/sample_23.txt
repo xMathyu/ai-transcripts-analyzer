@@ -1,0 +1,30 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Álvaro del área de soporte de dispositivos. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Lorena Castañeda. Estoy llamando porque compré un decodificador adicional para mi segunda TV, pero no logro vincularlo correctamente al servicio.
+[00:00:13] AGENTE: Comprendido, Lorena. Te ayudaré a configurarlo. ¿Podrías brindarme tu número de cliente o RUT para validar tus datos?
+[00:00:19] CLIENTE: Claro, es 21-485-732-9.
+[00:00:22] AGENTE: Gracias. ¿Me confirmas tu dirección registrada, por favor?
+[00:00:25] CLIENTE: Calle Los Rosales 780, casa 12.
+[00:00:28] AGENTE: Perfecto. Veo que tienes contratado el servicio de televisión HD y adquiriste un decodificador adicional el pasado sábado. ¿Ya lo conectaste al televisor y al tomacorriente?
+[00:00:37] CLIENTE: Sí, está conectado. En la pantalla aparece el logo de la empresa, pero luego queda en negro.
+[00:00:43] AGENTE: Entiendo. Vamos a revisar juntos. ¿El cable coaxial está bien conectado desde el decodificador hasta la toma de señal de la pared?
+[00:00:49] CLIENTE: Un momento... ahora lo reviso. Sí, parece que estaba un poco suelto. Ya lo ajusté.
+[00:00:56] AGENTE: Perfecto. Ahora vamos a reiniciar el decodificador. Desconéctalo del tomacorriente, espera 10 segundos y vuelve a conectarlo.
+[00:01:07] CLIENTE: Ya lo hice. Está cargando nuevamente.
+[00:01:10] AGENTE: Genial. Ahora debería aparecer en pantalla la opción para vincular el dispositivo. ¿La ves?
+[00:01:14] CLIENTE: Sí, dice "Ingresar código de activación".
+[00:01:17] AGENTE: Te voy a dictar el código desde aquí: 3948-7212.
+[00:01:21] CLIENTE: Lo estoy ingresando... listo. Ahora aparece una barra de progreso.
+[00:01:26] AGENTE: Eso indica que el decodificador se está sincronizando con tu cuenta. En unos segundos deberías poder ver los canales.
+[00:01:35] CLIENTE: ¡Listo! Ya están cargando los canales. Se ve perfecto.
+[00:01:38] AGENTE: Excelente, Lorena. Te recomiendo dejar el decodificador siempre encendido en modo reposo para que reciba actualizaciones automáticas.
+[00:01:46] CLIENTE: ¿Y puedo usar el mismo control remoto del otro televisor?
+[00:01:49] AGENTE: No, cada decodificador usa un control propio. Pero si deseas, te puedo enviar uno universal adicional con costo de envío incluido.
+[00:01:56] CLIENTE: Por ahora está bien, gracias. Tal vez lo pida más adelante.
+[00:01:59] AGENTE: Perfecto. ¿Deseas que te envíe un correo con los pasos de configuración por si lo necesitas en el futuro?
+[00:02:04] CLIENTE: Sí, por favor. Mi correo es lorenacastaneda@email.com.
+[00:02:07] AGENTE: Enviado. ¿Algo más en lo que pueda ayudarte hoy?
+[00:02:10] CLIENTE: No, todo perfecto. Muchas gracias por la paciencia.
+[00:02:13] AGENTE: Gracias a ti por comunicarte con nosotros. Que tengas una excelente tarde.
+[00:02:16] CLIENTE: Igualmente. Hasta luego.
+[00:02:18] AGENTE: Hasta luego.
+[00:02:19] SISTEMA: [Llamada finalizada]

@@ -1,0 +1,24 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Claudia Morales de <LOCATION>. ¿En qué puedo asistirlo hoy?
+[00:00:03] CLIENTE: ¡Esto ya está fuera de control! Mi nombre es Enrique Rodríguez, y estoy llamando porque contraté un servicio de internet de **fibra óptica** que me prometieron de alta velocidad, y estoy **sin conexión** desde hace más de 12 horas. ¡Es inaceptable!
+[00:00:14] AGENTE: Lamento profundamente la situación, Sr. Rodríguez. Entiendo perfectamente su frustración. Permítame revisar su cuenta y su estado de servicio para ver cómo podemos solucionarlo de inmediato. ¿Podría proporcionarme su número de cliente o RUT, por favor?
+[00:00:23] CLIENTE: Claro, mi RUT es 15.498.765-4. No quiero excusas, ya basta de esperar.
+[00:00:26] AGENTE: Gracias, Sr. Rodríguez. Un momento mientras reviso su información… Ya tengo su cuenta. Según nuestros registros, veo que su servicio de **fibra óptica** fue instalado correctamente el día de ayer. Sin embargo, también aparece una **interrupción de servicio** en su área desde las 10:00 de la mañana. Permítame investigar más a fondo qué está ocurriendo.
+[00:00:45] CLIENTE: ¡Eso me lo dijeron el día de ayer! Pero ya ha pasado más de un día y sigo sin poder usar internet. ¿Cómo pueden ofrecer un servicio que no pueden entregar?
+[00:00:52] AGENTE: Le pido una disculpa, Sr. Rodríguez, por los inconvenientes ocasionados. Estoy viendo que, aunque la instalación fue correcta, la **interrupción del servicio** se debe a un **problema técnico en el nodo de red** que está afectando a varias zonas. Estoy escalando su caso para que se priorice su reparación.
+[00:01:10] CLIENTE: ¡Esto es ridículo! Llevo toda la mañana sin poder trabajar. He sido muy claro con lo que necesito, pero parece que no les importa. ¡Quiero una solución ahora!
+[00:01:16] AGENTE: Comprendo completamente su frustración, Sr. Rodríguez. Esta es una situación inusual, y le aseguro que estamos trabajando para resolverlo. Voy a **priorizar su caso** para que un técnico se desplace inmediatamente a su domicilio y repare el problema de conexión. ¿Le parece bien?
+[00:01:34] CLIENTE: ¡Claro! Eso es lo que esperaba escuchar. Pero, ¿qué pasa si no llega el técnico hoy? Esto me está afectando mucho y necesito que me garanticen que se resuelva YA.
+[00:01:41] AGENTE: Entiendo su preocupación, Sr. Rodríguez. Debido a la urgencia de su caso, **el técnico será enviado lo antes posible**, y se le contactará en un plazo máximo de 2 horas para confirmar la llegada. Si no se resuelve hoy, le ofreceremos una **compensación en su factura** como gesto de disculpa por los inconvenientes.
+[00:01:59] CLIENTE: ¡Eso es lo mínimo! Ya no puedo confiar en ustedes. Pero lo que quiero es que me reparen el servicio, no solo palabras.
+[00:02:04] AGENTE: Le aseguro que estamos tomando medidas inmediatas, Sr. Rodríguez. El **técnico especializado** llegará lo más rápido posible. Además, para asegurarnos de que se cumpla la reparación de manera efectiva, estaré personalmente monitoreando el avance de su caso y recibiré actualizaciones constantes.
+[00:02:22] CLIENTE: ¿Y qué pasa si el problema no se soluciona hoy? ¿Tendré que seguir esperando sin poder usar internet?
+[00:02:27] AGENTE: Si el problema no se soluciona hoy, Sr. Rodríguez, **garantizamos una revisión escalada** por parte de nuestro equipo superior y se tomará una acción inmediata para que se restablezca su servicio sin más demoras. Además, se aplicará un **descuento de hasta el 30%** en su próxima factura como compensación.
+[00:02:44] CLIENTE: Eso espero. No quiero tener que estar llamando todos los días. Este es un servicio básico y necesito que funcione.
+[00:02:49] AGENTE: Entiendo perfectamente, Sr. Rodríguez. Me comprometo a hacer todo lo posible para que el servicio se solucione a la mayor brevedad. ¿Le gustaría recibir un correo de confirmación con todos los detalles de la reparación y el descuento?
+[00:02:59] CLIENTE: Sí, eso estaría bien. Necesito tener todo por escrito.
+[00:03:02] AGENTE: Por supuesto, Sr. Rodríguez. Recibirá un correo de confirmación con los detalles de la solicitud de reparación y el descuento aplicado. También tendrá acceso a una línea directa para contactarnos en caso de que surjan problemas adicionales.
+[00:03:14] CLIENTE: Bien, espero que todo se resuelva y que no me sigan dando excusas. Gracias por finalmente darme una solución.
+[00:03:19] AGENTE: Le agradezco por su paciencia, Sr. Rodríguez. Lamentamos sinceramente los inconvenientes y nos comprometemos a brindarle el servicio de calidad que se merece. Que tenga una excelente tarde.
+[00:03:27] CLIENTE: Gracias, espero ver el servicio funcionando hoy. Buenas tardes.
+[00:03:31] AGENTE: Buenas tardes, Sr. Rodríguez. Gracias por llamarnos.
+[00:03:33] *** LLAMADA FINALIZADA ***

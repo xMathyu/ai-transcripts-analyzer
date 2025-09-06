@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Javier Martínez de <LOCATION>. ¿En qué puedo asistirte hoy?
+[00:00:04] CLIENTE: Buenas tardes, Javier. Mi nombre es Claudia Gómez, y estoy llamando porque hace dos semanas solicité la cancelación de mi suscripción mensual, pero me acabo de dar cuenta que me han cobrado otra vez. ¿Qué está pasando con eso?
+[00:00:14] AGENTE: Lamento mucho la molestia, Sra. Gómez. Vamos a revisar su cuenta de inmediato para entender qué ha ocurrido. ¿Podría proporcionarme su número de cliente o RUT, por favor?
+[00:00:21] CLIENTE: Claro, mi RUT es 12.654.987-1.
+[00:00:24] AGENTE: Gracias, Sra. Gómez. Un momento mientras reviso su cuenta… Ya tengo la información. Veo que su solicitud de cancelación fue registrada correctamente el día 15 de junio, pero parece que el sistema no procesó la cancelación de manera oportuna, y por eso se realizó un nuevo cobro el 15 de julio. Permítame investigar más a fondo para solucionarlo.
+[00:00:42] CLIENTE: ¡Esto es increíble! Me dijeron que la cancelación estaba completada. He estado esperando, y ahora me están cobrando de nuevo. ¿Por qué no me avisaron de esto?
+[00:00:50] AGENTE: Lamento mucho la confusión, Sra. Gómez, y comprendo perfectamente su frustración. El error fue provocado por un **fallo en el sistema de gestión de suscripciones**, que impidió que su solicitud se procesara correctamente. Estoy viendo con el equipo de soporte para corregir este problema de inmediato.
+[00:01:06] CLIENTE: ¡Esto ya ha pasado varias veces! Puedo aceptar un error, pero este tipo de problemas repetidos no son aceptables. Exijo que me devuelvan el dinero de inmediato.
+[00:01:14] AGENTE: Entiendo su enojo, Sra. Gómez. Procederé a gestionar la **devolución inmediata** del cobro del 15 de julio. El reembolso se procesará de forma prioritaria y debería reflejarse en su cuenta en un plazo de 72 horas. Además, tomaré medidas para asegurar que su suscripción sea **cancelada de forma definitiva** y no se generen más cobros.
+[00:01:33] CLIENTE: ¡Eso espero! No quiero que esto vuelva a ocurrir. Esta es la tercera vez que tengo problemas con su servicio.
+[00:01:39] AGENTE: Lamento profundamente los inconvenientes causados, Sra. Gómez. Como parte de nuestra política de calidad, también me aseguraré de **escalar su caso** al departamento de gestión de suscripciones para evitar que este tipo de situaciones se repitan. También se tomará nota de este incidente en su historial para que el equipo de soporte esté al tanto.
+[00:01:57] CLIENTE: Bien, pero quiero una confirmación por escrito de todo esto. No voy a confiar solo en palabras. Necesito algo tangible que me diga que el error fue corregido.
+[00:02:04] AGENTE: Por supuesto, Sra. Gómez. Le enviaré un **correo electrónico de confirmación** con todos los detalles de la cancelación, la devolución del cobro y el proceso que estamos llevando a cabo para evitar futuros problemas. Recibirá el correo en las próximas 24 horas.
+[00:02:20] CLIENTE: Está bien, espero recibirlo como me dicen. Si no lo recibo, voy a tomar acciones más drásticas.
+[00:02:25] AGENTE: Le aseguro que recibirá toda la documentación necesaria, Sra. Gómez. También estaré personalmente al tanto de que este caso sea cerrado correctamente. ¿Hay algo más en lo que pueda asistirla mientras tanto?
+[00:02:37] CLIENTE: No, eso es todo. Solo quiero que esto se solucione y que no tenga que volver a llamar.
+[00:02:42] AGENTE: Entiendo perfectamente, Sra. Gómez, y le agradezco su paciencia. Este incidente se solucionará lo más rápido posible. Le pido una disculpa nuevamente por los inconvenientes y agradezco su comprensión.
+[00:02:54] CLIENTE: Gracias, espero que no haya más problemas. Buenas tardes.
+[00:02:57] AGENTE: Gracias a usted, Sra. Gómez. Lamento los inconvenientes ocasionados. Que tenga una excelente tarde.
+[00:03:01] CLIENTE: Igualmente. Buenas tardes.
+[00:03:03] AGENTE: Buenas tardes.
+[00:03:04] *** LLAMADA FINALIZADA ***

@@ -1,0 +1,25 @@
+[00:00:00] AGENTE: . Buenas tardes, habla Ernesto del área de atención técnica. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Luciana Barreto. Llamo porque tengo problemas con mi servicio de televisión. Algunos canales no se ven, aparecen en negro o con interferencia.
+[00:00:13] AGENTE: Lamento mucho el inconveniente, Luciana. Vamos a solucionarlo juntos. ¿Podrías proporcionarme tu número de cliente o RUT, por favor?
+[00:00:20] CLIENTE: Claro, es 22-476-918-3.
+[00:00:23] AGENTE: Gracias. ¿Puedes confirmarme tu dirección registrada?
+[00:00:26] CLIENTE: Calle San Felipe 233, departamento 601.
+[00:00:30] AGENTE: Perfecto, ya accedí a tu cuenta. Veo que tienes el servicio de televisión HD con decodificador. ¿El problema lo presentas en todos los canales o solo en algunos?
+[00:00:39] CLIENTE: Solo en algunos. Por ejemplo, los canales nacionales se ven bien, pero los de películas y deportes no cargan o salen con rayas.
+[00:00:47] AGENTE: Entiendo. Esto podría deberse a una falla en la señal del decodificador o a un problema en la conexión del cable coaxial. ¿Podrías verificar que el cable esté bien conectado tanto al decodificador como a la pared?
+[00:01:00] CLIENTE: Un momento... Sí, acabo de revisar y el cable estaba un poco flojo. Ya lo ajusté.
+[00:01:08] AGENTE: Perfecto. Ahora vamos a reiniciar el decodificador desde aquí. Esto tomará unos segundos.
+[00:01:30] AGENTE: Listo, el reinicio fue exitoso. ¿Podrías revisar si los canales que fallaban ahora se visualizan correctamente?
+[00:01:37] CLIENTE: Dame un segundo... Sí, ahora se ven bien. ¡Qué alivio!
+[00:01:42] AGENTE: Excelente. A veces los cables flojos pueden causar esas interferencias. Te recomiendo no mover mucho el equipo y evitar que el cable se doble o tense demasiado.
+[00:01:51] CLIENTE: Lo tendré en cuenta. Muchas gracias, Ernesto.
+[00:01:54] AGENTE: Con gusto, Luciana. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:01:57] CLIENTE: Ya que estamos, ¿puedo cambiar el idioma de algunos canales? A veces las películas salen en inglés.
+[00:02:03] AGENTE: Claro. Desde el control remoto, presiona el botón "Audio" o ingresa al menú de configuración de audio y selecciona "Español" como idioma preferido. Si necesitas ayuda paso a paso, te puedo enviar un instructivo por correo.
+[00:02:15] CLIENTE: Sí, por favor. Mándamelo a lucianabarreto@email.com.
+[00:02:18] AGENTE: Enviado. Deberías recibirlo en un par de minutos. ¿Algo más?
+[00:02:22] CLIENTE: No, eso es todo. Excelente atención, gracias.
+[00:02:25] AGENTE: Gracias a ti por contactarnos. Que tengas una linda tarde.
+[00:02:28] CLIENTE: Igualmente. Hasta luego.
+[00:02:30] AGENTE: Hasta luego.
+[00:02:31] SISTEMA: [Llamada finalizada]

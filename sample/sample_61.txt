@@ -1,0 +1,77 @@
+[00:00:00] AGENTE: <LOCATION>. Le atiende Patricia. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola, buenos días. Mi nombre es <PERSON>.
+
+[00:00:08] AGENTE: Buenos días, <PERSON>. Bienvenido a nuestro servicio de atención al cliente. ¿En qué puedo ayudarle hoy?
+
+[00:00:15] CLIENTE: Mire, tengo un problema con mi línea móvil. Hace una semana me mudé a un nuevo apartamento y aquí la señal es muy mala. Apenas puedo hacer llamadas y el internet móvil va extremadamente lento.
+
+[00:00:28] AGENTE: Lamento mucho escuchar eso, <PERSON>. Entiendo lo frustrante que puede ser tener problemas de cobertura. Vamos a revisar su caso para buscar la mejor solución. Para acceder a su cuenta, necesito verificar algunos datos. ¿Me podría proporcionar su número de teléfono móvil?
+
+[00:00:46] CLIENTE: Sí, es el 7-45-892-367.
+
+[00:00:51] AGENTE: Gracias. ¿Y me podría confirmar su número de identificación, por favor?
+
+[00:00:56] CLIENTE: 34-782-196-5.
+
+[00:01:02] AGENTE: Perfecto. Un momento mientras verifico su información.
+
+[00:01:18] AGENTE: Muchas gracias por esperar, <PERSON>. Veo que tiene una línea con nosotros desde hace más de 3 años con el plan Premium 45GB. Antes de continuar, ¿podría confirmarme su nueva dirección para verificar la cobertura en esa zona?
+
+[00:01:35] CLIENTE: Sí, ahora vivo en Avenida del Mar 423, Edificio Costa Azul, Apartamento 8B.
+
+[00:01:43] AGENTE: Gracias por esa información. Voy a revisar nuestro mapa de cobertura para verificar la señal en esa zona. ¿Me permite un momento?
+
+[00:01:52] CLIENTE: Sí, claro.
+
+[00:02:15] AGENTE: <PERSON>, he consultado nuestro mapa de cobertura y veo que efectivamente en esa zona tenemos una señal más débil debido a la configuración de las antenas cercanas. Estamos en proceso de instalar una nueva antena en ese sector que mejoraría significativamente la cobertura, pero esta instalación está prevista para finalizarse en aproximadamente 2 meses.
+
+[00:02:39] CLIENTE: ¿Y qué se supone que debo hacer durante estos 2 meses? Pago una tarifa alta por un servicio que apenas puedo utilizar.
+
+[00:02:47] AGENTE: Entiendo su frustración y tiene toda la razón. Tenemos algunas opciones que podríamos ofrecerle. La primera sería proporcionarle un amplificador de señal sin costo adicional que mejoraría la recepción dentro de su hogar. La segunda opción sería ofrecerle un descuento temporal en su factura mientras se completa la instalación de la nueva antena.
+
+[00:03:11] CLIENTE: ¿Cómo funciona ese amplificador de señal? ¿Realmente mejora la conexión?
+
+[00:03:16] AGENTE: El amplificador de señal es un dispositivo que se conecta a su router de internet y crea una pequeña red celular dentro de su hogar. Funciona recibiendo y amplificando la señal existente, por lo que necesita tener conexión a internet en su domicilio. Las llamadas y mensajes se realizarán a través de esta conexión, mejorando significativamente la calidad de la comunicación dentro de casa.
+
+[00:03:40] CLIENTE: Tengo internet fijo en casa, así que eso podría funcionar. ¿Y tiene algún costo?
+
+[00:03:46] AGENTE: Dado que el problema de cobertura está confirmado en nuestra red y usted es un cliente de larga trayectoria, le ofrecemos el amplificador sin costo de alquiler durante los primeros 6 meses. Después de ese período, si decide mantenerlo, tendría un costo de 1.500 mensuales.
+
+[00:04:05] CLIENTE: Eso suena bien. ¿Y cuánto tardaría en recibirlo?
+
+[00:04:09] AGENTE: Podemos programar la entrega e instalación del amplificador en un plazo de 48 a 72 horas hábiles. Un técnico especializado iría a su domicilio para instalarlo y asegurarse de que funcione correctamente. ¿Le parece bien?
+
+[00:04:24] CLIENTE: Sí, me parece bien. Pero también mencionó algo sobre un descuento.
+
+[00:04:29] AGENTE: Así es. Además del amplificador, aplicaremos un descuento del 30% en su factura durante los próximos 2 meses, hasta que la nueva antena esté operativa. Este descuento se verá reflejado automáticamente en sus próximas facturas.
+
+[00:04:45] CLIENTE: Perfecto. Creo que eso soluciona el problema por ahora.
+
+[00:04:49] AGENTE: Me alegra escuchar eso. Voy a proceder entonces a gestionar el envío del amplificador y a aplicar el descuento en su cuenta. Para programar la instalación, ¿qué días y horarios le vendrían mejor?
+
+[00:05:02] CLIENTE: Estoy en casa la mayor parte del tiempo, pero preferiría por la mañana, cualquier día de la semana.
+
+[00:05:08] AGENTE: Perfecto. Tenemos disponibilidad para este miércoles en el horario de 9:00 a 12:00. ¿Le parece adecuado?
+
+[00:05:16] CLIENTE: Sí, ese horario me viene bien.
+
+[00:05:19] AGENTE: Excelente. He reservado la visita para el miércoles entre las 9:00 y las 12:00. Recibirá un SMS de confirmación con los detalles y el número de orden: AM-67482. El técnico se comunicará aproximadamente 30 minutos antes de llegar.
+
+[00:05:37] CLIENTE: Perfecto. ¿Necesito tener algo preparado para cuando venga el técnico?
+
+[00:05:42] AGENTE: Solo necesitará tener acceso a su router de internet y asegurarse de que está funcionando correctamente. También es recomendable que tenga a mano su documento de identidad para que el técnico pueda verificar su identidad.
+
+[00:05:55] CLIENTE: Entendido. Muchas gracias por su ayuda.
+
+[00:05:58] AGENTE: Ha sido un placer ayudarle, <PERSON>. También he registrado una nota en su cuenta para hacer seguimiento a su caso y asegurarnos de que el amplificador resuelva adecuadamente su problema de cobertura. ¿Hay algo más en lo que pueda asistirle hoy?
+
+[00:06:13] CLIENTE: No, eso es todo por ahora. Gracias.
+
+[00:06:16] AGENTE: Gracias a usted por su paciencia y comprensión. Recuerde que cualquier consulta adicional puede contactarnos nuevamente. Le deseo un excelente día.
+
+[00:06:27] CLIENTE: Igualmente, adiós.
+
+[00:06:29] AGENTE: Hasta pronto.
+
+[00:06:31] SISTEMA: Llamada finalizada.

@@ -1,0 +1,89 @@
+[00:00:00] AGENTE: <LOCATION> Fibra, le atiende Laura. ¿En qué puedo ayudarle?
+
+[00:00:06] CLIENTE: Hola, buen día. Llamo porque estoy interesado en contratar el servicio de internet fibra óptica para mi nueva casa.
+
+[00:00:13] AGENTE: ¡Buenos días! Con gusto le ayudaré con toda la información sobre nuestros servicios de fibra óptica. Para poder ofrecerle las mejores opciones, ¿podría proporcionarme la dirección exacta donde desea instalar el servicio?
+
+[00:00:27] CLIENTE: Sí, es en <LOCATION>, Avenida Principal 1234, Apartamento 502.
+
+[00:00:35] AGENTE: Gracias por la información. Permítame un momento para verificar la cobertura en esa zona.
+
+[00:00:52] AGENTE: ¡Buenas noticias! Su zona cuenta con cobertura de nuestra red de fibra óptica de última generación. Tenemos disponibilidad para instalar el servicio en su domicilio. ¿Sería usted el titular del servicio?
+
+[00:01:06] CLIENTE: Sí, yo seré el titular.
+
+[00:01:08] AGENTE: Perfecto. ¿Me podría proporcionar su nombre completo y número de identificación, por favor?
+
+[00:01:14] CLIENTE: <PERSON>, documento de identidad 12.345.678-9.
+
+[00:01:22] AGENTE: Muchas gracias, <PERSON>. ¿Y podría facilitarme un número de teléfono de contacto y un correo electrónico?
+
+[00:01:30] CLIENTE: Mi teléfono es 9-8765-4321 y mi correo es cliente@correo.com.
+
+[00:01:38] AGENTE: Perfecto. Ahora me gustaría conocer sus necesidades de internet para poder recomendarle el plan más adecuado. ¿Cuántos dispositivos suelen conectarse simultáneamente y qué tipo de uso le da principalmente al internet?
+
+[00:01:53] CLIENTE: Somos una familia de cuatro personas. Yo trabajo desde casa y tengo videollamadas frecuentes, mi esposa también usa internet para trabajar, y tenemos dos hijos adolescentes que juegan online y ven muchas series en streaming. Diría que tenemos alrededor de 12 dispositivos conectados entre computadoras, tablets, celulares, smart TV y consolas de videojuegos.
+
+[00:02:16] AGENTE: Gracias por esa información tan completa. Basado en lo que me comenta, le recomendaría nuestro Plan Fibra 300 que ofrece una velocidad de descarga de 300 Mbps y 150 Mbps de subida. Esta velocidad es ideal para hogares con múltiples dispositivos conectados simultáneamente, videollamadas en alta definición, streaming en 4K y juegos online sin latencia.
+
+[00:02:40] CLIENTE: ¿Y ese plan qué precio tiene?
+
+[00:02:42] AGENTE: El Plan Fibra 300 tiene un valor mensual de $29.990. Sin embargo, tenemos una promoción especial para nuevos clientes: los primeros tres meses a $19.990, y a partir del cuarto mes se aplica la tarifa regular. Además, la instalación es completamente gratuita si contrata hoy, lo que representa un ahorro de $35.000.
+
+[00:03:05] CLIENTE: Suena bien. ¿El router está incluido en el precio?
+
+[00:03:09] AGENTE: Sí, absolutamente. Incluimos un router WiFi 6 de última generación en comodato, sin costo adicional. Este equipo ofrece una excelente cobertura y permite la conexión eficiente de múltiples dispositivos. También tenemos disponible, por un cargo adicional de $5.990 mensuales, un sistema WiFi Mesh que extiende la cobertura en hogares grandes o con múltiples pisos.
+
+[00:03:35] CLIENTE: Interesante. Mi apartamento tiene unos 120 metros cuadrados, ¿cree que necesitaría el sistema Mesh?
+
+[00:03:42] AGENTE: Para un apartamento de 120 metros cuadrados, el router WiFi 6 estándar debería proporcionar buena cobertura en la mayoría de los casos, especialmente si el router puede ubicarse en una posición central. Sin embargo, si hay muchas paredes de concreto o el diseño del apartamento tiene zonas donde la señal no llega bien, el sistema Mesh podría ser beneficioso. Lo que podemos hacer es iniciar con el router estándar y si detecta zonas con señal débil, siempre puede solicitar la actualización al sistema Mesh posteriormente.
+
+[00:04:13] CLIENTE: Me parece razonable empezar con el router estándar. ¿Cuánto tiempo tardarían en hacer la instalación?
+
+[00:04:19] AGENTE: Actualmente tenemos disponibilidad para programar la instalación en los próximos tres días hábiles. Podría ser este jueves o viernes, o el lunes de la próxima semana. ¿Qué día le resultaría más conveniente?
+
+[00:04:32] CLIENTE: El viernes sería perfecto. ¿Pueden darme un horario aproximado?
+
+[00:04:37] AGENTE: Tenemos dos franjas horarias disponibles para el viernes: de 9:00 a 13:00 o de 14:00 a 18:00. ¿Cuál prefiere?
+
+[00:04:46] CLIENTE: Prefiero la franja de la mañana, de 9:00 a 13:00.
+
+[00:04:50] AGENTE: Excelente elección. He reservado su instalación para este viernes en la franja horaria de 9:00 a 13:00. Nuestro técnico se comunicará con usted aproximadamente una hora antes de su llegada para confirmar la visita. ¿Habrá alguien mayor de edad presente durante la instalación?
+
+[00:05:07] CLIENTE: Sí, yo estaré presente todo el día.
+
+[00:05:10] AGENTE: Perfecto. La instalación suele tomar entre 1 y 2 horas, dependiendo de las características del inmueble. ¿El edificio cuenta con alguna restricción de acceso o se requiere autorización previa para el ingreso de técnicos?
+
+[00:05:24] CLIENTE: Sí, hay que anunciarse en portería y necesito autorizar el ingreso. Pero no es problema, yo aviso que ustedes van a ir.
+
+[00:05:32] AGENTE: Gracias por la información. Lo incluiré en las observaciones para el técnico. Ahora, para proceder con la contratación, necesitaría confirmar algunos detalles adicionales. ¿El pago mensual lo realizaría mediante cargo automático a una tarjeta de crédito o prefiere otra modalidad?
+
+[00:05:49] CLIENTE: Prefiero cargo automático a mi tarjeta de crédito.
+
+[00:05:53] AGENTE: Perfecto. En ese caso, la primera factura se generará aproximadamente 10 días después de la instalación, y el cargo a su tarjeta se realizará 5 días después. ¿Está de acuerdo con estas condiciones?
+
+[00:06:05] CLIENTE: Sí, estoy de acuerdo.
+
+[00:06:07] AGENTE: Excelente. Para finalizar el proceso de contratación, necesitaría confirmar los datos de su tarjeta. Por seguridad, le enviaré en este momento un enlace seguro a su correo electrónico donde podrá ingresar esta información de manera confidencial. ¿Ha recibido algún correo de nuestra parte en los últimos minutos?
+
+[00:06:25] CLIENTE: Déjeme verificar... Sí, acabo de recibir un correo de <LOCATION> Fibra.
+
+[00:06:31] AGENTE: Perfecto. Por favor, siga las instrucciones del correo para ingresar los datos de su tarjeta. Una vez completado este paso, recibirá un contrato digital que deberá firmar electrónicamente. ¿Necesita que le guíe durante este proceso?
+
+[00:06:46] CLIENTE: No es necesario, creo que puedo hacerlo solo. ¿Hay algo más que deba saber sobre la instalación?
+
+[00:06:52] AGENTE: Solo recordarle que para la instalación es importante que tenga disponible un enchufe cercano al lugar donde desea ubicar el router, y que idealmente este lugar sea central en su hogar para mejor distribución de la señal WiFi. El técnico también necesitará acceso a la caja de conexiones del edificio, así que sería útil si pudiera consultar previamente con el administrador dónde se encuentra esta caja.
+
+[00:07:17] CLIENTE: Entendido, consultaré eso con la administración del edificio.
+
+[00:07:21] AGENTE: Perfecto. Una vez completado el proceso de contratación online, recibirá un correo de confirmación con todos los detalles de su plan y la cita de instalación. También recibirá un SMS recordatorio el día anterior a la instalación. ¿Tiene alguna otra pregunta o inquietud?
+
+[00:07:39] CLIENTE: No, creo que eso sería todo por ahora. Muchas gracias por la información.
+
+[00:07:44] AGENTE: Ha sido un placer atenderle, <PERSON>. Le agradecemos por elegir <LOCATION> Fibra para su servicio de internet. Si surge cualquier duda adicional, no dude en contactarnos al número que aparece en el correo electrónico. ¡Que tenga un excelente día!
+
+[00:08:00] CLIENTE: Gracias, igualmente.
+
+[00:08:02] AGENTE: Adiós.
+
+[00:08:03] SISTEMA: Llamada finalizada.

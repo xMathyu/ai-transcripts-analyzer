@@ -1,0 +1,83 @@
+[00:00:00] AGENTE: <LOCATION>FibraTel. Le atiende Carlos. ¿En qué puedo ayudarle?
+
+[00:00:05] CLIENTE: Hola, buenas tardes. Tengo un problema con mi internet, está muy lento desde ayer.
+
+[00:00:10] AGENTE: Buenas tardes. Lamento escuchar que está experimentando problemas con su servicio. Para poder ayudarle, ¿me podría facilitar su número de cliente?
+
+[00:00:18] CLIENTE: Sí, es el 63-294-875-1.
+
+[00:00:24] AGENTE: Gracias. ¿Me confirma su nombre completo, por favor?
+
+[00:00:27] CLIENTE: <PERSON>.
+
+[00:00:29] AGENTE: Y por motivos de seguridad, ¿me podría indicar los últimos cuatro dígitos de su DNI?
+
+[00:00:34] CLIENTE: 7432.
+
+[00:00:36] AGENTE: Perfecto, muchas gracias. Un momento mientras accedo a su cuenta.
+
+[00:00:52] AGENTE: <PERSON>, veo que tiene contratado nuestro plan de Fibra 300MB. ¿Me podría describir exactamente qué problemas está experimentando?
+
+[00:01:01] CLIENTE: Pues mire, desde ayer por la tarde el internet va muy lento. Normalmente puedo ver videos y hacer videollamadas sin problema, pero ahora se corta todo el tiempo y las páginas tardan mucho en cargar.
+
+[00:01:14] AGENTE: Entiendo. ¿Ha notado si este problema ocurre en todos los dispositivos o solo en alguno en particular?
+
+[00:01:20] CLIENTE: Lo he probado en mi laptop, en el móvil y en la smart TV, y en todos va igual de mal.
+
+[00:01:26] AGENTE: Gracias por esa información. ¿Ha intentado reiniciar el router?
+
+[00:01:30] CLIENTE: Sí, lo he reiniciado varias veces y sigue igual.
+
+[00:01:34] AGENTE: Comprendo. Vamos a realizar algunas verificaciones desde aquí. Voy a comprobar el estado de la conexión en su zona y realizar un diagnóstico remoto de su router. ¿Me permite un momento?
+
+[00:01:44] CLIENTE: Sí, claro.
+
+[00:02:15] AGENTE: <PERSON>, he verificado y efectivamente detecto que hay una velocidad reducida en su conexión. Veo en nuestro sistema que hay una incidencia técnica registrada en su zona desde ayer a las 18:30 horas. Varios clientes están reportando problemas similares.
+
+[00:02:31] CLIENTE: Ah, entonces no es un problema de mi router ni nada que yo haya hecho.
+
+[00:02:35] AGENTE: No, en absoluto. Se trata de una incidencia en uno de nuestros nodos de conexión que afecta a su zona. Nuestro equipo técnico ya está trabajando para solucionarlo lo antes posible.
+
+[00:02:47] CLIENTE: ¿Y cuándo estará solucionado? Necesito el internet para trabajar.
+
+[00:02:51] AGENTE: Comprendo perfectamente su preocupación. Según la información que tengo, el tiempo estimado de resolución es de 24 a 48 horas desde que se detectó el problema. Considerando que comenzó ayer a las 18:30, esperamos que esté resuelto mañana a esa misma hora, aunque nuestros técnicos están haciendo todo lo posible por reducir ese tiempo.
+
+[00:03:12] CLIENTE: ¿Tanto tiempo? Es demasiado, no puedo estar dos días sin internet de calidad.
+
+[00:03:18] AGENTE: Entiendo su frustración. Para estos casos, ofrecemos una solución temporal. Podemos activarle datos móviles ilimitados sin costo adicional en hasta dos líneas móviles que tenga con nosotros hasta que se resuelva la incidencia. ¿Cuenta con alguna línea móvil en FibraTel?
+
+[00:03:36] CLIENTE: Sí, tengo dos líneas con ustedes.
+
+[00:03:38] AGENTE: Perfecto. Si me proporciona los números, puedo activar los datos ilimitados en ambas líneas de inmediato.
+
+[00:03:44] CLIENTE: Son el 645-823-991 y el 645-823-992.
+
+[00:03:51] AGENTE: Gracias. Voy a proceder con la activación. Un momento, por favor.
+
+[00:04:12] AGENTE: <PERSON>, he activado los datos ilimitados en ambas líneas. La activación es efectiva de inmediato y permanecerá hasta 48 horas después de que se resuelva la incidencia. Además, como compensación por las molestias ocasionadas, le voy a aplicar un descuento del 50% en su próxima factura.
+
+[00:04:31] CLIENTE: Bueno, al menos así podré trabajar usando el móvil como punto de acceso. Gracias por el descuento, me parece justo.
+
+[00:04:38] AGENTE: No hay de qué. Lamentamos mucho las molestias. ¿Le gustaría recibir un SMS cuando la incidencia haya sido resuelta?
+
+[00:04:45] CLIENTE: Sí, por favor.
+
+[00:04:47] AGENTE: Perfecto, he configurado el sistema para que reciba una notificación automática. También puede consultar el estado de la incidencia a través de nuestra aplicación móvil o en la sección "Estado del Servicio" en nuestra página web.
+
+[00:04:59] CLIENTE: De acuerdo. ¿Hay algo más que deba saber?
+
+[00:05:03] AGENTE: Solo quisiera confirmar si ya puede utilizar los datos ilimitados en sus dispositivos móviles. ¿Podría verificarlo?
+
+[00:05:10] CLIENTE: Déjeme ver... sí, parece que ya está funcionando. Tengo todas las barras de cobertura 4G.
+
+[00:05:17] AGENTE: Excelente. Si encuentra algún otro problema o necesita asistencia adicional, no dude en contactarnos nuevamente. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:05:26] CLIENTE: No, con esto es suficiente. Gracias por su ayuda.
+
+[00:05:30] AGENTE: Gracias a usted por su paciencia y comprensión. Le pido disculpas nuevamente por las molestias causadas. Ha sido un placer atenderle. Que tenga un buen día.
+
+[00:05:40] CLIENTE: Igualmente, adiós.
+
+[00:05:42] AGENTE: Adiós.
+
+[00:05:43] [FIN DE LA LLAMADA]

@@ -1,0 +1,71 @@
+[00:00:00] AGENTE: <LOCATION>OptiNet. Le atiende Marta. ¿En qué puedo ayudarle?
+
+[00:00:06] CLIENTE: Hola, buenos días. Les llamo porque desde ayer por la noche no tengo internet ni teléfono fijo en casa. He reiniciado el router varias veces pero sigue sin funcionar.
+
+[00:00:17] AGENTE: Buenos días. Lamento que esté experimentando problemas con su servicio. Vamos a revisarlo de inmediato. ¿Podría facilitarme su número de cliente o DNI para acceder a su cuenta?
+
+[00:00:29] CLIENTE: Mi número de cliente es ON-583921.
+
+[00:00:35] AGENTE: Gracias. ¿Y su nombre completo, por favor?
+
+[00:00:38] CLIENTE: <PERSON>.
+
+[00:00:40] AGENTE: Perfecto, <PERSON>. Un momento mientras accedo a su información... 
+
+[00:00:57] AGENTE: <PERSON>, veo que tiene contratado nuestro servicio de Fibra 300MB con telefonía fija en la dirección Avenida Principal 156, 3ºB, ¿es correcto?
+
+[00:01:07] CLIENTE: Sí, esa es mi dirección.
+
+[00:01:09] AGENTE: Gracias por confirmar. Antes de revisar la incidencia en nuestro sistema, ¿podría decirme si las luces de su router están encendidas y qué colores muestran?
+
+[00:01:20] CLIENTE: El router tiene la luz de encendido en verde, pero la luz de internet está en rojo fijo. Las demás luces están apagadas.
+
+[00:01:28] AGENTE: Gracias por esa información. Voy a revisar el estado de la red en su zona para ver si hay alguna incidencia registrada. Un momento, por favor.
+
+[00:01:52] AGENTE: <PERSON>, después de revisar nuestro sistema, confirmo que efectivamente hay una avería masiva en su zona que está afectando a varios clientes. El problema se originó ayer a las 22:15 horas aproximadamente, debido a un corte de fibra óptica durante unas obras municipales en una calle cercana a su domicilio.
+
+[00:02:12] CLIENTE: ¿Y cuánto tiempo va a durar la reparación? Necesito internet para trabajar desde casa.
+
+[00:02:17] AGENTE: Entiendo perfectamente su preocupación. Nuestros técnicos ya están trabajando en la zona desde primera hora de esta mañana. Según la información actualizada que tengo, estiman que la reparación estará completada hoy mismo, con un tiempo aproximado de resolución entre las 16:00 y las 18:00 horas.
+
+[00:02:35] CLIENTE: Es bastante tiempo sin servicio... ¿no pueden agilizarlo? Como le digo, lo necesito para trabajar.
+
+[00:02:41] AGENTE: Comprendo su situación. Le aseguro que nuestros equipos están trabajando a máxima prioridad en esta incidencia. El problema es que la avería requiere fusionar nuevamente cables de fibra óptica que fueron seccionados, lo que es un trabajo técnico minucioso que no se puede acelerar sin comprometer la calidad de la reparación.
+
+[00:03:00] CLIENTE: Entiendo. ¿Y qué opciones tengo mientras tanto? ¿Ofrecen alguna alternativa?
+
+[00:03:05] AGENTE: Sí, en estos casos disponemos de varias alternativas. Para clientes como usted que necesitan el servicio para teletrabajo, podemos ofrecer:
+
+[00:03:14] AGENTE: Primera opción: activar datos ilimitados en su línea móvil OptiNet, si la tiene con nosotros, para que pueda usar el teléfono como punto de acceso sin cargos adicionales.
+
+[00:03:24] AGENTE: Segunda opción: proporcionarle acceso a nuestra red de hotspots WiFi premium ubicados en diferentes puntos de la ciudad.
+
+[00:03:32] AGENTE: Tercera opción: si la interrupción supera las 24 horas, podemos enviarle un router 4G de emergencia a su domicilio sin coste.
+
+[00:03:41] CLIENTE: Tengo una línea móvil con ustedes, así que la primera opción me vendría bien. ¿Puede activarme los datos ilimitados?
+
+[00:03:48] AGENTE: Por supuesto. Veo que su línea móvil asociada es el 687-543-210. Voy a proceder a activar los datos ilimitados en este número. La activación será efectiva en aproximadamente 5-10 minutos y permanecerá activa hasta 24 horas después de que se resuelva la incidencia. ¿Le parece bien?
+
+[00:04:07] CLIENTE: Sí, perfecto. ¿Esto tiene algún coste adicional?
+
+[00:04:11] AGENTE: No, es totalmente gratuito. Es una medida compensatoria por las molestias ocasionadas por la interrupción del servicio. Además, como la avería ha superado las 12 horas, aplicaremos automáticamente en su próxima factura la compensación que establece la normativa de telecomunicaciones, que corresponde a la parte proporcional de la cuota mensual por los días sin servicio.
+
+[00:04:32] CLIENTE: Bien, al menos es una compensación. ¿Cómo puedo saber cuándo se ha resuelto la avería?
+
+[00:04:38] AGENTE: Puedo configurar nuestro sistema para que reciba una notificación por SMS cuando la avería haya sido resuelta. También puede consultar el estado de la incidencia en tiempo real a través de nuestra aplicación móvil o página web, en la sección "Estado del Servicio". ¿Le gustaría recibir la notificación por SMS?
+
+[00:04:56] CLIENTE: Sí, por favor.
+
+[00:04:58] AGENTE: Perfecto. He configurado el sistema para que reciba una notificación automática en cuanto el servicio se restablezca. También recibirá un SMS con la confirmación de la activación de los datos ilimitados en su línea móvil en los próximos minutos.
+
+[00:05:12] CLIENTE: Gracias. Una pregunta más, ¿qué debo hacer cuando se resuelva la avería? ¿Tendré que reiniciar el router?
+
+[00:05:19] AGENTE: Sí, le recomendaría que reinicie el router una vez reciba la notificación de que la avería ha sido resuelta. Desconéctelo de la corriente durante al menos 30 segundos y luego vuelva a conectarlo. Si tras este reinicio no recupera el servicio en unos 5 minutos, le sugiero que nos vuelva a contactar para realizar comprobaciones adicionales específicas para su línea.
+
+[00:05:40] CLIENTE: Entendido. Espero que cumplan con el plazo estimado de reparación.
+
+[00:05:45] AGENTE: Comprendo su preocupación. Le aseguro que nuestros técnicos están plenamente dedicados a resolver esta incidencia lo antes posible, y la estimación que le he dado es conservadora. Si hubiera algún cambio en el tiempo de resolución, ya sea para adelantarlo o retrasarlo, recibiría un SMS informándole de inmediato. ¿Hay algo más en lo que pueda ayudarle?
+
+[00:06:05] CLIENTE: No, creo que con esto es suficiente por ahora. Si tuviera algún problema con los datos móviles, les volvería a llamar.
+
+[00:06:12] AGENTE: Perfecto. Los datos ilimitados se activarán en breve. Si experimenta cualquier problema con esta solución temporal o necesita asistencia adi

@@ -1,0 +1,28 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Javier de Atención al Cliente. ¿En qué puedo ayudarle?
+[00:00:04] CLIENTE: Hola, buenas tardes. Mi nombre es Teresa Vargas. Llamo porque quiero hacer el cambio de mi plan actual, ya que estoy pagando mucho y no estoy utilizando todos los beneficios.
+[00:00:13] AGENTE: Entiendo, Teresa. Con gusto te ayudo a revisar las opciones disponibles. ¿Podrías brindarme tu número de cliente o RUT, por favor?
+[00:00:19] CLIENTE: Claro, es 16-458-912-6.
+[00:00:22] AGENTE: Muchas gracias. ¿Podrías también confirmarme tu dirección registrada?
+[00:00:25] CLIENTE: Avenida San Martín 845, edificio A, departamento 702.
+[00:00:29] AGENTE: Perfecto, ya tengo acceso a tu cuenta. Veo que actualmente estás con el plan UltraMax, que incluye 200 GB de datos, llamadas ilimitadas y 3 líneas adicionales. ¿Es correcto?
+[00:00:39] CLIENTE: Sí, ese mismo. Pero en realidad solo uso una línea y los datos apenas llegan a 60 GB al mes. Me parece que estoy pagando de más.
+[00:00:47] AGENTE: Comprendo. En ese caso, podemos ofrecerte un plan más ajustado, por ejemplo el plan SmartPlus, que incluye 100 GB de datos, llamadas ilimitadas y una línea principal, por un costo mensual de 30% menos que el actual.
+[00:01:00] CLIENTE: ¿Ese plan tiene permanencia mínima?
+[00:01:03] AGENTE: No, ese plan no tiene permanencia. Puedes cancelarlo o cambiarlo en cualquier momento sin penalidad.
+[00:01:09] CLIENTE: Perfecto, me interesa. ¿Cuándo se haría efectivo el cambio?
+[00:01:13] AGENTE: Si deseas, puedo hacer el cambio ahora mismo y se reflejará desde el primer día del próximo ciclo de facturación, que en tu caso inicia el 5 de abril.
+[00:01:21] CLIENTE: Ya, hagámoslo entonces. ¿Puedes enviarme una confirmación por correo?
+[00:01:25] AGENTE: Por supuesto. ¿Quieres que lo enviemos al mismo correo registrado: tvargas85@email.com?
+[00:01:30] CLIENTE: Sí, ese está bien.
+[00:01:32] AGENTE: Perfecto. El cambio ya fue procesado y recibirás el correo de confirmación en los próximos minutos. A partir del 5 de abril, tu factura reflejará el nuevo monto.
+[00:01:42] CLIENTE: Excelente, gracias por la gestión.
+[00:01:45] AGENTE: ¿Hay algo más en lo que pueda ayudarte, Teresa?
+[00:01:48] CLIENTE: Sí, una última consulta. ¿Puedo compartir datos con otro número?
+[00:01:52] AGENTE: Sí, con el nuevo plan puedes habilitar la opción de compartir datos desde tu app MiTeleco o marcando *888#. El servicio es gratuito y puedes administrar los límites que asignas a otros números.
+[00:02:04] CLIENTE: Perfecto. Voy a intentarlo esta noche.
+[00:02:07] AGENTE: Cualquier cosa, puedes contactarnos por esta vía o por el chat en línea.
+[00:02:11] CLIENTE: Muy bien. Muchas gracias, Javier. Muy clara toda la información.
+[00:02:15] AGENTE: Gracias a ti, Teresa, por confiar en nosotros. Que tengas una excelente tarde.
+[00:02:19] CLIENTE: Igualmente. Hasta luego.
+[00:02:21] AGENTE: Hasta luego.
+[00:02:22] SISTEMA: [Llamada finalizada]

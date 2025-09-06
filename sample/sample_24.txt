@@ -1,0 +1,24 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Brenda del área de atención a empresas. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Luis Ramírez. Soy administrador de una oficina y quiero consultar por un servicio de internet empresarial. Estamos teniendo problemas con la velocidad actual y necesitamos una solución más estable.
+[00:00:16] AGENTE: Claro que sí, Luis. Estaré encantada de ayudarte. ¿Me podrías indicar en qué dirección se encuentra la oficina para verificar cobertura?
+[00:00:22] CLIENTE: Estamos en Avenida República 150, piso 6, San Isidro.
+[00:00:26] AGENTE: Gracias. Un momento mientras reviso en el sistema...
+[00:00:39] AGENTE: Excelente, contamos con cobertura para fibra óptica empresarial en esa dirección. Podemos ofrecerte un plan dedicado de 300 Mbps simétrico con IP fija, ideal para oficinas con alto tráfico y teletrabajo.
+[00:00:51] CLIENTE: ¿Ese plan permite hacer videollamadas simultáneas sin interrupciones? Tenemos unos 15 colaboradores conectados todo el día.
+[00:00:58] AGENTE: Sí, está diseñado para ese tipo de actividad. Además, incluye soporte técnico prioritario 24/7 y monitoreo de red. ¿Qué tipo de conexión usan actualmente?
+[00:01:06] CLIENTE: Tenemos un servicio residencial que no ha sido suficiente. Ya hemos tenido reuniones interrumpidas por caídas de conexión.
+[00:01:13] AGENTE: Lo entiendo. El servicio empresarial garantiza mayor estabilidad y velocidad. El costo mensual es de 349 soles, incluye instalación gratuita y contrato mínimo de 12 meses.
+[00:01:25] CLIENTE: ¿Podemos facturarlo a nombre de la empresa y con RUC?
+[00:01:28] AGENTE: Por supuesto. Solo necesitaría razón social, número de RUC y un correo para enviar el contrato.
+[00:01:33] CLIENTE: Listo. La empresa es Consultora Nova SAC, RUC 20547893210, correo: administracion@nova.pe.
+[00:01:41] AGENTE: Perfecto. El contrato digital será enviado en los próximos minutos. Podemos agendar la instalación para esta misma semana. ¿Qué día les conviene más?
+[00:01:49] CLIENTE: El viernes por la mañana, si es posible.
+[00:01:52] AGENTE: Tenemos disponibilidad entre 9:00 a.m. y 1:00 p.m. Agendo la cita para entonces. El técnico se comunicará 30 minutos antes de llegar.
+[00:02:00] CLIENTE: Excelente. ¿Algún número donde pueda hacer seguimiento del servicio empresarial?
+[00:02:04] AGENTE: Sí, tenemos una línea directa exclusiva: 0800-888-EMP. También pueden escribirnos al correo soporteempresas@telecom.pe.
+[00:02:12] CLIENTE: Perfecto, Brenda. Muchas gracias por tu ayuda.
+[00:02:15] AGENTE: Gracias a ti, Luis. Bienvenido al servicio empresarial. ¿Hay algo más en lo que pueda asistirte?
+[00:02:20] CLIENTE: No, todo claro por ahora.
+[00:02:22] AGENTE: Que tengas una excelente tarde. Hasta luego.
+[00:02:24] CLIENTE: Hasta luego.
+[00:02:25] SISTEMA: [Llamada finalizada]

@@ -1,0 +1,71 @@
+[00:00:00] AGENTE: <LOCATION> Servicios Integrados. Le atiende Sebastián. ¿En qué puedo ayudarle?
+
+[00:00:07] CLIENTE: Hola, buenas noches. Estoy llamando porque desde hace aproximadamente una hora no tengo servicio de internet ni televisión.
+
+[00:00:15] AGENTE: Lamento escuchar eso. Con gusto le ayudaré a verificar qué está sucediendo. ¿Me podría proporcionar su número de cliente o el número de línea asociado a su servicio?
+
+[00:00:26] CLIENTE: Sí, mi número de cliente es 5674-3298-1054.
+
+[00:00:35] AGENTE: Gracias. Y para confirmar que estoy hablando con el titular de la cuenta, ¿me podría indicar su nombre completo?
+
+[00:00:42] CLIENTE: <PERSON>.
+
+[00:00:45] AGENTE: Muchas gracias, <PERSON>. Por favor, permítame un momento mientras verifico su información y el estado de su servicio.
+
+[00:01:08] AGENTE: <PERSON>, he revisado su cuenta y actualmente tenemos reportada una falla masiva en la zona donde usted se encuentra. Hemos detectado un corte de fibra óptica principal que afecta a varios sectores, incluyendo su localidad en <LOCATION>.
+
+[00:01:23] CLIENTE: Ah, entiendo. ¿Y tienen alguna estimación de cuándo se solucionará?
+
+[00:01:28] AGENTE: Nuestros técnicos ya están trabajando en el terreno para solucionar el problema. Según el reporte que tengo en sistema, la estimación inicial para la restauración del servicio es de aproximadamente 3 a 4 horas. El inconveniente se originó debido a trabajos de construcción de un tercero que dañaron accidentalmente nuestra infraestructura de fibra.
+
+[00:01:48] CLIENTE: Vaya, eso es bastante tiempo. Tengo una videoconferencia importante en dos horas. ¿No hay alguna forma de restablecer el servicio antes?
+
+[00:01:57] AGENTE: Comprendo su preocupación. Lamentablemente, al tratarse de un corte físico en la fibra óptica troncal, no es posible una solución remota o temporal. Los técnicos están trabajando lo más rápido posible, pero la reparación requiere un trabajo minucioso de fusión de fibra óptica.
+
+[00:02:14] CLIENTE: Entiendo. ¿Y qué opciones tengo mientras tanto? Realmente necesito conexión para esa videoconferencia.
+
+[00:02:21] AGENTE: Le puedo ofrecer dos alternativas. Primero, como compensación por la interrupción, podemos activar temporalmente y sin costo adicional un paquete de datos móviles de emergencia de 10GB en su línea móvil, si tiene contratado ese servicio con nosotros. Esto le permitiría usar su teléfono como punto de acceso para conectar su computadora.
+
+[00:02:41] CLIENTE: Sí, tengo mi línea móvil también con ustedes.
+
+[00:02:44] AGENTE: Perfecto. En ese caso, puedo proceder a activar el paquete de emergencia. ¿Me confirma su número móvil, por favor?
+
+[00:02:52] CLIENTE: Es el 9-8765-4321.
+
+[00:02:57] AGENTE: Gracias. La segunda alternativa es que puede acceder sin costo a cualquiera de nuestros puntos WiFi premium ubicados en distintos lugares de la ciudad. Tenemos uno en el centro comercial <LOCATION> Plaza y otro en el café <LOCATION> sobre la avenida principal, ambos relativamente cerca de su domicilio.
+
+[00:03:17] CLIENTE: Creo que usaré la opción del paquete de datos móviles. Me viene mejor quedarme en casa.
+
+[00:03:23] AGENTE: Excelente. Estoy procesando la activación del paquete de emergencia en este momento.
+
+[00:03:41] AGENTE: Listo, <PERSON>. He activado un paquete de 10GB con vigencia de 24 horas en su línea móvil. La activación es inmediata y ya puede comenzar a utilizarlo. Para configurar su teléfono como punto de acceso, debe ir a Configuración, luego a Conexiones o Redes, y activar la opción "Zona WiFi portátil" o "Compartir Internet", dependiendo de su dispositivo.
+
+[00:04:04] CLIENTE: Perfecto, muchas gracias. ¿Y qué pasa con el tiempo que estaré sin servicio? ¿Habrá algún tipo de compensación en mi factura?
+
+[00:04:13] AGENTE: Por supuesto. Según nuestra política de compensaciones, cuando un servicio se interrumpe por más de 2 horas debido a causas atribuibles a la compañía, realizamos un ajuste proporcional en su próxima factura. Este ajuste se calcula automáticamente en base al tiempo total de la interrupción, desde que se reportó la falla hasta su solución.
+
+[00:04:33] CLIENTE: ¿Y tendré que llamar nuevamente para solicitar esa compensación?
+
+[00:04:37] AGENTE: No es necesario. El sistema registra automáticamente la duración de la falla y aplica la compensación correspondiente. En su próxima factura verá un concepto que dice "Ajuste por interrupción de servicio" con el monto descontado. También recibirá una notificación por correo electrónico una vez que el servicio haya sido restablecido, con los detalles de la compensación.
+
+[00:04:57] CLIENTE: Entendido. Y una última pregunta, ¿hay alguna forma de recibir actualizaciones sobre el avance de la reparación?
+
+[00:05:05] AGENTE: Claro que sí. Puedo registrar su solicitud para recibir notificaciones por SMS sobre el estado de la reparación. Recibirá mensajes cuando haya novedades significativas y cuando el servicio sea restablecido. Además, puede consultar el estado en tiempo real a través de nuestra aplicación móvil o sitio web, en la sección "Estado del Servicio".
+
+[00:05:25] CLIENTE: Perfecto, me gustaría recibir esas notificaciones por SMS.
+
+[00:05:29] AGENTE: Con gusto. He configurado el sistema para que reciba actualizaciones vía SMS sobre el progreso de la reparación. ¿Hay algo más en lo que pueda ayudarle?
+
+[00:05:38] CLIENTE: No, creo que eso sería todo. Espero que puedan resolverlo pronto.
+
+[00:05:43] AGENTE: Comprendo su preocupación. Nuestros técnicos están trabajando con la máxima prioridad para restablecer el servicio lo antes posible. Le agradecemos su paciencia y comprensión ante esta situación. Si surge cualquier inconveniente adicional o tiene alguna otra pregunta, no dude en contactarnos nuevamente.
+
+[00:06:00] CLIENTE: Gracias por su ayuda, Sebastián.
+
+[00:06:03] AGENTE: Ha sido un placer atenderle, <PERSON>. Le deseo éxito en su videoconferencia y que tenga una excelente noche.
+
+[00:06:11] CLIENTE: Igualmente, buenas noches.
+
+[00:06:13] AGENTE: Buenas noches. Gracias por comunicarse con <LOCATION> Servicios Integrados.
+
+[00:06:17] SISTEMA: Llamada finalizada.

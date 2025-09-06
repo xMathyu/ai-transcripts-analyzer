@@ -1,0 +1,27 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Camila, gracias por llamar. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buen día. Mi nombre es <PERSON>, llamo por un problema con el servicio de internet.
+[00:00:09] AGENTE: Mucho gusto <PERSON>. Espero te encuentres bien. Cuéntame, ¿en qué te puedo ayudar exactamente?
+[00:00:14] CLIENTE: Desde anoche no tengo conexión en casa. Ya reinicié el módem varias veces y no pasa nada.
+[00:00:21] AGENTE: Comprendo. Vamos a ayudarte con eso. ¿Podrías confirmarme tu número de cliente o RUT, por favor?
+[00:00:26] CLIENTE: Sí, claro. Es 18-346-789-2.
+[00:00:29] AGENTE: Perfecto, muchas gracias. ¿Me puedes indicar también tu dirección registrada?
+[00:00:33] CLIENTE: Es Avenida Los Alerces 2543, departamento 701.
+[00:00:37] AGENTE: Muy bien, un momento por favor mientras verifico en el sistema...  
+[00:00:45] AGENTE: Gracias por esperar. Efectivamente, vemos que hay una incidencia reportada en tu zona desde anoche a las 23:15.
+[00:00:52] CLIENTE: ¿Ah, sí? ¿Y cuánto se supone que tomará arreglarlo?
+[00:00:55] AGENTE: Según el área técnica, la reposición del servicio está estimada para hoy a las 13:00 horas.
+[00:01:01] CLIENTE: Pucha, es que trabajo remoto y hoy tengo varias reuniones importantes.
+[00:01:05] AGENTE: Lo entiendo perfectamente. Como solución temporal, ¿te interesaría que activemos un bono de datos móviles gratis por 24 horas?
+[00:01:12] CLIENTE: ¡Sí! Eso sería genial.
+[00:01:14] AGENTE: ¿Podrías confirmarme tu número de celular asociado?
+[00:01:17] CLIENTE: Claro, es el +56981234567.
+[00:01:21] AGENTE: Gracias. En este momento estaré solicitando la activación del bono...  
+[00:01:30] AGENTE: Listo. El bono ya fue activado. Deberías recibir un SMS confirmando en los próximos minutos.
+[00:01:35] CLIENTE: Muchas gracias. ¿Y no se me cobrará nada por eso, verdad?
+[00:01:38] AGENTE: No, el bono es completamente gratuito por la interrupción del servicio. Lo verás reflejado en tu próxima boleta con costo cero.
+[00:01:46] CLIENTE: Excelente, muchas gracias de verdad.
+[00:01:49] AGENTE: Un gusto ayudarte, <PERSON>. ¿Hay algo más en lo que te pueda asistir hoy?
+[00:01:53] CLIENTE: No, con eso estoy bien. Muchas gracias por la atención.
+[00:01:56] AGENTE: Con gusto. Que tengas un buen día y cualquier cosa, estamos para ayudarte. Gracias por llamar a <LOCATION>.  
+[00:02:01] CLIENTE: Chau, gracias.
+[00:02:03] AGENTE: Chau, chau.

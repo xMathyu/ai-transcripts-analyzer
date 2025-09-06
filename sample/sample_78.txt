@@ -1,0 +1,30 @@
+[00:00:00] AGENTE: <LOCATION>. Muy buenos días, le saluda Valentina. ¿Con quién tengo el gusto de hablar?
+[00:00:04] CLIENTE: Hola Valentina, te habla Tomás Herrera. Llamo porque tengo una duda sobre la devolución de un producto que compré hace dos semanas.
+[00:00:10] AGENTE: Hola Tomás, gracias por comunicarte con <LOCATION>. Con gusto te ayudo. ¿Me puedes indicar el número de orden, por favor?
+[00:00:15] CLIENTE: Claro, es el 44592387.
+[00:00:18] AGENTE: Perfecto. Deme un momento mientras reviso... Ya lo tengo. Veo que compraste una aspiradora inalámbrica, ¿correcto?
+[00:00:24] CLIENTE: Sí, esa misma. El problema es que no funciona bien, pierde carga muy rápido. Entonces quiero ver cómo hago para devolverla.
+[00:00:31] AGENTE: Entiendo. Lo siento mucho por el inconveniente. Según nuestras políticas, tienes hasta 30 días desde la recepción para solicitar la devolución o cambio. ¿La aspiradora está con todos sus accesorios y en buen estado?
+[00:00:42] CLIENTE: Sí, está completa y sin daños. La usé dos veces no más.
+[00:00:46] AGENTE: Perfecto. Entonces podemos gestionar la devolución. ¿Prefieres reembolso o cambio por otro producto?
+[00:00:51] CLIENTE: Reembolso, por favor.
+[00:00:53] AGENTE: Entendido. El reembolso se hará al mismo medio de pago original una vez que recibamos el producto y verifiquemos su estado. ¿Te parece bien?
+[00:01:01] CLIENTE: Sí, todo bien con eso. ¿Cómo hago para enviarlo?
+[00:01:04] AGENTE: Podemos agendar un retiro en tu domicilio o, si prefieres, puedes dejarlo en uno de nuestros puntos de devolución. ¿Qué opción prefieres?
+[00:01:11] CLIENTE: Retiro en domicilio, por favor. Estoy en Ñuñoa, Santiago.
+[00:01:15] AGENTE: Perfecto. ¿Puedes confirmar tu dirección completa?
+[00:01:18] CLIENTE: Calle Hamburgo 2181, departamento 304.
+[00:01:22] AGENTE: Gracias. ¿Estás disponible mañana en la mañana o prefieres el viernes en la tarde?
+[00:01:26] CLIENTE: Mañana en la mañana está bien.
+[00:01:28] AGENTE: Entonces agendé el retiro para mañana entre las 9:00 y 13:00 hrs. El repartidor llevará una etiqueta de devolución. Solo asegúrate de embalar bien el producto.
+[00:01:36] CLIENTE: De acuerdo. ¿Me llega algún comprobante?
+[00:01:38] AGENTE: Sí, en unos minutos recibirás un correo con el número de seguimiento y detalles del retiro. Además, te enviaremos una notificación cuando el producto llegue a nuestro centro.
+[00:01:46] CLIENTE: Perfecto. ¿Y el reembolso cuánto se demora?
+[00:01:49] AGENTE: Una vez recibido el producto, el reembolso tarda entre 5 y 7 días hábiles en verse reflejado en tu cuenta.
+[00:01:56] CLIENTE: Súper claro. Muchas gracias, Valentina.
+[00:01:58] AGENTE: A ti por comunicarte con <LOCATION>, Tomás. ¿Hay algo más en lo que te pueda ayudar hoy?
+[00:02:03] CLIENTE: No, eso sería todo. Muy amable.
+[00:02:06] AGENTE: Que tengas un excelente día. ¡Éxito con todo!
+[00:02:09] CLIENTE: Igualmente. Chau chau.
+[00:02:11] AGENTE: Chau.
+[00:02:13] *** LLAMADA FINALIZADA ***

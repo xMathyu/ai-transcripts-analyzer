@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Sergio Ruiz de <LOCATION>. ¿En qué puedo asistirte hoy?
+[00:00:04] CLIENTE: Buenas tardes, Sergio. Mi nombre es Laura Fernández y estoy llamando porque hace cuatro días realicé un pedido online y el producto no ha llegado. Quiero una solución inmediata. Esto es inaceptable.
+[00:00:14] AGENTE: Lamento mucho los inconvenientes, Sra. Fernández. Entiendo lo frustrante que debe ser no recibir su pedido a tiempo. Voy a revisar su caso de inmediato. ¿Podría proporcionarme su número de pedido o correo electrónico asociado, por favor?
+[00:00:23] CLIENTE: Claro, mi número de pedido es 348795622 y mi correo es laura.fernandez@email.com.
+[00:00:27] AGENTE: Gracias, Sra. Fernández. Un momento mientras reviso el estado de su pedido… Ya tengo la información. Veo que el pedido fue realizado correctamente el 10 de julio, con entrega estimada para el 13 de julio. Permítame investigar la razón de este retraso.
+[00:00:39] CLIENTE: No puede ser. A mí me dijeron que el producto llegaba antes del fin de semana. Ahora es lunes y sigo esperando, ¿qué está pasando con mi pedido?
+[00:00:47] AGENTE: Sra. Fernández, lamento profundamente este inconveniente. He revisado los registros y veo que el pedido fue **procesado correctamente**, pero hubo un problema con el sistema de logística que ha generado este retraso en la entrega. El paquete ya ha sido enviado y se encuentra en tránsito, pero aún no ha sido entregado. Permítame asegurarme de que su pedido llegue a su domicilio lo más pronto posible.
+[00:01:08] CLIENTE: ¡Esto es ridículo! No quiero excusas, quiero que me entreguen el producto hoy mismo. ¡Ya he esperado demasiado!
+[00:01:14] AGENTE: Entiendo perfectamente su frustración, Sra. Fernández, y le pido una disculpa. Voy a **escalar su pedido como urgente** para que el equipo logístico lo entregue hoy. Me aseguraré de que la entrega sea prioritaria y esté en sus manos en las próximas 24 horas.
+[00:01:29] CLIENTE: Esto es lo que deberían haber hecho desde el principio. No quiero seguir esperando, ya tengo planes que dependían de este producto.
+[00:01:35] AGENTE: Lamento mucho los inconvenientes causados, Sra. Fernández. Estoy haciendo todo lo posible para que su pedido sea entregado hoy mismo. También voy a **monitorear el estado del envío** para mantenerla informada de cualquier novedad. Recibirá una actualización por correo en cuanto el paquete esté en camino.
+[00:01:52] CLIENTE: Y si no llega hoy, ¿qué pasa? No quiero que me sigan dando largas.
+[00:01:57] AGENTE: Entiendo su postura, Sra. Fernández. Si el paquete no llega hoy, procederemos con **un reembolso completo** por el costo de la compra, además de ofrecerle un **descuento adicional** en su próxima compra como compensación por los inconvenientes.
+[00:02:09] CLIENTE: Eso suena bien, pero prefiero recibir el producto, no un reembolso. Espero que lo entreguen hoy como dicen.
+[00:02:14] AGENTE: Por supuesto, Sra. Fernández. Me aseguraré de que se entregue lo más rápido posible. Además, dejaré un **registro de su caso** para garantizar que se resuelva correctamente. Puede estar tranquila que estoy monitoreando activamente el envío y recibiría una actualización cada hora.
+[00:02:28] CLIENTE: Está bien, pero quiero que me contacten si hay algún otro problema.
+[00:02:32] AGENTE: Claro, Sra. Fernández. Si hay cualquier cambio o inconveniente, recibiría una notificación por correo y mensaje de texto. Puede confiar en que se le dará seguimiento hasta que se solucione completamente. ¿Hay algo más en lo que pueda ayudarla hoy?
+[00:02:44] CLIENTE: No, eso es todo por ahora. Espero ver el producto hoy. Gracias.
+[00:02:48] AGENTE: Gracias a usted, Sra. Fernández, por su paciencia y comprensión. Lamento mucho los inconvenientes. Que tenga un excelente día y quedamos a su disposición para cualquier otra consulta.
+[00:02:56] CLIENTE: Igualmente, espero que todo se solucione hoy. Buenas tardes.
+[00:02:59] AGENTE: Buenas tardes.
+[00:03:01] *** LLAMADA FINALIZADA ***

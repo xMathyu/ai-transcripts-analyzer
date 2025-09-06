@@ -1,0 +1,73 @@
+[00:00:00] AGENTE: <LOCATION> Digital. Le atiende Raúl. ¿En qué puedo ayudarle?
+
+[00:00:06] CLIENTE: Hola, buenos días. Tengo un problema con mi factura electrónica. No la he recibido este mes y necesito hacer el pago.
+
+[00:00:14] AGENTE: Buenos días. Lamento escuchar eso. Con gusto le ayudaré a resolver esta situación. Para acceder a su cuenta, ¿podría proporcionarme su número de cliente o el número telefónico asociado?
+
+[00:00:26] CLIENTE: Mi número de cliente es 7852-4631-0972.
+
+[00:00:33] AGENTE: Gracias. Y para confirmar que estoy hablando con el titular, ¿me podría indicar su nombre completo?
+
+[00:00:39] CLIENTE: <PERSON>.
+
+[00:00:41] AGENTE: Perfecto, <PERSON>. Permítame un momento mientras reviso la información de su cuenta y el estado de su facturación.
+
+[00:01:05] AGENTE: Gracias por su paciencia. He revisado su cuenta y efectivamente veo que la factura correspondiente al periodo del 15 de febrero al 15 de marzo ya fue generada el día 18 de este mes. Debería haberla recibido en su correo electrónico registrado. ¿El correo electrónico que tenemos registrado sigue siendo cliente@correo.com?
+
+[00:01:26] CLIENTE: Sí, ese es mi correo, pero he revisado mi bandeja de entrada y no aparece. También he revisado la carpeta de spam y tampoco está allí.
+
+[00:01:35] AGENTE: Entiendo. A veces puede haber algún problema con la entrega de los correos electrónicos. Lo que podemos hacer es reenviar su factura inmediatamente a la misma dirección de correo. Alternativamente, podría darme otra dirección de correo electrónico si prefiere.
+
+[00:01:50] CLIENTE: Sí, mejor envíemela a mi correo alternativo: alternativo@correo.com.
+
+[00:01:56] AGENTE: Perfecto. Procederé a reenviar la factura a este correo alternativo. Mientras tanto, ¿le gustaría que le indique el monto total a pagar para que pueda realizar el pago sin esperar a recibir la factura?
+
+[00:02:09] CLIENTE: Sí, por favor. Y también me gustaría saber si hay alguna forma de configurar para recibir mis facturas en ambos correos en el futuro, para evitar este problema.
+
+[00:02:18] AGENTE: Excelente pregunta. Definitivamente podemos configurar su cuenta para que las facturas se envíen a ambas direcciones de correo. El monto total de su factura actual es de $34.570. La fecha límite de pago es el 28 de este mes, así que aún está dentro del plazo.
+
+[00:02:35] CLIENTE: Gracias. Y otra consulta, ¿tienen alguna aplicación donde pueda visualizar mis facturas directamente? Así no dependería tanto del correo electrónico.
+
+[00:02:44] AGENTE: Sí, contamos con la aplicación "<LOCATION> App" disponible para iOS y Android. Una vez instalada, puede registrarse con su número de cliente y tendrá acceso a todas sus facturas, tanto las actuales como las históricas de hasta 12 meses atrás. Además, la aplicación le permite realizar pagos directamente, verificar su consumo en tiempo real, y gestionar todos sus servicios.
+
+[00:03:09] CLIENTE: Perfecto, la descargaré entonces. Y respecto al pago de esta factura, ¿puedo hacerlo por transferencia bancaria?
+
+[00:03:17] AGENTE: Por supuesto. Puede realizar el pago mediante transferencia bancaria a nuestra cuenta corriente número 0024681357 del Banco <LOCATION>, a nombre de <LOCATION> Digital S.A., RUT 76.123.456-7. Una vez realizada la transferencia, le recomendaría enviar el comprobante a pagos@location.com indicando su número de cliente para que podamos aplicar el pago correctamente.
+
+[00:03:44] CLIENTE: Entendido. Y ya que estamos hablando, tengo otra duda. En mi factura anterior noté un cargo por "Servicio Premium" de $5.990 que no reconozco haber contratado. ¿Podría verificar de qué se trata?
+
+[00:03:59] AGENTE: Por supuesto, déjeme revisar los detalles de su facturación anterior.
+
+[00:04:18] AGENTE: He revisado su factura anterior y veo que efectivamente hay un cargo por "Servicio Premium" que corresponde a un paquete de canales deportivos internacionales que fue activado el 10 del mes pasado. Según los registros, la activación se realizó a través de nuestra página web. ¿Es posible que algún miembro de su familia lo haya solicitado?
+
+[00:04:41] CLIENTE: No que yo sepa... aunque mi hijo es fanático del fútbol europeo. Quizás él lo activó sin avisarme. ¿Este servicio se renueva automáticamente cada mes?
+
+[00:04:52] AGENTE: Sí, el servicio se renueva automáticamente a menos que se solicite expresamente su cancelación. Si desea desactivarlo, puedo hacerlo en este momento para que no se genere el cargo en su próxima factura.
+
+[00:05:03] CLIENTE: Sí, por favor, desactívelo. Y necesito saber también si hay alguna penalización por cancelarlo.
+
+[00:05:10] AGENTE: No se preocupe, no hay ninguna penalización ni cláusula de permanencia para este servicio adicional. Procedo a desactivarlo inmediatamente.
+
+[00:05:26] AGENTE: Listo, he cancelado el Servicio Premium de canales deportivos. La cancelación es efectiva de inmediato, aunque podrá seguir disfrutando del servicio hasta el final del periodo ya pagado, es decir, hasta el 10 del próximo mes. ¿Desea que le envíe una confirmación de esta cancelación a su correo electrónico?
+
+[00:05:47] CLIENTE: Sí, por favor, envíeme la confirmación.
+
+[00:05:50] AGENTE: Perfecto. En este momento estoy enviando a su correo alternativo tanto la factura pendiente como la confirmación de cancelación del Servicio Premium. También he actualizado su perfil para que todas las comunicaciones futuras, incluidas las facturas, se envíen a ambas direcciones de correo electrónico.
+
+[00:06:09] CLIENTE: Muchas gracias. Una última consulta, ¿cuál es la fecha de corte mensual para mi servicio?
+
+[00:06:15] AGENTE: Su ciclo de facturación es del 15 de cada mes al 15 del mes siguiente. La factura se genera aproximadamente tres días después del cierre del ciclo, es decir, alrededor del 18, y la fecha límite de pago es el 28 de cada mes.
+
+[00:06:30] CLIENTE: Entendido. Muchas gracias por toda la información y por resolver mis dudas.
+
+[00:06:35] AGENTE: Ha sido un placer ayudarle, <PERSON>. Le confirmo que en este momento debe estar recibiendo los correos con su factura y la confirmación de cancelación del servicio adicional. ¿Hay algo más en lo que pueda asistirle hoy?
+
+[00:06:48] CLIENTE: No, eso sería todo. Muchas gracias por su atención.
+
+[00:06:52] AGENTE: Gracias a usted por contactar a <LOCATION> Digital. Recuerde que puede acceder a nuestros servicios de atención al cliente las 24 horas del día a través de nuestra aplicación, sitio web o línea telefónica. Que tenga un excelente día.
+
+[00:07:05] CLIENTE: Igualmente, que tenga buen día.
+
+[00:07:08] AGENTE: Adiós.
+
+[00:07:09] SISTEMA: Llamada finalizada.

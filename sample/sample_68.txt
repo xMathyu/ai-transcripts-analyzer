@@ -1,0 +1,23 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Carolina. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buenos días. Mi nombre es Javier.
+[00:00:07] AGENTE: ¡Hola, Javier! ¿Cómo estás? Espero que te encuentres bien. ¿En qué te puedo ayudar el día de hoy?
+[00:00:12] CLIENTE: Llamo porque noté un cobro extraño en mi última factura y quiero saber de qué se trata.
+[00:00:20] AGENTE: Entiendo, Javier. Con gusto reviso tu facturación. ¿Me puedes proporcionar tu número de documento?
+[00:00:26] CLIENTE: Sí, es 32-456-789-0.
+[00:00:30] AGENTE: Perfecto, muchas gracias. Dame un momento mientras verifico en el sistema.
+[00:00:38] AGENTE: Veo que en tu última factura hay un cargo adicional de 5.000 por una suscripción a un servicio de streaming. ¿Lo reconoces?
+[00:00:47] CLIENTE: No, yo no activé ninguna suscripción. ¿Puedes darme más detalles?
+[00:00:53] AGENTE: Claro, aquí aparece que la suscripción se activó el día 15 del mes pasado desde tu línea. Puede haberse activado por error al aceptar un mensaje promocional.
+[00:01:05] CLIENTE: Ah, ya veo. Pero yo no recuerdo haber aceptado nada.
+[00:01:09] AGENTE: Entiendo, Javier. Si deseas, puedo gestionar la cancelación de la suscripción y solicitar el reembolso del cobro.
+[00:01:16] CLIENTE: Sí, por favor. No quiero seguir pagando por algo que no uso.
+[00:01:20] AGENTE: Muy bien. Voy a proceder con la cancelación ahora mismo. Dame un momento.
+[00:01:30] AGENTE: Listo, la suscripción ha sido cancelada y he solicitado el reembolso. Este se reflejará en tu próxima factura.
+[00:01:38] CLIENTE: Perfecto, muchas gracias. ¿Podrías confirmarme el monto total que debo pagar este mes?
+[00:01:44] AGENTE: Claro, el total de tu factura, ya sin ese cobro adicional, será de 24.990.
+[00:01:50] CLIENTE: ¡Genial! Entonces ya quedó todo aclarado.
+[00:01:54] AGENTE: Sí, Javier. ¿Necesitas ayuda con algo más?
+[00:01:58] CLIENTE: No, eso sería todo. Gracias.
+[00:02:00] AGENTE: De nada, gracias por comunicarte con <LOCATION>. ¡Que tengas un excelente día!
+[00:02:05] CLIENTE: Igualmente. ¡Hasta luego!
+

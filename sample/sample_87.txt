@@ -1,0 +1,18 @@
+[00:00:00] AGENTE: <LOCATION>. Buenas tardes, le saluda Teresa. ¿Con quién tengo el gusto de hablar?
+[00:00:04] CLIENTE: Hola, Teresa. Soy Gabriela Méndez. Estoy llamando porque hace una semana compré un producto en línea y no me ha llegado. Quiero saber qué está pasando.
+[00:00:12] AGENTE: Lamento mucho la demora, Gabriela. Vamos a revisar tu caso de inmediato. ¿Me puedes dar tu número de orden o el RUT, por favor?
+[00:00:16] CLIENTE: Claro, mi número de orden es 987654321.
+[00:00:19] AGENTE: Gracias, Gabriela. Un momento mientras verifico el estado de tu pedido… Ya lo tengo. Veo que el pedido fue procesado hace 7 días, pero lamentablemente hubo un retraso en el despacho por un problema con el stock de tu producto.
+[00:00:33] CLIENTE: ¡Eso no me lo dijeron! Yo pagué por el envío rápido. Pensé que lo recibiría antes.
+[00:00:38] AGENTE: Te pido disculpas por la confusión. El producto estaba en reposición y no se había actualizado en el sistema de inventario. Afortunadamente, tu pedido ya está en camino y debería llegar mañana, según el seguimiento que tengo aquí.
+[00:00:51] CLIENTE: ¡Esto es inaceptable! Estoy esperando este artículo para un evento importante. Si no llega mañana, quiero que me devuelvan el dinero del envío.
+[00:00:57] AGENTE: Comprendo tu frustración, Gabriela. Voy a gestionar la compensación por el retraso en el envío y, si no llega mañana, procederemos con el reembolso completo del costo de envío.
+[00:01:08] CLIENTE: Quiero que quede claro que no voy a tolerar más retrasos. Estoy muy molesta con la falta de información.
+[00:01:13] AGENTE: Tienes toda la razón, Gabriela. Aprecio tu paciencia. Te puedo asegurar que estamos tomando medidas para que este tipo de retrasos no se repita. Además, te enviaré un correo con el número de seguimiento actualizado.
+[00:01:24] CLIENTE: Está bien, espero que llegue mañana. Si no es así, voy a tomar otras medidas.
+[00:01:29] AGENTE: Entiendo perfectamente, Gabriela. El envío será prioritario y el equipo de transporte ya tiene la alerta para entregarlo lo antes posible. ¿Hay algo más en lo que te pueda ayudar mientras tanto?
+[00:01:38] CLIENTE: No, solo quiero que lo resuelvan rápido. Gracias.
+[00:01:41] AGENTE: A ti por llamar, Gabriela. Lamento mucho la molestia ocasionada y te aseguro que se tomará acción inmediata. Que tengas un buen día.
+[00:01:47] CLIENTE: Ojalá. Chau.
+[00:01:49] AGENTE: Chau, Gabriela.
+[00:01:51] *** LLAMADA FINALIZADA ***

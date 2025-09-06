@@ -1,0 +1,65 @@
+[00:00:00] AGENTE: <LOCATION> Telecomunicaciones. Le saluda Martina. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola, buenos días. Mi nombre es <PERSON>.
+
+[00:00:08] AGENTE: Buenos días, <PERSON>. ¿En qué puedo ayudarle el día de hoy?
+
+[00:00:12] CLIENTE: Mire, estoy llamando porque tengo un problema con mi factura de este mes. Me llegó un cobro mucho más alto de lo normal y no entiendo por qué.
+
+[00:00:22] AGENTE: Comprendo su preocupación. Para poder revisar su cuenta, ¿me podría proporcionar su número de cliente, por favor?
+
+[00:00:29] CLIENTE: Sí, claro. Es el 42-567-198-3.
+
+[00:00:37] AGENTE: Gracias. Y para verificar que estoy hablando con el titular de la cuenta, ¿me podría confirmar su nombre completo y fecha de nacimiento?
+
+[00:00:45] CLIENTE: <PERSON>, nacido el 15 de marzo de 1982.
+
+[00:00:51] AGENTE: Perfecto, muchas gracias. Un momento por favor mientras reviso su información en el sistema.
+
+[00:01:15] AGENTE: Bien, <PERSON>, estoy revisando su cuenta y efectivamente veo que en la factura de este mes hay un incremento considerable. Según lo que observo, se debe a que se activó un paquete adicional de datos internacionales el día 12 del mes pasado. ¿Usted solicitó este servicio?
+
+[00:01:32] CLIENTE: No, para nada. Yo no he solicitado ningún paquete internacional. De hecho, no he salido del país en los últimos seis meses.
+
+[00:01:40] AGENTE: Entiendo. Permítame verificar quién autorizó este cambio en su cuenta.
+
+[00:02:10] AGENTE: <PERSON>, según lo que veo en el sistema, este paquete fue activado mediante la aplicación móvil. ¿Es posible que algún familiar tenga acceso a su cuenta o que haya sido activado por accidente?
+
+[00:02:22] CLIENTE: Mmm, mi hijo a veces usa mi teléfono para jugar. Es posible que haya tocado algo sin querer. Pero de todas formas, creo que debería haber algún tipo de confirmación antes de hacer un cargo tan elevado.
+
+[00:02:34] AGENTE: Tiene toda la razón. Le ofrezco una disculpa por este inconveniente. Lo que podemos hacer es cancelar inmediatamente este paquete y aplicar un ajuste a su factura. Dado que no ha hecho uso del servicio internacional, procederemos a realizar la devolución completa de este cargo.
+
+[00:02:51] CLIENTE: Perfecto, eso sería lo justo. ¿Y cuánto tiempo tardará en reflejarse este ajuste?
+
+[00:02:56] AGENTE: El ajuste se aplicará en un plazo máximo de 72 horas hábiles. Además, voy a añadir una nota en su cuenta para que no se active ningún servicio adicional sin una verificación telefónica previa.
+
+[00:03:08] CLIENTE: Excelente, muchas gracias. Y también quisiera aprovechar para preguntar sobre las promociones actuales. Mi contrato está por renovarse el próximo mes y quisiera saber si tienen alguna oferta interesante.
+
+[00:03:20] AGENTE: Con gusto le informo sobre nuestras promociones vigentes. Actualmente tenemos una campaña especial para clientes como usted que han estado con nosotros por más de tres años. Le puedo ofrecer un plan con 50% más de datos por el mismo precio que paga actualmente, o bien, un descuento del 15% en su tarifa mensual manteniendo las mismas características.
+
+[00:03:41] CLIENTE: Mmm, me interesa la opción de más datos. ¿Podría darme más detalles?
+
+[00:03:46] AGENTE: Por supuesto. Su plan actual incluye 15GB de datos mensuales. Con esta promoción, pasaría a tener 22.5GB al mismo precio de $24.990 mensuales. Además, incluiríamos sin costo adicional el servicio de streaming de música durante 6 meses.
+
+[00:04:05] CLIENTE: Eso suena muy bien. ¿Y cuándo podría hacer efectivo este cambio?
+
+[00:04:10] AGENTE: Podemos programarlo para que inicie con su próximo ciclo de facturación, que según veo comienza el 5 del próximo mes. De esta manera, aprovecharía al máximo su nuevo beneficio.
+
+[00:04:21] CLIENTE: Perfecto, hagamos eso entonces.
+
+[00:04:24] AGENTE: Excelente decisión. Procedo a registrar el cambio en el sistema. 
+
+[00:04:48] AGENTE: Listo, <PERSON>. He programado el cambio de su plan para el próximo ciclo de facturación. También he procesado la cancelación del paquete internacional y generado la solicitud de reembolso por el cargo indebido. Recibirá una confirmación por correo electrónico en los próximos minutos con todos los detalles.
+
+[00:05:05] CLIENTE: Muchas gracias por su ayuda, Martina. Ha sido muy eficiente.
+
+[00:05:09] AGENTE: Al contrario, gracias a usted por su preferencia y paciencia. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:05:16] CLIENTE: No, eso sería todo por ahora.
+
+[00:05:19] AGENTE: Perfecto. Recuerde que puede contactarnos nuevamente si surge cualquier duda o necesita asistencia adicional. Ha sido un placer atenderle. Le deseo un excelente día.
+
+[00:05:30] CLIENTE: Igualmente, que tenga buen día. Adiós.
+
+[00:05:33] AGENTE: Gracias por llamar a <LOCATION> Telecomunicaciones. Adiós.
+
+[00:05:36] SISTEMA: Llamada finalizada.

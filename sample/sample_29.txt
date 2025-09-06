@@ -1,0 +1,83 @@
+[00:00:00] AGENTE: <LOCATION> Telecom, departamento de fidelización. Le habla Patricia. ¿Con quién tengo el gusto?
+
+[00:00:07] CLIENTE: Buenas tardes, soy <PERSON>.
+
+[00:00:10] AGENTE: Buenas tardes, <PERSON>. Un placer atenderle. ¿En qué puedo ayudarle hoy?
+
+[00:00:15] CLIENTE: Mire, estoy llamando porque quiero dar de baja todos mis servicios. He recibido una oferta de la competencia que es mucho mejor que lo que estoy pagando actualmente.
+
+[00:00:25] AGENTE: Entiendo, <PERSON>. Lamento escuchar que está considerando dejarnos. Antes de proceder, me gustaría conocer un poco más sobre su situación para ver si podemos encontrar una solución que se ajuste mejor a sus necesidades. ¿Me permite verificar su cuenta para revisar qué servicios tiene actualmente con nosotros?
+
+[00:00:43] CLIENTE: Sí, adelante.
+
+[00:00:45] AGENTE: Gracias. ¿Me podría proporcionar su número de cliente o el número telefónico asociado a su cuenta?
+
+[00:00:52] CLIENTE: El número de cliente es 4523-9087-3621.
+
+[00:01:00] AGENTE: Gracias. Y para confirmar que estoy hablando con el titular, ¿me podría indicar su fecha de nacimiento, por favor?
+
+[00:01:07] CLIENTE: 15 de julio de 1978.
+
+[00:01:10] AGENTE: Perfecto, muchas gracias. Por favor, permítame un momento mientras reviso su información.
+
+[00:01:32] AGENTE: <PERSON>, veo que actualmente tiene contratado con nosotros un paquete triple play que incluye internet de 100 Mbps, televisión con 90 canales y línea telefónica fija, con un costo mensual de $45.990. ¿Es correcto?
+
+[00:01:48] CLIENTE: Sí, exactamente.
+
+[00:01:50] AGENTE: Y lleva con nosotros... vaya, más de 5 años. Realmente valoramos mucho su lealtad como cliente. ¿Podría comentarme qué oferta le han hecho desde la otra compañía?
+
+[00:02:02] CLIENTE: Me ofrecieron internet de 200 Mbps, televisión con canales premium incluidos y línea telefónica por $39.990 durante 12 meses. Y además, sin costo de instalación.
+
+[00:02:15] AGENTE: Entiendo. Esa es una buena oferta. ¿Hay algo específico de nuestro servicio actual que no esté cumpliendo con sus expectativas, además del precio?
+
+[00:02:24] CLIENTE: La verdad es que principalmente es por el precio y la velocidad. A veces siento que el internet se pone lento, especialmente cuando toda la familia está conectada al mismo tiempo. Tengo dos hijos adolescentes que pasan mucho tiempo en videollamadas y jugando online.
+
+[00:02:38] AGENTE: Comprendo perfectamente. Las necesidades de conectividad han aumentado mucho, especialmente con el trabajo y estudio desde casa. <PERSON>, me gustaría ofrecerle una propuesta personalizada que creo que podría interesarle.
+
+[00:02:51] CLIENTE: La escucho.
+
+[00:02:53] AGENTE: Tenemos una promoción especial para clientes de larga trayectoria como usted. Podría ofrecerle una actualización a nuestro paquete Premium, que incluye internet de 300 Mbps, televisión con todos los canales premium incluidos, y línea telefónica con llamadas ilimitadas nacionales. Todo por $38.990 mensuales, garantizado por 18 meses. Además, le incluiríamos sin costo adicional nuestro servicio de WiFi Mesh, que mejora la cobertura y estabilidad de la señal en toda su casa.
+
+[00:03:26] CLIENTE: Mmm, eso suena interesante. ¿Y después de los 18 meses?
+
+[00:03:31] AGENTE: Después de los 18 meses, el precio regular sería de $49.990. Sin embargo, dos meses antes de que finalice este periodo promocional, nuestro sistema generaría una alerta y nos pondríamos en contacto con usted para revisar las promociones disponibles en ese momento. Como política de fidelización, siempre buscamos mantener las mejores condiciones para nuestros clientes leales.
+
+[00:03:53] CLIENTE: ¿Y habría algún costo de instalación o configuración para el servicio de WiFi Mesh que mencionó?
+
+[00:04:00] AGENTE: No, absolutamente ningún costo adicional. La instalación del sistema WiFi Mesh sería completamente gratuita. Incluye tres dispositivos que distribuiríamos estratégicamente en su hogar para garantizar una cobertura óptima. Además, recibiría una visita técnica prioritaria dentro de las próximas 48 horas para realizar la actualización y configuración de todos los equipos.
+
+[00:04:22] CLIENTE: ¿Y tendría que extender mi contrato por algún periodo específico?
+
+[00:04:27] AGENTE: Esta oferta requiere un compromiso de permanencia de 12 meses. Sin embargo, los beneficios están garantizados por 18 meses. Es decir, incluso después del compromiso mínimo, usted seguiría disfrutando del precio promocional por 6 meses adicionales.
+
+[00:04:42] CLIENTE: Ya veo. Y respecto a los canales, ¿incluiría los deportivos premium? Es que mi esposo es muy aficionado al fútbol internacional.
+
+[00:04:50] AGENTE: ¡Por supuesto! El paquete incluye todos los canales deportivos premium, con todas las ligas europeas, Libertadores, Champions League y los torneos locales. Además, tendría acceso a nuestra plataforma de streaming donde puede ver los partidos en diferido si no pudo verlos en vivo.
+
+[00:05:08] CLIENTE: La verdad es que su oferta suena bastante bien, incluso mejor que la que me ofrecieron en la otra compañía. Creo que me quedaré con ustedes si pueden garantizarme esas condiciones.
+
+[00:05:19] AGENTE: ¡Excelente decisión, <PERSON>! Estoy segura de que quedará muy satisfecho con la actualización de su servicio. Procedo de inmediato a registrar los cambios en nuestro sistema.
+
+[00:05:31] AGENTE: Estoy procesando la actualización... y listo. He programado la actualización de su plan a partir de su próximo ciclo de facturación que comienza el 5 del próximo mes. La visita técnica para la instalación del sistema WiFi Mesh y la configuración de los nuevos servicios quedará programada para este miércoles o jueves. ¿Qué día y horario le resultaría más conveniente?
+
+[00:05:52] CLIENTE: Jueves por la mañana sería perfecto, si es posible.
+
+[00:05:56] AGENTE: Perfecto. He agendado la visita técnica para este jueves entre las 9:00 y las 12:00 horas. Nuestro técnico se comunicará con usted una hora antes para confirmar su llegada. ¿El número de contacto sigue siendo el 9-1234-5678?
+
+[00:06:12] CLIENTE: Sí, ese es mi número.
+
+[00:06:14] AGENTE: Excelente. También le enviaré un correo electrónico con todos los detalles de su nuevo plan, incluyendo la fecha de la visita técnica y la confirmación del nuevo precio mensual. ¿Su correo electrónico sigue siendo cliente@mail.com?
+
+[00:06:28] CLIENTE: Sí, ese es correcto.
+
+[00:06:30] AGENTE: Perfecto. <PERSON>, ha sido un placer poder asistirle y encontrar una solución que se adapte a sus necesidades. Realmente valoramos su lealtad como cliente durante estos años y esperamos seguir brindándole un servicio de calidad. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:06:47] CLIENTE: No, eso sería todo. Gracias por la atención y por la oferta. Estoy conforme con la solución.
+
+[00:06:54] AGENTE: Ha sido un placer atenderle. Recuerde que cualquier consulta adicional puede contactarnos a través de nuestros canales de atención disponibles las 24 horas. Le deseo un excelente día.
+
+[00:07:05] CLIENTE: Igualmente, que tenga un buen día.
+
+[00:07:08] AGENTE: Gracias por elegir <LOCATION> Telecom. Hasta pronto.
+
+[00:07:11] SISTEMA: Llamada finalizada.

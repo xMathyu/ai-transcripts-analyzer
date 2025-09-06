@@ -1,0 +1,85 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Roberto. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola. Muy buenos días. ¿Cómo estás?
+
+[00:00:07] AGENTE: <LOCATION>. ¿Qué tal? ¿Cómo estás? Espero te encuentres bien. Cuénteme qué te puedo ayudar el día de hoy.
+
+[00:00:12] CLIENTE: Eh, mira, estoy llamando porque recibí un mensaje diciendo que puedo acceder a un plan con más gigas por el mismo precio que pago ahora. Quería saber si es verdad o es alguna promoción temporal.
+
+[00:00:26] AGENTE: Sí, efectivamente tenemos varias promociones vigentes. Para poder verificar cuál aplica específicamente para ti, necesito algunos datos. ¿Me indicas tu número de RUT para poder verificar en nuestros sistemas?
+
+[00:00:41] CLIENTE: 15-789-543-2.
+
+[00:00:46] AGENTE: Muchas gracias.
+
+[00:00:48] CLIENTE: ¿Me confirmas también tu nombre completo, por favor?
+
+[00:00:52] CLIENTE: <PERSON>.
+
+[00:00:54] AGENTE: ¿Y por último su número telefónico?
+
+[00:00:57] CLIENTE: 965 423 187.
+
+[00:01:02] AGENTE: Ok, muchas gracias. Un momento, por favor. Ahora tengo que revisar tu servicio, no me cortes. Gracias. ¿Actualmente tienes el plan de 9.990 con 20 gigas, correcto?
+
+[00:01:43] CLIENTE: Sí, ese mismo.
+
+[00:01:44] CLIENTE: Ya, pues.
+
+[00:01:45] AGENTE: Ya, perfecto.
+
+[00:01:49] AGENTE: Veo que efectivamente calificas para nuestra promoción especial de actualización de plan.
+
+[00:01:52] AGENTE: Me indica, por favor, si usas mucho los datos móviles o prefieres más minutos para llamadas, para poder recomendarte el mejor plan.
+
+[00:02:03] CLIENTE: Uso más los datos, casi no hago llamadas.
+
+[00:02:07] AGENTE: Perfecto, en ese caso tenemos la promoción ideal para ti. Podemos ofrecerte nuestro plan de 35 gigas por el mismo precio que estás pagando actualmente, es decir, 9.990. Además incluye redes sociales ilimitadas y 300 minutos para llamadas. ¿Te interesa?
+
+[00:02:30] CLIENTE: Suena bien. ¿Hay algún costo por hacer el cambio?
+
+[00:02:35] AGENTE: No, el cambio es totalmente gratuito. Al ser cliente nuestro, puedes acceder a esta promoción sin costo adicional. ¿Quieres que procedamos con el cambio ahora mismo?
+
+[00:02:47] CLIENTE: Sí, hagámoslo. ¿Necesito firmar algo o cómo funciona?
+
+[00:02:52] AGENTE: No es necesario firmar ningún documento. El cambio lo puedo gestionar directamente por sistema. Sólo necesito confirmar algunos datos para seguridad. ¿Me puedes indicar tu fecha de nacimiento?
+
+[00:03:03] CLIENTE: 15 de marzo de 1986.
+
+[00:03:06] AGENTE: Gracias. ¿Y tu correo electrónico asociado a la cuenta?
+
+[00:03:12] CLIENTE: persona@correo.com
+
+[00:03:15] AGENTE: Perfecto. Voy a proceder con el cambio de plan. Te pido un minuto mientras realizo la gestión.
+
+[00:03:23] AGENTE: Ya, perfecto, <PERSON>.
+
+[00:03:27] AGENTE: Ya realicé el cambio del plan a 35 gigas manteniendo el precio de 9.990. Te comento que ya empieza a regir tu nuevo plan desde este momento. Ah, y probablemente para la próxima facturación como tú tienes como un mes de desfase en las facturas, probablemente te llegue un proporcional del plan anterior o un proporcional
+
+[00:03:44] AGENTE: del plan que estamos cambiando ahora.
+
+[00:03:46] CLIENTE: ¿Y eso de cuánto sería aproximadamente?
+
+[00:03:48] AGENTE: Aproximadamente.
+
+[00:03:49] AGENTE: A ver, voy a ver si estás facturando en un momento, por favor.
+
+[00:04:05] AGENTE: Revisando tu ciclo de facturación, veo que tu fecha de corte fue hace 3 días, así que el proporcional sería mínimo, aproximadamente unos 1.000 pesos de diferencia, que se ajustarán automáticamente. ¿Alguna otra consulta que tengas?
+
+[00:04:20] CLIENTE: ¿El plan incluye WhatsApp ilimitado?
+
+[00:04:23] AGENTE: Sí, el plan incluye WhatsApp, Instagram, Facebook y TikTok ilimitados, incluso cuando hayas consumido todos tus gigas. Además, puedes usar tus datos en todo el país sin costo adicional.
+
+[00:04:37] CLIENTE: Perfecto, muchas gracias por la atención.
+
+[00:04:40] AGENTE: De nada, <PERSON>. Ha sido un placer atenderte. Recuerda que recibirás un SMS confirmando el cambio de tu plan en los próximos minutos. ¿Hay algo más en lo que pueda ayudarte?
+
+[00:04:52] CLIENTE: No, eso sería todo. Muchas gracias.
+
+[00:04:55] AGENTE: Gracias a ti por preferir <LOCATION>. Que tengas un excelente día.
+
+[00:05:00] CLIENTE: Igualmente, adiós.
+
+[00:05:02] AGENTE: Adiós.
+
+[00:05:03] [FIN DE LA LLAMADA]

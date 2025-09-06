@@ -1,0 +1,25 @@
+[00:00:00] AGENTE: . Buenas tardes, le habla Martín. ¿En qué puedo ayudarle?
+[00:00:04] CLIENTE: Buenas tardes, Martín. Mi nombre es Lucía Fernández. Tengo problemas con la velocidad de mi internet desde hace unos días.
+[00:00:11] AGENTE: Con mucho gusto te ayudo, Lucía. ¿Podrías brindarme tu número de cliente o RUT?
+[00:00:16] CLIENTE: Claro, es el 18-246-135-4.
+[00:00:20] AGENTE: Muchas gracias. ¿Me confirmas tu dirección, por favor?
+[00:00:23] CLIENTE: Avenida Los Robles 220, departamento 302.
+[00:00:27] AGENTE: Excelente, dame un momento para revisar el estado del servicio.
+[00:01:00] AGENTE: Gracias por esperar, Lucía. He realizado una revisión inicial y veo que tu servicio presenta intermitencias desde hace aproximadamente tres días. ¿Has notado si sucede en horarios específicos?
+[00:01:12] CLIENTE: Sí, especialmente en las noches, después de las 8:00 pm, es cuando más lento se pone.
+[00:01:17] AGENTE: Entiendo. Puede tratarse de saturación en la red en esos horarios. ¿Cuántos dispositivos tienes conectados habitualmente en ese momento?
+[00:01:25] CLIENTE: Tenemos conectados cuatro dispositivos: dos celulares, una laptop y una televisión inteligente.
+[00:01:32] AGENTE: De acuerdo. Voy a realizar unas pruebas más profundas desde aquí. Dame un momento, por favor.
+[00:02:10] AGENTE: Lucía, efectivamente, la lentitud se debe a una saturación temporal en la red de tu zona durante la noche. Puedo solicitar una ampliación de capacidad para mejorar tu conexión, que debería tomar alrededor de 48 horas.
+[00:02:23] CLIENTE: Perfecto. ¿Eso tiene algún costo adicional para mí?
+[00:02:27] AGENTE: No, Lucía, no tiene costo adicional. Es parte del mantenimiento del servicio. ¿Quieres que gestione esta solicitud ahora mismo?
+[00:02:34] CLIENTE: Sí, por favor, sería excelente.
+[00:02:36] AGENTE: Muy bien, voy a proceder con la solicitud. Dame un momento mientras lo registro.
+[00:03:05] AGENTE: Listo, Lucía. La solicitud quedó registrada. En aproximadamente dos días deberías notar una mejora significativa en la velocidad durante las horas pico.
+[00:03:13] CLIENTE: Muchas gracias, Martín.
+[00:03:15] AGENTE: De nada, Lucía. ¿Algo más en lo que pueda ayudarte hoy?
+[00:03:18] CLIENTE: No, eso es todo por hoy.
+[00:03:20] AGENTE: Perfecto, gracias por llamar. Que tengas buena tarde.
+[00:03:23] CLIENTE: Igualmente, Martín. Hasta luego.
+[00:03:26] AGENTE: Hasta luego.
+[00:03:27] SISTEMA: [Llamada finalizada]

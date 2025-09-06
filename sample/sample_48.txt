@@ -1,0 +1,99 @@
+[00:00:00] AGENTE: <LOCATION>TeleCom Plus. Le atiende Javier. ¿En qué puedo ayudarle hoy?
+
+[00:00:06] CLIENTE: Hola, buenas tardes. Llamo porque quiero darme de baja de todos mis servicios con ustedes.
+
+[00:00:12] AGENTE: Buenas tardes. Lamento escuchar que desea finalizar su relación con TeleCom Plus. Para poder ayudarle con este trámite, ¿me podría facilitar su número de cliente o DNI para acceder a su cuenta?
+
+[00:00:25] CLIENTE: Mi número de cliente es TC-476238.
+
+[00:00:31] AGENTE: Gracias. ¿Y podría confirmarme su nombre completo, por favor?
+
+[00:00:35] CLIENTE: <PERSON>.
+
+[00:00:37] AGENTE: Gracias, <PERSON>. Por motivos de seguridad, ¿podría indicarme los últimos cuatro dígitos de la cuenta bancaria donde tiene domiciliados los recibos?
+
+[00:00:47] CLIENTE: Sí, son 5238.
+
+[00:00:50] AGENTE: Perfecto, muchas gracias por la confirmación. Un momento mientras accedo a la información de su cuenta.
+
+[00:01:08] AGENTE: <PERSON>, veo que actualmente tiene contratado con nosotros el paquete Hogar Premium, que incluye fibra óptica de 600MB, telefonía fija, televisión con canales premium y dos líneas móviles. ¿Es correcto?
+
+[00:01:24] CLIENTE: Sí, exactamente.
+
+[00:01:26] AGENTE: Gracias por confirmar. ¿Podría indicarme el motivo por el que desea darse de baja? Esto nos ayuda a mejorar nuestros servicios y quizás podríamos ofrecerle alguna alternativa que se adapte mejor a sus necesidades actuales.
+
+[00:01:39] CLIENTE: Me mudo a otra ciudad por motivos de trabajo y ya he contratado servicios con otra compañía que tiene mejor cobertura en esa zona.
+
+[00:01:47] AGENTE: Entiendo. Gracias por compartir ese motivo. Le informo que TeleCom Plus tiene cobertura nacional, y podríamos trasladar sus servicios a su nueva dirección manteniendo las mismas condiciones. ¿Le interesaría esta opción?
+
+[00:02:01] CLIENTE: No, gracias. Ya he firmado contrato con la otra compañía y prefiero continuar con la baja.
+
+[00:02:07] AGENTE: Comprendo su decisión. En ese caso, procederé con el trámite de baja. Antes de continuar, me gustaría informarle de algunos aspectos importantes:
+
+[00:02:17] AGENTE: Su contrato actual tiene un compromiso de permanencia hasta el 15 de julio de este año. Al solicitar la baja antes de esa fecha, aplicaría una penalización por cancelación anticipada de 120 euros, correspondiente a los meses restantes de compromiso. ¿Está de acuerdo con este cargo?
+
+[00:02:35] CLIENTE: No sabía que tenía permanencia... ¿no hay forma de evitar esa penalización?
+
+[00:02:40] AGENTE: Entiendo su preocupación. La permanencia se estableció cuando contrató el paquete con la promoción del 50% de descuento durante los primeros 6 meses. Sin embargo, dado que su motivo de baja es un traslado de domicilio, puedo solicitar a nuestro departamento de fidelización que estudie la posibilidad de reducir o eliminar esta penalización si puede acreditar su cambio de residencia con algún documento, como un contrato de alquiler o una factura de suministro a su nombre en la nueva dirección.
+
+[00:03:10] CLIENTE: Sí, puedo enviar mi nuevo contrato de alquiler. ¿Cómo lo hago?
+
+[00:03:14] AGENTE: Excelente. Puede enviarlo a través de nuestra aplicación móvil, en la sección "Mis gestiones", o por correo electrónico a bajas@telecomplus.com, indicando en el asunto su número de cliente y "Solicitud exención penalización por traslado". Una vez recibamos la documentación, el departamento correspondiente valorará su caso y le responderá en un plazo máximo de 48 horas.
+
+[00:03:35] CLIENTE: De acuerdo, enviaré el documento hoy mismo. ¿Cuándo se haría efectiva la baja?
+
+[00:03:41] AGENTE: Para la fecha de la baja, tenemos varias opciones. Podemos programarla para una fecha específica que usted elija, o bien procesarla una vez que se resuelva la solicitud de exención de la penalización. ¿Qué prefiere?
+
+[00:03:55] CLIENTE: Preferiría que se hiciera efectiva el día 30 de este mes, que es cuando me mudo definitivamente.
+
+[00:04:01] AGENTE: Perfecto. Programaré la baja para el 30 de este mes. Sus servicios seguirán activos hasta esa fecha y podrá utilizarlos con normalidad. La facturación se realizará de forma proporcional hasta el día de la baja.
+
+[00:04:15] CLIENTE: ¿Y qué pasa con los equipos como el router y el decodificador de TV?
+
+[00:04:20] AGENTE: Respecto a los equipos, tenemos dos opciones: puede devolverlos en cualquiera de nuestras tiendas físicas, o bien podemos enviarle una empresa de mensajería para recogerlos en su domicilio sin coste adicional. Los equipos deben devolverse en un plazo máximo de 15 días tras la fecha efectiva de baja. En caso de no devolución, se aplicaría un cargo por el valor de los equipos en su última factura. ¿Qué opción prefiere para la devolución?
+
+[00:04:47] CLIENTE: Prefiero que vengan a recogerlos a casa, ya que estaré ocupado con la mudanza.
+
+[00:04:52] AGENTE: Entendido. Programaré la recogida de los equipos en su domicilio actual para el día 3 del próximo mes, tres días después de la fecha de baja. La empresa de mensajería se pondrá en contacto con usted el día anterior para confirmar la franja horaria. ¿La dirección de recogida sigue siendo Calle Principal 45, 3ºA?
+
+[00:05:12] CLIENTE: Sí, esa es la dirección.
+
+[00:05:14] AGENTE: Perfecto. Ahora, respecto a sus líneas móviles, ¿desea dar de baja ambas líneas o realizará portabilidad a otro operador?
+
+[00:05:23] CLIENTE: Una de las líneas la portaré a mi nueva compañía, pero la segunda, que es la de mi hijo, quiero mantenerla con ustedes por ahora.
+
+[00:05:32] AGENTE: Entendido. Para la línea que desea mantener, necesitaremos migrarla a una tarifa individual, ya que actualmente forma parte del paquete. Tenemos varias opciones disponibles. La más similar a su plan actual sería nuestra tarifa "MovilMax", con llamadas ilimitadas y 25GB por 15,90€ al mes. ¿Le interesaría esta opción?
+
+[00:05:53] CLIENTE: Sí, esa tarifa suena bien para la línea de mi hijo.
+
+[00:05:57] AGENTE: Excelente. Procederé a programar la migración de la línea móvil terminada en 432 a la tarifa "MovilMax" a partir del 30 de este mes, coincidiendo con la baja del resto de servicios. De esta manera, no habrá interrupciones en el servicio de esta línea.
+
+[00:06:14] CLIENTE: Perfecto. ¿Necesito hacer algo más respecto a la portabilidad de la otra línea?
+
+[00:06:19] AGENTE: Para la portabilidad de su línea principal, no necesita hacer nada con nosotros. Su nuevo operador se encargará de iniciar el proceso cuando usted lo solicite. Solo asegúrese de no dar de baja la línea antes de solicitar la portabilidad, ya que esto impediría el proceso. La portabilidad cancelará automáticamente el servicio con nosotros una vez completada.
+
+[00:06:38] CLIENTE: Entendido. ¿Recibiré alguna confirmación de todo esto por escrito?
+
+[00:06:43] AGENTE: Sí, en los próximos minutos recibirá un correo electrónico y un SMS con la confirmación de todos los trámites que hemos realizado hoy, incluyendo:
+- La solicitud de baja programada para el 30 de este mes
+- La migración de la línea móvil a la tarifa individual "MovilMax"
+- La programación de recogida de equipos para el día 3 del próximo mes
+- La información sobre el trámite para solicitar la exención de la penalización
+
+[00:07:07] CLIENTE: Perfecto. Eso aclara todas mis dudas.
+
+[00:07:10] AGENTE: Me alegro. Su solicitud de baja ha quedado registrada con el número REF-78542. Le recomiendo que lo guarde para cualquier consulta futura. También le confirmamos que su última factura será emitida al cierre del ciclo de facturación posterior a la baja, incluyendo los servicios utilizados hasta el 30 de este mes. ¿Hay algo más en lo que pueda ayudarle?
+
+[00:07:30] CLIENTE: No, eso es todo. Gracias por la información y por hacer el proceso tan claro.
+
+[00:07:36] AGENTE: Gracias a usted por haber confiado en TeleCom Plus durante este tiempo. Lamentamos que haya decidido finalizar su relación con nosotros, pero entendemos que las circunstancias cambian. Le recordamos que en caso de necesitar nuestros servicios en el futuro, estaremos encantados de recibirle nuevamente con ofertas especiales para antiguos clientes. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:07:58] CLIENTE: No, nada más. Gracias y buenas tardes.
+
+[00:08:01] AGENTE: Gracias a usted. Le deseo mucha suerte en su nuevo domicilio. Buenas tardes.
+
+[00:08:07] CLIENTE: Adiós.
+
+[00:08:08] AGENTE: Adiós.
+
+[00:08:09] [FIN DE LA LLAMADA]

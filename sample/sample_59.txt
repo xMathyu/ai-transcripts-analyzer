@@ -1,0 +1,17 @@
+[00:00:00] AGENTE: Buenas tardes, te saluda Marta. ¿En qué puedo ayudarte hoy?
+[00:00:03] CLIENTE: Hola, buenas tardes. Quisiera consultar sobre un descuento en mi plan.
+[00:00:06] AGENTE: Claro, ¿me podrías indicar tu número de cliente, por favor?
+[00:00:10] CLIENTE: Sí, es 34-654-789.
+[00:00:12] AGENTE: Gracias. Un momento mientras verifico tu información... ¿Estás buscando un descuento por fidelidad?
+[00:00:18] CLIENTE: Sí, exactamente. ¿Soy elegible?
+[00:00:21] AGENTE: Permíteme revisar... ¡Listo! Tienes un 10% de descuento disponible para tu plan actual.
+[00:00:28] CLIENTE: ¡Perfecto! ¿Cómo lo aplicamos?
+[00:00:31] AGENTE: Lo aplicaré ahora mismo. El cambio se verá reflejado en tu próxima factura.
+[00:00:35] CLIENTE: ¿Habrá algún cargo adicional o algo que deba saber?
+[00:00:40] AGENTE: No, todo está cubierto por el descuento, no habrá cargos adicionales.
+[00:00:43] CLIENTE: Excelente, muchas gracias. ¿Algo más que deba hacer?
+[00:00:47] AGENTE: No, con eso es suficiente. El descuento ya está aplicado. ¿Te puedo ayudar en algo más?
+[00:00:51] CLIENTE: No, eso es todo por ahora. ¡Gracias!
+[00:00:53] AGENTE: ¡Con gusto! Que tengas un excelente día.
+[00:00:57] CLIENTE: Igualmente, adiós.
+[00:01:00] AGENTE: Hasta luego.

@@ -1,0 +1,17 @@
+[00:00:00] AGENTE: . Buenas tardes, mi nombre es Laura. ¿En qué puedo ayudarle?
+[00:00:05] CLIENTE: Buenas tardes, Laura. Soy Pablo Méndez y llamo porque tengo un problema con mi televisión por cable, no veo algunos canales.
+[00:00:12] AGENTE: Claro que sí, Pablo. Para ayudarte mejor, ¿me proporcionas tu número de cliente o RUT, por favor?
+[00:00:18] CLIENTE: Sí, es 20-987-654-3.
+[00:00:21] AGENTE: Muchas gracias. ¿Me podrías confirmar también tu dirección registrada?
+[00:00:25] CLIENTE: Avenida Las Flores 345, apartamento 502.
+[00:00:29] AGENTE: Perfecto, Pablo. Voy a verificar el estado del servicio, dame un momento por favor.
+[00:01:00] AGENTE: Pablo, gracias por esperar. Veo aquí que algunos canales están presentando interrupciones temporales debido a mantenimiento en tu área. Se estima que el servicio se restablecerá por completo en aproximadamente dos horas.
+[00:01:13] CLIENTE: Ah, ya veo. ¿Es necesario hacer algo más desde aquí?
+[00:01:17] AGENTE: No, Pablo, no es necesario que realices ninguna acción adicional. El servicio se normalizará automáticamente una vez termine el mantenimiento.
+[00:01:25] CLIENTE: Entendido, muchas gracias por la información.
+[00:01:28] AGENTE: ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:01:31] CLIENTE: No, sería todo por ahora.
+[00:01:33] AGENTE: Muy bien, gracias por tu llamada. Que tengas una buena tarde.
+[00:01:36] CLIENTE: Igualmente, Laura. Hasta luego.
+[00:01:39] AGENTE: Hasta luego.
+[00:01:40] SISTEMA: [Llamada finalizada]

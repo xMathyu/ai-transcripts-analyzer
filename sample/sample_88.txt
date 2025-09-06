@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: <LOCATION>. Buenas tardes, le atiende Daniela. ¿Con quién tengo el gusto de hablar?
+[00:00:04] CLIENTE: Hola, soy Carlos González. Estoy llamando porque veo un cobro incorrecto en mi cuenta bancaria y necesito que me lo resuelvan ya.
+[00:00:10] AGENTE: Lamento mucho que estés pasando por esto, Carlos. Voy a revisar tu caso de inmediato. ¿Me puedes proporcionar tu número de cliente o RUT?
+[00:00:15] CLIENTE: Claro, mi RUT es 16.472.389-1.
+[00:00:18] AGENTE: Gracias, Carlos. Un momento mientras reviso los detalles de tu cuenta… Ya tengo la información. Veo que se te realizó un cobro de $100.000 por un préstamo personal, pero tú no solicitaste ningún préstamo. ¿Es correcto?
+[00:00:30] CLIENTE: ¡Exacto! Yo no pedí ningún préstamo. ¿Cómo es posible que me cobren algo que no autoricé?
+[00:00:36] AGENTE: Te pido disculpas por este inconveniente, Carlos. Permíteme investigar más a fondo. Parece que hubo un error en el sistema que vinculó tu cuenta a una solicitud automática de crédito. No fue un cobro realizado por ti, pero vamos a solucionarlo inmediatamente.
+[00:00:48] CLIENTE: ¡Esto es una locura! Yo tengo pagos programados, y ahora con este cobro me están bloqueando todo. ¡Quiero que lo solucionen ya!
+[00:00:55] AGENTE: Entiendo perfectamente tu frustración, Carlos. Lo primero que haré es iniciar la solicitud para revertir el cobro de inmediato. Esto debería estar resuelto dentro de 24 horas, y también voy a escalártelo como una prioridad urgente.
+[00:01:07] CLIENTE: ¿24 horas? ¡Eso es demasiado tiempo! Yo necesito que me devuelvan el dinero hoy mismo. Esto me está afectando gravemente.
+[00:01:14] AGENTE: Comprendo tu urgencia, Carlos. Permíteme contactar a nuestro equipo de facturación y enviar una solicitud de reembolso urgente para que sea procesada hoy. Mientras tanto, te haré una anotación en tu cuenta para que no se generen más cargos hasta que todo esté resuelto.
+[00:01:27] CLIENTE: ¡Eso espero! Necesito que este dinero sea devuelto de inmediato, ya que tengo pagos programados con esa cuenta.
+[00:01:32] AGENTE: Te aseguro que estamos haciendo todo lo posible para resolver esto de manera urgente. El equipo de facturación está al tanto y priorizará tu solicitud. Además, me aseguraré de que recibas una notificación por correo electrónico y un mensaje de texto confirmando la reversión del cobro.
+[00:01:44] CLIENTE: Bien, espero recibir noticias pronto. Si no lo solucionan hoy, tomaré acciones adicionales.
+[00:01:49] AGENTE: Entiendo, Carlos. Si por alguna razón no se soluciona dentro del plazo prometido, tienes derecho a realizar un reclamo formal, y también puedo escalarlo aún más para que se resuelva de forma inmediata.
+[00:02:02] CLIENTE: Ok, pero lo que más quiero es que se resuelva rápido. Necesito tener acceso a mi dinero.
+[00:02:07] AGENTE: Te aseguro que todo está bajo control, Carlos. El equipo de atención al cliente te contactará para confirmar que todo se haya solucionado, y también te enviaré un correo confirmando la reversión del cobro. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:02:20] CLIENTE: No, eso es todo por ahora. Solo quiero que me resuelvan este problema hoy mismo.
+[00:02:24] AGENTE: Gracias por tu paciencia, Carlos. Lo solucionaremos lo más rápido posible. Que tengas una excelente tarde.
+[00:02:28] CLIENTE: Gracias, chau.
+[00:02:30] AGENTE: Chau, chau.
+[00:02:32] *** LLAMADA FINALIZADA ***

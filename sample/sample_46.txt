@@ -1,0 +1,91 @@
+[00:00:00] AGENTE: <LOCATION>MundoMóvil. Le atiende Cristina. ¿En qué puedo ayudarle hoy?
+
+[00:00:06] CLIENTE: Hola, buenos días. Voy a viajar al extranjero la próxima semana y necesito información sobre cómo usar mi teléfono allí.
+
+[00:00:14] AGENTE: Buenos días. Gracias por contactar con MundoMóvil. Con gusto le ayudaré con la información sobre el uso de su móvil en el extranjero. ¿Me podría indicar su número de teléfono o DNI para acceder a su cuenta?
+
+[00:00:27] CLIENTE: Mi número es el 634-987-521.
+
+[00:00:32] AGENTE: Gracias. ¿Y su nombre completo, por favor?
+
+[00:00:35] CLIENTE: <PERSON>.
+
+[00:00:37] AGENTE: Perfecto, <PERSON>. Por motivos de seguridad, ¿podría indicarme la fecha de nacimiento asociada a la cuenta?
+
+[00:00:45] CLIENTE: 15 de marzo de 1982.
+
+[00:00:48] AGENTE: Muchas gracias por la confirmación. Un momento mientras accedo a la información de su cuenta.
+
+[00:01:03] AGENTE: <PERSON>, veo que tiene contratado nuestro Plan Sin Límites 25GB. Para poder asesorarle correctamente sobre el uso de su teléfono en el extranjero, ¿podría indicarme a qué país o países va a viajar?
+
+[00:01:17] CLIENTE: Voy a viajar a Estados Unidos por trabajo durante dos semanas, y después pasaré unos días en México de vacaciones.
+
+[00:01:25] AGENTE: Gracias por la información. Es importante que sepa que Estados Unidos y México tienen condiciones diferentes en cuanto al uso de telefonía móvil para nuestros clientes. Permítame explicarle las opciones disponibles para ambos destinos.
+
+[00:01:38] AGENTE: Para Estados Unidos, disponemos de varios bonos de roaming específicos. El más popular para estancias de dos semanas es nuestro "Bono América Norte 15 días", que incluye 5GB de datos, 60 minutos de llamadas (realizadas y recibidas) y 100 SMS por 39,90€. ¿Le interesaría esta opción?
+
+[00:02:00] CLIENTE: Creo que necesitaría más datos. ¿Tienen alguna opción con más gigas?
+
+[00:02:05] AGENTE: Por supuesto. También tenemos el "Bono América Premium", que incluye 10GB de datos, 120 minutos y 200 SMS por 59,90€, también con validez de 15 días. Otra alternativa sería contratar varios bonos consecutivos de 5GB según vaya necesitando, aunque esto podría resultar más costoso si consume todo el bono.
+
+[00:02:25] CLIENTE: El de 10GB me parece más adecuado. ¿Y para México, funcionaría el mismo bono?
+
+[00:02:31] AGENTE: Lamentablemente, México no está incluido en el mismo bono. Para México, tenemos el "Bono Latinoamérica", que incluye 3GB de datos, 30 minutos y 50 SMS por 29,90€ con validez de 7 días. ¿Cuánto tiempo estará en México?
+
+[00:02:47] CLIENTE: Estaré 5 días en México, después de mis dos semanas en Estados Unidos.
+
+[00:02:52] AGENTE: En ese caso, el "Bono Latinoamérica" sería ideal para su estancia en México. Si contrata ambos bonos, tendría un costo total de 89,80€ por todo su viaje. Además, actualmente tenemos una promoción: si contrata los dos bonos juntos, le aplicamos un 10% de descuento, quedando en 80,82€ en total.
+
+[00:03:12] CLIENTE: Eso suena bien. ¿Estos bonos se activan automáticamente cuando llegue a cada país?
+
+[00:03:18] AGENTE: Excelente pregunta. Podemos configurarlo de dos maneras: puedo programar la activación automática del primer bono para la fecha de su viaje a Estados Unidos, y el segundo bono para cuando llegue a México. Alternativamente, puedo enviarle dos SMS con enlaces para que usted mismo active cada bono cuando llegue a su destino. ¿Qué opción prefiere?
+
+[00:03:38] CLIENTE: Prefiero la activación automática, así no tengo que preocuparme de hacerlo yo.
+
+[00:03:43] AGENTE: Perfecto. ¿Podría indicarme las fechas exactas de su viaje para programar las activaciones?
+
+[00:03:49] CLIENTE: Viajo a Estados Unidos el 15 de abril hasta el 29 de abril, y luego estaré en México del 29 de abril al 4 de mayo.
+
+[00:04:00] AGENTE: Gracias. Programaré la activación del "Bono América Premium" para el 15 de abril a las 00:01 hora española, y el "Bono Latinoamérica" para el 29 de abril a las 12:00 hora española. ¿Le parece correcto?
+
+[00:04:15] CLIENTE: Sí, perfecto. ¿Tendré que hacer algo especial con mi teléfono cuando llegue allí?
+
+[00:04:20] AGENTE: Es una excelente pregunta. En la mayoría de los casos, su teléfono se conectará automáticamente a las redes disponibles en cada país. Sin embargo, le recomiendo lo siguiente:
+
+[00:04:31] AGENTE: 1. Antes de viajar, asegúrese de que tiene activada la opción de "Datos en itinerancia" o "Roaming de datos" en la configuración de su teléfono.
+[00:04:40] AGENTE: 2. Al llegar, es posible que reciba un SMS informándole de las tarifas y condiciones, no se preocupe, ya que con los bonos contratados no se aplicarán cargos adicionales mientras no supere los límites.
+[00:04:53] AGENTE: 3. Si su teléfono no se conecta automáticamente, puede ir a Ajustes > Redes móviles > Operadores de red y seleccionar manualmente una de las redes disponibles.
+
+[00:05:05] CLIENTE: Entiendo. ¿Y qué ocurre si supero los datos incluidos en el bono?
+
+[00:05:10] AGENTE: Si supera los datos incluidos en el bono, se aplicaría la tarifa estándar de roaming, que actualmente es de 5€ por cada 100MB en Estados Unidos y 7€ por cada 100MB en México. Para evitar sorpresas, le recomendaría activar los límites de consumo en nuestra aplicación, donde puede establecer alertas cuando alcance el 80% del bono y un límite máximo de gasto adicional. ¿Desea que configuremos estos límites?
+
+[00:05:35] CLIENTE: Sí, por favor. Quisiera recibir alertas y poner un límite máximo de 30€ adicionales por si acaso.
+
+[00:05:43] AGENTE: Perfecto. He configurado las alertas para que reciba notificaciones al 80% y 100% del consumo de su bono, y he establecido un límite máximo de 30€ adicionales. Si alcanza este límite, el servicio de datos se detendrá automáticamente para evitar cargos no deseados, pero podrá seguir recibiendo llamadas y SMS.
+
+[00:06:01] CLIENTE: Genial. ¿Y si tengo algún problema técnico durante el viaje?
+
+[00:06:05] AGENTE: Disponemos de atención al cliente internacional 24/7. Puede llamarnos gratuitamente desde cualquier país al +34-900-123-456. Este número no consumirá minutos de su bono. También puede contactarnos a través de nuestra aplicación móvil, que funciona con WiFi si tuviera problemas con los datos. Le recomiendo guardar este número en sus contactos antes de viajar.
+
+[00:06:26] CLIENTE: Lo guardaré. Una última pregunta, ¿cómo afecta la diferencia horaria a la activación y desactivación de los bonos?
+
+[00:06:33] AGENTE: Buena pregunta. Los bonos se activan y desactivan según la hora española. Por ejemplo, su bono de Estados Unidos se activará el 15 de abril a las 00:01 hora española, independientemente de la hora local en Estados Unidos. Los bonos tienen una duración exacta de 15 y 7 días respectivamente desde el momento de la activación. Le enviaremos un SMS de confirmación cuando cada bono se active y otro 24 horas antes de que finalice.
+
+[00:06:58] CLIENTE: Entendido. Creo que con eso tengo toda la información que necesitaba.
+
+[00:07:03] AGENTE: Perfecto, <PERSON>. Entonces, para confirmar: he programado la activación del "Bono América Premium" (10GB) para el 15 de abril y el "Bono Latinoamérica" (3GB) para el 29 de abril. El cargo total con el 10% de descuento será de 80,82€ y aparecerá en su próxima factura. He configurado las alertas de consumo y el límite de gasto adicional de 30€. ¿Desea proceder con la contratación?
+
+[00:07:27] CLIENTE: Sí, adelante con la contratación.
+
+[00:07:30] AGENTE: Perfecto. He completado la contratación de ambos bonos con éxito. En breve recibirá un SMS y un correo electrónico con la confirmación y todos los detalles. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:07:43] CLIENTE: No, eso es todo. Muchas gracias por la información y por su ayuda.
+
+[00:07:48] AGENTE: Ha sido un placer atenderle, <PERSON>. Le deseamos un excelente viaje. Si necesita cualquier otra información antes, durante o después de su viaje, no dude en contactarnos. Que tenga un buen día.
+
+[00:08:01] CLIENTE: Igualmente, adiós.
+
+[00:08:03] AGENTE: Adiós.
+
+[00:08:04] [FIN DE LA LLAMADA]

@@ -1,0 +1,26 @@
+[00:00:00] AGENTE: . Buen día, le habla Natalia del área de soporte técnico. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buen día, soy Enrique Salazar. Tengo un problema con mi servicio de televisión por cable. Desde ayer no tengo señal en ninguno de los canales.
+[00:00:13] AGENTE: Lamento escuchar eso, Enrique. Vamos a ayudarte a solucionarlo. ¿Podrías brindarme tu número de cliente o RUT?
+[00:00:19] CLIENTE: Claro, es 14-786-391-0.
+[00:00:22] AGENTE: Gracias. ¿Podrías confirmarme también tu dirección registrada?
+[00:00:25] CLIENTE: Sí, Jirón Los Laureles 112, casa 4.
+[00:00:28] AGENTE: Perfecto, Enrique. Ya tengo acceso a tu cuenta. ¿Me puedes indicar si ya intentaste reiniciar el decodificador?
+[00:00:35] CLIENTE: Sí, ya lo hice varias veces y sigue apareciendo el mensaje "sin señal" en la pantalla.
+[00:00:41] AGENTE: Entendido. Vamos a hacer una verificación remota del estado del decodificador. Esto puede demorar un momento.
+[00:01:15] AGENTE: Enrique, acabo de revisar el estado del equipo y detecto una falla en la recepción de la señal. Podría tratarse de un problema con la conexión del cable coaxial o con el decodificador mismo. ¿Puedes revisar si todos los cables están bien conectados?
+[00:01:28] CLIENTE: Dame un segundo... ya, revisé y parece que el cable que entra al decodificador estaba un poco suelto. Lo ajusté.
+[00:01:38] AGENTE: Perfecto. Ahora vamos a reiniciar el equipo desde aquí. Te avisaré cuando esté listo.
+[00:01:55] AGENTE: Listo, ya se reinició. ¿Podrías verificar si ya tienes señal en tu TV?
+[00:02:01] CLIENTE: Un momento... sí, ya volvió la señal. ¡Qué alivio!
+[00:02:06] AGENTE: Me alegra escuchar eso, Enrique. A veces un cable flojo puede generar este tipo de problemas. Te recomiendo verificar las conexiones cada cierto tiempo.
+[00:02:14] CLIENTE: Lo tendré en cuenta. Muchas gracias por la ayuda.
+[00:02:17] AGENTE: ¿Hay algo más en lo que pueda asistirte hoy?
+[00:02:20] CLIENTE: Ya que estamos, quería saber si hay alguna promoción para cambiar mi plan actual por uno que incluya más canales deportivos.
+[00:02:28] AGENTE: Sí, tenemos un paquete llamado MaxDeportes, que incluye 5 canales adicionales, entre ellos dos en HD. Tiene un costo adicional de 12 soles al mes. ¿Te interesaría activarlo?
+[00:02:39] CLIENTE: Sí, justo estaba buscando algo así. Actívalo por favor.
+[00:02:43] AGENTE: Muy bien, el paquete quedará activo en los próximos 10 minutos. Verás el cargo reflejado desde el próximo ciclo de facturación.
+[00:02:50] CLIENTE: Perfecto. Gracias, Natalia.
+[00:02:52] AGENTE: A ti, Enrique. Gracias por comunicarte con nosotros. Que tengas un excelente día.
+[00:02:56] CLIENTE: Igualmente. Hasta luego.
+[00:02:58] AGENTE: Hasta luego.
+[00:02:59] SISTEMA: [Llamada finalizada]

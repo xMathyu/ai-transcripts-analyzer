@@ -1,0 +1,91 @@
+[00:00:00] AGENTE: <LOCATION>NetConnect. Le atiende Miguel. ¿En qué puedo ayudarle?
+
+[00:00:06] CLIENTE: Buenas tardes. Llamo porque tengo problemas de cobertura en mi casa desde hace unos días. La señal va y viene constantemente.
+
+[00:00:14] AGENTE: Buenas tardes. Lamento escuchar que está experimentando problemas con la cobertura. Vamos a revisar su caso de inmediato. ¿Me podría facilitar su número de cliente o el número de línea afectado?
+
+[00:00:26] CLIENTE: Mi número es el 678-543-912.
+
+[00:00:31] AGENTE: Gracias. ¿Y su nombre completo, por favor?
+
+[00:00:34] CLIENTE: <PERSON>.
+
+[00:00:36] AGENTE: Perfecto, <PERSON>. Para verificar su identidad, ¿podría indicarme los últimos cuatro dígitos de su documento de identidad?
+
+[00:00:44] CLIENTE: 7836.
+
+[00:00:46] AGENTE: Muchas gracias. Un momento mientras accedo a su cuenta y verifico la información de su línea.
+
+[00:01:05] AGENTE: <PERSON>, veo que tiene contratada una línea en la modalidad de contrato Premium con nosotros desde hace 3 años. ¿Es correcto?
+
+[00:01:13] CLIENTE: Sí, así es.
+
+[00:01:15] AGENTE: Perfecto. Cuénteme más sobre el problema de cobertura que está experimentando. ¿Desde cuándo lo nota exactamente? ¿Y ocurre solo en su domicilio o también en otros lugares?
+
+[00:01:26] CLIENTE: Empezó hace aproximadamente una semana. Al principio pensé que era algo puntual, pero ha ido empeorando. Solo me ocurre en casa. Cuando salgo a la calle o voy a trabajar, todo funciona perfectamente.
+
+[00:01:38] AGENTE: Entiendo. ¿Ha observado si hay momentos específicos del día en los que la cobertura empeora?
+
+[00:01:44] CLIENTE: Parece ser peor por las tardes y noches, a partir de las 18:00 aproximadamente. Por la mañana suele estar mejor, aunque sigue sin ser buena.
+
+[00:01:52] AGENTE: Gracias por esa información. ¿Ha notado si el problema afecta a las llamadas, a la conexión a internet, o a ambos servicios?
+
+[00:02:00] CLIENTE: Afecta a todo. Las llamadas se cortan o directamente no entran, y el internet móvil va extremadamente lento cuando hay cobertura, y cuando no hay, obviamente no funciona.
+
+[00:02:10] AGENTE: Comprendo. ¿Podría confirmarme su dirección actual? Necesito verificar la cobertura en su zona.
+
+[00:02:16] CLIENTE: Vivo en Avenida Principal 78, 5º B, código postal 28001.
+
+[00:02:23] AGENTE: Gracias. Voy a revisar el estado de las antenas y la cobertura en su zona. ¿Me permite un momento?
+
+[00:02:29] CLIENTE: Sí, adelante.
+
+[00:02:58] AGENTE: <PERSON>, he revisado nuestro sistema y veo que efectivamente hay una incidencia registrada en su zona. Estamos realizando trabajos de actualización en una de nuestras antenas cercanas a su domicilio, lo que está afectando temporalmente a la calidad de la señal.
+
+[00:03:15] CLIENTE: ¿Y cuánto tiempo va a durar esta situación? Es muy incómodo no poder usar el teléfono correctamente en casa.
+
+[00:03:21] AGENTE: Entiendo su frustración y le pido disculpas por las molestias. Según la información que tengo, los trabajos de mejora están programados para finalizar en 3 días. Una vez completados, no solo se restablecerá el servicio normal, sino que debería experimentar una mejor cobertura que antes.
+
+[00:03:38] CLIENTE: Tres días más es bastante tiempo. Necesito usar el teléfono para trabajar desde casa.
+
+[00:03:44] AGENTE: Comprendo su situación. Para estos casos, tenemos varias soluciones temporales. La primera opción es ofrecerle un amplificador de señal que puede instalar en su domicilio. La segunda opción es activar sin coste el servicio WiFi Calling, que le permitiría realizar y recibir llamadas a través de cualquier red WiFi.
+
+[00:04:05] CLIENTE: El WiFi Calling suena bien, ya que tengo fibra en casa. ¿Cómo lo activo?
+
+[00:04:10] AGENTE: Es una excelente opción. Puedo activar el servicio WiFi Calling ahora mismo desde mi sistema. Solo necesitaría confirmar que su dispositivo es compatible con esta tecnología. ¿Qué modelo de smartphone utiliza?
+
+[00:04:23] CLIENTE: Tengo un Samsung Galaxy S22.
+
+[00:04:26] AGENTE: Perfecto, su dispositivo es compatible. Voy a proceder a activar el servicio en su línea. Un momento, por favor.
+
+[00:04:48] AGENTE: <PERSON>, he activado el servicio WiFi Calling en su línea. Para empezar a utilizarlo, necesitará activarlo también en su teléfono. ¿Le gustaría que le guíe a través del proceso?
+
+[00:04:59] CLIENTE: Sí, por favor.
+
+[00:05:01] AGENTE: Perfecto. En su Samsung Galaxy S22, vaya a Ajustes, luego a Conexiones, y busque la opción "Llamadas y SMS por WiFi". Active el interruptor y su teléfono estará listo para realizar y recibir llamadas a través de WiFi cuando la señal móvil sea débil.
+
+[00:05:17] CLIENTE: Un momento, voy a hacerlo... Sí, ya lo veo. Lo he activado y me aparece un pequeño icono de WiFi junto al indicador de llamada.
+
+[00:05:28] AGENTE: ¡Excelente! Eso indica que el servicio está funcionando correctamente. Ahora podrá realizar y recibir llamadas con normalidad mientras esté conectado a su red WiFi. Además, como compensación por las molestias, voy a aplicar un descuento del 50% en su próxima factura.
+
+[00:05:44] CLIENTE: Eso está bien, gracias. ¿Recibiré alguna notificación cuando los trabajos en la antena estén completos?
+
+[00:05:50] AGENTE: Sí, configuraré una notificación para que reciba un SMS cuando los trabajos hayan finalizado. También quiero mencionarle que el servicio WiFi Calling permanecerá activo en su línea permanentemente, sin costo adicional, por lo que podrá usarlo en el futuro si vuelve a tener problemas de cobertura.
+
+[00:06:07] CLIENTE: Perfecto. Espero que después de estos trabajos la cobertura mejore significativamente.
+
+[00:06:12] AGENTE: Así será. Estos trabajos son parte de un proyecto de mejora de nuestra red en su zona, que incluye tecnología 5G. Una vez completados, debería notar una mejora sustancial tanto en la cobertura como en la velocidad de conexión.
+
+[00:06:26] CLIENTE: Entiendo. Bueno, gracias por la ayuda y por activar el WiFi Calling.
+
+[00:06:31] AGENTE: Ha sido un placer ayudarle, <PERSON>. ¿Hay algo más en lo que pueda asistirle hoy?
+
+[00:06:36] CLIENTE: No, eso es todo. Gracias.
+
+[00:06:38] AGENTE: Gracias a usted por su paciencia y comprensión. Recibirá el SMS de confirmación cuando los trabajos estén completos. Si necesita cualquier otra asistencia, no dude en contactarnos. Que tenga un excelente día.
+
+[00:06:50] CLIENTE: Igualmente, adiós.
+
+[00:06:52] AGENTE: Adiós.
+
+[00:06:53] [FIN DE LA LLAMADA]

@@ -1,0 +1,73 @@
+[00:00:00] AGENTE: <LOCATION>. Le atiende Daniel. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola, buenos días. Soy <PERSON>.
+
+[00:00:08] AGENTE: Buenos días, <PERSON>. Bienvenido a nuestro servicio de atención al cliente. ¿En qué puedo ayudarle hoy?
+
+[00:00:15] CLIENTE: Mire, voy a viajar a Europa la próxima semana por vacaciones y necesito activar el roaming internacional para poder usar mi teléfono allá.
+
+[00:00:24] AGENTE: Con gusto le ayudo con la activación del roaming internacional. Para acceder a su cuenta, necesito verificar algunos datos. ¿Me podría proporcionar su número de teléfono móvil?
+
+[00:00:36] CLIENTE: Sí, claro. Es el 6-78-542-913.
+
+[00:00:42] AGENTE: Gracias. ¿Y me confirma su número de identificación, por favor?
+
+[00:00:47] CLIENTE: 42-813-576-9.
+
+[00:00:52] AGENTE: Perfecto. Un momento mientras verifico su información.
+
+[00:01:08] AGENTE: Gracias por esperar, <PERSON>. Veo que tiene con nosotros un plan Smart Full con 30GB de datos nacionales. ¿Me podría indicar a qué países de Europa viajará y por cuánto tiempo?
+
+[00:01:23] CLIENTE: Voy a visitar España, Francia e Italia. Estaré fuera durante 15 días, del 10 al 25 del próximo mes.
+
+[00:01:32] AGENTE: Gracias por la información. Tenemos varias opciones de roaming internacional para Europa. Permítame explicarle las alternativas para que pueda elegir la que mejor se adapte a sus necesidades.
+
+[00:01:45] CLIENTE: Perfecto, le escucho.
+
+[00:01:47] AGENTE: La primera opción es nuestro "Paquete Europa Básico" que incluye 5GB de datos, 60 minutos para llamadas y 100 SMS por 15.900 pesos, válido por 15 días. La segunda opción es el "Paquete Europa Plus" con 10GB de datos, 120 minutos y SMS ilimitados por 22.900 pesos, también válido por 15 días. Por último, tenemos el "Paquete Europa Premium" que ofrece 20GB, minutos y SMS ilimitados por 32.900 pesos.
+
+[00:02:20] CLIENTE: Mmm, creo que el paquete de 10GB sería suficiente para mí. ¿Cómo funcionan exactamente las llamadas? ¿Puedo llamar a cualquier número?
+
+[00:02:30] AGENTE: Con el Paquete Europa Plus, los 120 minutos incluidos puede utilizarlos tanto para llamar a números locales del país donde se encuentre, como para llamar a números de España o para recibir llamadas. Si agota estos minutos, las llamadas adicionales se cobrarían a 150 pesos por minuto.
+
+[00:02:49] CLIENTE: Entiendo. ¿Y si alguien de mi país me llama mientras estoy en roaming?
+
+[00:02:54] AGENTE: Cuando alguien le llame desde aquí mientras usted está en roaming, usted consumirá minutos de su paquete al recibir esas llamadas. Le recomiendo usar aplicaciones de mensajería para comunicarse cuando sea posible, ya que el uso de datos suele ser más eficiente.
+
+[00:03:11] CLIENTE: Sí, probablemente use WhatsApp la mayoría del tiempo. Una pregunta más: ¿qué pasa si consumo todos los datos?
+
+[00:03:19] AGENTE: Si consume los 10GB de datos incluidos en el paquete, tiene dos opciones: puede seguir navegando a una velocidad reducida de 128kbps sin costo adicional, o puede adquirir un paquete de datos extra. Ofrecemos paquetes adicionales de 1GB por 3.900 pesos que puede activar directamente desde nuestra aplicación móvil cuando lo necesite.
+
+[00:03:42] CLIENTE: Perfecto. Creo que el paquete de 10GB será suficiente entonces.
+
+[00:03:47] AGENTE: Excelente elección. Procederé a activar el "Paquete Europa Plus" en su línea. La activación se realizará a partir del día 9, un día antes de su viaje, para asegurarnos de que todo funcione correctamente cuando llegue a su destino. El costo del paquete se verá reflejado en su próxima factura.
+
+[00:04:07] CLIENTE: Perfecto. ¿Tengo que hacer algo más para que funcione cuando llegue allá?
+
+[00:04:12] AGENTE: Le recomiendo algunas acciones para garantizar que todo funcione correctamente. Primero, asegúrese de que su teléfono tenga activada la opción de "Roaming de datos" en la configuración de red. También es importante que antes de viajar reinicie su teléfono una vez activado el servicio. Cuando llegue a su destino, le recomendamos seleccionar manualmente la red del operador si tiene problemas de conexión automática.
+
+[00:04:36] CLIENTE: Gracias por las recomendaciones. ¿Hay alguna red específica que deba seleccionar en esos países?
+
+[00:04:43] AGENTE: En España le recomendamos conectarse preferentemente a la red Movistar, en Francia a Orange, y en Italia a TIM, ya que son nuestros operadores asociados y ofrecen mejor calidad de servicio. Sin embargo, su teléfono debería conectarse automáticamente a la red disponible con mejor señal.
+
+[00:05:01] CLIENTE: Perfecto. ¿Y cómo puedo verificar mi consumo durante el viaje?
+
+[00:05:06] AGENTE: Puede verificar su consumo en tiempo real a través de nuestra aplicación móvil, que seguirá funcionando en el extranjero. También puede marcar el código *123# desde su teléfono para recibir un SMS con su consumo actualizado. Adicionalmente, le enviaremos notificaciones cuando alcance el 80% y el 100% de su consumo de datos.
+
+[00:05:28] CLIENTE: Excelente. Creo que con eso tengo todo lo que necesito saber.
+
+[00:05:33] AGENTE: Perfecto. He activado el "Paquete Europa Plus" para su línea con la orden número RI-52873. Recibirá un SMS de confirmación en los próximos minutos y otro el día 9 cuando el servicio se active. El paquete estará vigente hasta el día 24 a las 23:59 horas, hora local.
+
+[00:05:53] CLIENTE: Muchas gracias por su ayuda.
+
+[00:05:56] AGENTE: Ha sido un placer ayudarle. Le deseo un excelente viaje. ¿Hay algo más en lo que pueda asistirle hoy?
+
+[00:06:04] CLIENTE: No, eso es todo. Gracias.
+
+[00:06:07] AGENTE: Gracias a usted por comunicarse con <LOCATION>. Que tenga un excelente día y un maravilloso viaje.
+
+[00:06:15] CLIENTE: Igualmente, adiós.
+
+[00:06:17] AGENTE: Hasta pronto.
+
+[00:06:19] SISTEMA: Llamada finalizada.

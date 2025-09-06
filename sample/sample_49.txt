@@ -1,0 +1,103 @@
+[00:00:00] AGENTE: <LOCATION>MoviStar. Le atiende Sara. ¿En qué puedo ayudarle hoy?
+
+[00:00:06] CLIENTE: Hola, buenas tardes. Estoy interesado en renovar mi teléfono móvil y quería saber qué opciones tengo disponibles con mi plan actual.
+
+[00:00:14] AGENTE: Buenas tardes. Con gusto le ayudaré a revisar las opciones de renovación de dispositivo disponibles para usted. ¿Me podría proporcionar su número de teléfono o número de cliente, por favor?
+
+[00:00:26] CLIENTE: Mi número de teléfono es el 634-512-987.
+
+[00:00:31] AGENTE: Gracias. ¿Y podría confirmarme su nombre completo?
+
+[00:00:35] CLIENTE: <PERSON>.
+
+[00:00:37] AGENTE: Perfecto, <PERSON>. Para verificar su identidad, ¿podría proporcionarme los últimos cuatro dígitos de su documento de identidad?
+
+[00:00:46] CLIENTE: 3542.
+
+[00:00:48] AGENTE: Muchas gracias. Un momento mientras accedo a la información de su cuenta.
+
+[00:01:05] AGENTE: <PERSON>, veo que tiene contratado nuestro Plan Premium Ilimitado con 50GB y que lleva con nosotros... ¡más de 4 años! Le agradecemos su fidelidad. Buenas noticias: según nuestro sistema, usted tiene disponible el programa de renovación anticipada, ya que han pasado más de 24 meses desde su última adquisición de dispositivo con nosotros.
+
+[00:01:27] CLIENTE: Sí, mi actual teléfono lo adquirí hace casi tres años y ya está presentando algunos problemas de batería.
+
+[00:01:34] AGENTE: Entiendo perfectamente. Los problemas de batería suelen ser comunes en dispositivos con ese tiempo de uso. ¿Tiene algún modelo específico en mente para su renovación?
+
+[00:01:44] CLIENTE: Estaba pensando en un iPhone 14 o quizás un Samsung Galaxy S23, pero estoy abierto a sugerencias.
+
+[00:01:52] AGENTE: Excelentes opciones. Ambos son dispositivos de gama alta con prestaciones sobresalientes. Basándome en su plan actual y su historial como cliente, puedo ofrecerle las siguientes opciones para ambos modelos:
+
+[00:02:05] AGENTE: Para el iPhone 14 de 128GB, el precio de mercado es de 859€, pero con su programa de renovación tendría un descuento directo de 150€, quedando en 709€. Puede pagarlo al contado o financiarlo en 24 meses por 29,54€/mes sin intereses.
+
+[00:02:23] AGENTE: Para el Samsung Galaxy S23 de 128GB, el precio de mercado es de 799€, pero con su descuento de fidelización quedaría en 649€, o 27,04€/mes durante 24 meses.
+
+[00:02:36] CLIENTE: Esos precios suenan interesantes. ¿Hay algún otro beneficio adicional por renovar con ustedes?
+
+[00:02:42] AGENTE: Sí, actualmente tenemos una promoción especial: si renueva su dispositivo este mes, le incluimos un paquete de servicios premium que consiste en:
+- 10GB adicionales en su plan actual durante 6 meses
+- Seguro de pantalla gratuito el primer año, valorado en 60€
+- Funda original de regalo para el modelo que elija
+- Y la posibilidad de entregar su dispositivo actual y obtener hasta 100€ adicionales de descuento, dependiendo del estado del mismo
+
+[00:03:10] CLIENTE: Me interesa lo del seguro de pantalla y la entrega del dispositivo actual. ¿Cómo funciona exactamente?
+
+[00:03:17] AGENTE: El seguro de pantalla cubre cualquier rotura accidental de la pantalla durante el primer año, sin franquicia ni copago. Solo tendría que llevarlo a cualquiera de nuestras tiendas y se gestionaría la reparación sin coste.
+
+[00:03:30] AGENTE: Respecto a la entrega de su dispositivo actual, funcionaría así: cuando reciba su nuevo teléfono, dispondrá de 15 días para entregar el actual en cualquiera de nuestras tiendas. Nuestros técnicos evaluarán su estado en el momento y le asignarán un valor de recompra. Para un teléfono de 3 años, en condiciones normales de uso (aun con problemas de batería), podría recibir entre 40€ y 80€ de descuento adicional, que se aplicaría como un reembolso en su próxima factura.
+
+[00:04:00] CLIENTE: ¿Y qué pasa si mi teléfono actual no funciona bien? Además del problema de batería, la cámara trasera no enfoca correctamente.
+
+[00:04:08] AGENTE: No se preocupe. Aceptamos dispositivos incluso con fallos técnicos, siempre que el teléfono encienda y no tenga daños estructurales graves como la pantalla rota o carcasa muy dañada. Los problemas de batería y cámara reducirían el valor de recompra, pero seguiría siendo elegible para el programa. En ese caso, podría recibir aproximadamente entre 20€ y 40€.
+
+[00:04:29] CLIENTE: Entiendo. Entre los dos modelos que mencioné, ¿cuál me recomendaría?
+
+[00:04:34] AGENTE: Ambos son excelentes dispositivos, pero según su perfil de uso (veo que consume bastantes datos y realiza muchas fotografías, por los servicios asociados a su línea), el Samsung Galaxy S23 podría ser más adecuado por su excelente cámara con zoom óptico y su mayor duración de batería. Sin embargo, si ya está familiarizado con el ecosistema Apple y utiliza otros dispositivos de esta marca, el iPhone 14 ofrecería una mejor integración.
+
+[00:05:01] CLIENTE: Creo que me inclino más por el Samsung Galaxy S23. ¿Qué colores tienen disponibles?
+
+[00:05:07] AGENTE: El Samsung Galaxy S23 lo tenemos disponible en cuatro colores: Negro Phantom, Crema, Verde y Lavanda. ¿Tiene alguna preferencia?
+
+[00:05:16] CLIENTE: Me gusta el color Verde. ¿Está disponible en stock?
+
+[00:05:20] AGENTE: Déjeme verificar el stock actual... Sí, tenemos disponibilidad inmediata del Samsung Galaxy S23 en color Verde. Podría recibirlo en 24-48 horas en la dirección que nos indique o recogerlo en tienda si lo prefiere.
+
+[00:05:35] CLIENTE: Preferiría que me lo enviaran a casa. ¿Hay algún costo de envío?
+
+[00:05:39] AGENTE: El envío es totalmente gratuito para renovaciones de clientes como usted. ¿Mantiene la misma dirección de entrega que figura en nuestro sistema? Veo que es Calle del Pinar 28, 4ºB, código postal 28006.
+
+[00:05:53] CLIENTE: Sí, esa es mi dirección actual.
+
+[00:05:56] AGENTE: Perfecto. Ahora, respecto a la forma de pago, ¿prefiere abonar el dispositivo al contado o financiarlo en 24 cuotas mensuales de 27,04€ sin intereses?
+
+[00:06:07] CLIENTE: Prefiero financiarlo en las 24 cuotas.
+
+[00:06:11] AGENTE: Excelente elección. La financiación se cargará mensualmente en su factura habitual, junto con su tarifa. No hay cambios en sus condiciones ni permanencia adicional por la financiación. Solo un detalle importante: el impago de dos cuotas consecutivas podría resultar en el vencimiento anticipado del préstamo, pero esto nunca ha sido un problema con clientes de su perfil.
+
+[00:06:32] CLIENTE: Entendido. ¿Cuándo se realizaría el primer cargo?
+
+[00:06:36] AGENTE: El primer cargo se realizará en su próxima factura. Según su ciclo de facturación, esto sería aproximadamente el día 15 del próximo mes. ¿Desea que procedamos con la renovación del Samsung Galaxy S23 en color Verde, financiado en 24 cuotas?
+
+[00:06:52] CLIENTE: Sí, quiero proceder con la renovación.
+
+[00:06:55] AGENTE: Perfecto. Voy a gestionar su pedido de inmediato. Un momento, por favor.
+
+[00:07:15] AGENTE: <PERSON>, he completado su pedido con éxito. Su número de pedido es REN-57821. El Samsung Galaxy S23 en color Verde será enviado a su domicilio en un plazo de 24-48 horas laborables. Recibirá un SMS con el seguimiento del envío cuando el paquete salga de nuestro almacén.
+
+[00:07:34] AGENTE: Junto con el dispositivo, recibirá la funda original de regalo y toda la documentación relativa al seguro de pantalla gratuito por un año. También encontrará instrucciones sobre cómo entregar su dispositivo actual en cualquiera de nuestras tiendas para obtener el descuento adicional.
+
+[00:07:50] CLIENTE: Perfecto. ¿Es necesario hacer una copia de seguridad de mi teléfono actual antes de recibir el nuevo?
+
+[00:07:56] AGENTE: Sí, es muy recomendable. Le sugiero que realice una copia de seguridad completa de su dispositivo actual en la nube o en un ordenador. Para dispositivos Android, puede utilizar Samsung Smart Switch, que viene preinstalado en su nuevo Galaxy S23 y facilita la transferencia de todos sus datos, aplicaciones, fotos y configuraciones de forma rápida y sencilla. En el paquete encontrará una guía paso a paso sobre cómo realizar este proceso.
+
+[00:08:21] CLIENTE: Genial. Creo que eso sería todo.
+
+[00:08:24] AGENTE: Perfecto. Para resumir: ha adquirido un Samsung Galaxy S23 en color Verde por 649€ (precio ya con descuento de fidelización), financiado en 24 cuotas de 27,04€. Será entregado en su domicilio en 24-48 horas. Incluye funda original de regalo, seguro de pantalla por un año y la posibilidad de entregar su dispositivo actual para obtener hasta 100€ adicionales. Además, en su próxima factura ya verá reflejados los 10GB adicionales durante los próximos 6 meses. ¿Hay algo más en lo que pueda ayudarle?
+
+[00:08:56] CLIENTE: No, eso es todo. Muchas gracias por su atención.
+
+[00:09:00] AGENTE: Gracias a usted por confiar en MoviStar para su renovación. Ha sido un placer atenderle. En breve recibirá un correo electrónico con la confirmación de su pedido y toda la información que hemos comentado. Si tiene cualquier consulta adicional, no dude en contactarnos. Le deseo un excelente día.
+
+[00:09:17] CLIENTE: Igualmente, adiós.
+
+[00:09:19] AGENTE: Adiós.
+
+[00:09:20] [FIN DE LA LLAMADA]

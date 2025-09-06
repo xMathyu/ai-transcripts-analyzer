@@ -1,0 +1,95 @@
+[00:00:00] AGENTE: <LOCATION> Empresas, le atiende Alejandra. ¿Con quién tengo el gusto de hablar?
+
+[00:00:07] CLIENTE: Buenos días, habla <PERSON> de Consultores Asociados.
+
+[00:00:12] AGENTE: Buenos días, <PERSON>. Bienvenido a <LOCATION> Empresas. ¿En qué puedo ayudarle hoy?
+
+[00:00:18] CLIENTE: Mire, soy el gerente administrativo de la empresa y necesito hacer algunos cambios en nuestro plan corporativo. Actualmente tenemos 15 líneas con ustedes, pero necesitamos agregar 5 líneas más y también actualizar algunos planes individuales.
+
+[00:00:33] AGENTE: Entiendo perfectamente. Con gusto le ayudaré con esa gestión. Para acceder a su cuenta corporativa, ¿podría proporcionarme el número de cuenta empresarial o el RUT de Consultores Asociados?
+
+[00:00:47] CLIENTE: El RUT es 76.543.210-8.
+
+[00:00:53] AGENTE: Gracias. Y para confirmar que estoy hablando con un administrador autorizado de la cuenta, ¿podría proporcionarme la contraseña de acceso corporativo o el código de seguridad que figura en su contrato?
+
+[00:01:07] CLIENTE: El código de seguridad es ABC45678XYZ.
+
+[00:01:13] AGENTE: Perfecto, muchas gracias por la verificación. Efectivamente veo que usted figura como gerente administrativo con autorización para realizar modificaciones en la cuenta corporativa. Permítame un momento para revisar los detalles de su plan actual.
+
+[00:01:30] AGENTE: Veo que actualmente tienen contratado nuestro Plan Empresas Premium con 15 líneas activas, cada una con 50 GB de datos, llamadas ilimitadas nacionales y 200 minutos internacionales. El contrato actual tiene una vigencia hasta diciembre de este año. ¿Es correcta esta información?
+
+[00:01:50] CLIENTE: Sí, esa es la información correcta.
+
+[00:01:53] AGENTE: Excelente. Me mencionó que necesita agregar 5 líneas adicionales al plan. ¿Desea que estas nuevas líneas tengan exactamente las mismas características que las 15 actuales, o requiere configuraciones diferentes para algunas de ellas?
+
+[00:02:09] CLIENTE: Para 3 de las nuevas líneas, necesito exactamente el mismo plan. Pero para las otras 2, que serán para nuestros ejecutivos comerciales, necesitaríamos algo con más datos y minutos internacionales, ya que viajan constantemente a Brasil y Argentina.
+
+[00:02:25] AGENTE: Comprendo. Para los ejecutivos comerciales que viajan frecuentemente, podría recomendarle nuestro complemento "Roaming Ejecutivo Latam" que se puede agregar a su plan actual. Este complemento ofrece 10 GB adicionales utilizables en roaming dentro de Latinoamérica y 300 minutos adicionales para llamadas internacionales o en roaming. El costo es de $15.990 mensuales por cada línea que lo tenga activado.
+
+[00:02:53] CLIENTE: ¿Y esos 10 GB son adicionales a los 50 GB que ya incluye el plan, o son independientes?
+
+[00:02:59] AGENTE: Son adicionales a los 50 GB nacionales. El complemento agrega 10 GB exclusivamente para uso en roaming dentro de países de Latinoamérica, mientras que los 50 GB originales se mantienen para uso local. Además, si consumen todos los datos en roaming, pueden seguir utilizando sus datos nacionales, aunque a una velocidad reducida cuando están en el extranjero.
+
+[00:03:22] CLIENTE: Entiendo. Eso suena bien para las dos líneas de los ejecutivos comerciales. Ahora, respecto a las líneas actuales, necesitaríamos actualizar dos de ellas para incluir también este complemento de roaming, ya que dos de nuestros actuales empleados también empezarán a viajar.
+
+[00:03:40] AGENTE: Perfecto. Entonces estaríamos hablando de agregar 5 líneas nuevas (3 con el plan estándar y 2 con el complemento de roaming) y actualizar 2 líneas existentes para incluir el complemento de roaming. ¿Correcto?
+
+[00:03:56] CLIENTE: Exactamente.
+
+[00:03:58] AGENTE: Excelente. ¿Tiene ya los nombres y números de identificación de las personas que utilizarán las nuevas líneas?
+
+[00:04:05] CLIENTE: Sí, tengo toda la información. ¿Quiere que se la proporcione ahora?
+
+[00:04:09] AGENTE: Sí, por favor. Necesitaré el nombre completo, número de documento de identidad y cargo en la empresa para cada nueva línea. También necesitaré saber cuáles son las dos líneas existentes que requieren la actualización.
+
+[00:04:24] CLIENTE: Para las nuevas líneas: <PERSON> 1, RUT 12.345.678-9, Analista Contable; <PERSON> 2, RUT 23.456.789-0, Asistente Administrativo; <PERSON> 3, RUT 34.567.890-1, Analista de Sistemas; <PERSON> 4, RUT 45.678.901-2, Ejecutivo Comercial (con roaming); y <PERSON> 5, RUT 56.789.012-3, Ejecutivo Comercial (con roaming). Las líneas a actualizar son las de <PERSON> 6, número 9-1234-5678, y <PERSON> 7, número 9-2345-6789.
+
+[00:05:05] AGENTE: Gracias por la información detallada. Permítame un momento para ingresar estos datos en nuestro sistema.
+
+[00:05:20] AGENTE: He registrado toda la información. Ahora, respecto a los equipos para las nuevas líneas, ¿desean adquirir nuevos dispositivos o únicamente necesitan las tarjetas SIM para equipos que ya poseen?
+
+[00:05:33] CLIENTE: Necesitamos equipos nuevos para todos. Preferiríamos smartphones de gama media-alta, similares a los que ya tenemos con ustedes.
+
+[00:05:42] AGENTE: Perfecto. Actualmente para clientes corporativos con su perfil, tenemos disponibles los modelos SX4000, RZ Premium y GTMax 3, todos con descuentos especiales. El SX4000 tiene un costo de $250.000, el RZ Premium $320.000 y el GTMax 3 $380.000. Sin embargo, dado que estarían ampliando su plan con 5 líneas adicionales, podríamos ofrecerle un descuento del 25% en todos los equipos, más la posibilidad de pago en 18 cuotas sin interés.
+
+[00:06:16] CLIENTE: El GTMax 3 sería ideal para los ejecutivos comerciales. Para el resto, el SX4000 estaría bien.
+
+[00:06:24] AGENTE: Excelente elección. Entonces serían 2 equipos GTMax 3 y 3 equipos SX4000 para las nuevas líneas. ¿Correcto?
+
+[00:06:33] CLIENTE: Sí, eso es correcto.
+
+[00:06:35] AGENTE: Perfecto. Ahora, hablemos sobre el proceso de implementación. Una vez aprobada la solicitud, la activación de las nuevas líneas y la actualización de las existentes se realizaría en un plazo máximo de 48 horas hábiles. La entrega de los equipos puede hacerse en su oficina, previa coordinación con nuestro departamento de logística. ¿Le parece adecuado este tiempo?
+
+[00:07:00] CLIENTE: Sí, no hay problema con ese plazo. ¿Hay algún documento que deba firmar o enviar para formalizar estos cambios?
+
+[00:07:08] AGENTE: Sí, necesitaremos una carta de solicitud firmada por usted como gerente administrativo, con el timbre de la empresa. Le enviaré por correo electrónico un formato pre-llenado con todos los cambios que hemos discutido, para que solo deba revisarlo, firmarlo, timbrarlo y enviarlo de vuelta escaneado. ¿El correo electrónico registrado sigue siendo gerencia@consultores.com?
+
+[00:07:31] CLIENTE: Sí, ese es el correo correcto.
+
+[00:07:34] AGENTE: Perfecto. Un aspecto importante que debo mencionarle es que, al incorporar estas nuevas líneas y servicios adicionales, el costo mensual total de su plan empresarial aumentará. Basado en los cambios discutidos, el incremento sería de aproximadamente $345.000 mensuales. ¿Está de acuerdo con este ajuste?
+
+[00:07:55] CLIENTE: Sí, ya teníamos contemplado ese incremento en nuestro presupuesto.
+
+[00:08:00] AGENTE: Excelente. Voy a finalizar el registro de su solicitud. El número de caso asignado es EMP-78905. En aproximadamente 30 minutos recibirá el correo electrónico con la carta de solicitud para su firma. Una vez que recibamos ese documento firmado, procederemos con el trámite de inmediato.
+
+[00:08:20] CLIENTE: Perfecto. Y una consulta más: cuando lleguen los equipos, ¿vienen con algún tipo de capacitación o manual para configurarlos según nuestras necesidades corporativas?
+
+[00:08:31] AGENTE: Absolutamente. Junto con la entrega de los equipos, coordinaremos una visita de nuestro especialista en soluciones corporativas, quien realizará la configuración inicial de todos los dispositivos según sus requerimientos empresariales, incluyendo la instalación de aplicaciones específicas, configuración de correos corporativos y ajustes de seguridad. También dejará manuales físicos y digitales para referencia futura.
+
+[00:08:56] CLIENTE: Excelente, eso será de mucha ayuda. Creo que con eso quedarían resueltas todas mis dudas por ahora.
+
+[00:09:03] AGENTE: Perfecto, <PERSON>. Recapitulando: hemos registrado su solicitud para agregar 5 nuevas líneas a su plan corporativo, 3 con el plan estándar y 2 con el complemento de roaming para ejecutivos comerciales; también actualizaremos 2 líneas existentes para incluir el complemento de roaming; hemos seleccionado 2 equipos GTMax 3 y 3 equipos SX4000 para las nuevas líneas, con un 25% de descuento y pago en 18 cuotas; y todo esto se implementará en un plazo máximo de 48 horas hábiles una vez recibida la carta de solicitud firmada.
+
+[00:09:34] CLIENTE: Correcto, eso resume todo perfectamente.
+
+[00:09:37] AGENTE: Ha sido un placer atenderle. Si surge cualquier duda adicional, puede contactarnos directamente a este mismo número o a través de su ejecutivo de cuentas corporativas, <PERSON> ejecutivo, al teléfono directo 2-8765-4321. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:09:55] CLIENTE: No, eso sería todo. Muchas gracias por su atención.
+
+[00:09:59] AGENTE: Gracias a usted por preferir <LOCATION> Empresas. Estaremos atentos a la recepción de su carta firmada para proceder con los cambios solicitados. Que tenga un excelente día.
+
+[00:10:11] CLIENTE: Igualmente, adiós.
+
+[00:10:13] AGENTE: Hasta pronto.
+
+[00:10:14] SISTEMA: Llamada finalizada.

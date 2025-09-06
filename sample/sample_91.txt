@@ -1,0 +1,26 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Alicia Fernández de <LOCATION>. ¿En qué puedo asistirlo?
+[00:00:04] CLIENTE: Buenas tardes, Alicia. Mi nombre es Francisco Rivera. Estoy llamando porque llevo más de seis horas sin electricidad en mi casa, y ya he llamado varias veces, pero no hay respuesta concreta. Necesito que resuelvan esto de inmediato.
+[00:00:14] AGENTE: Lamento mucho escuchar lo sucedido, Sr. Rivera. Entiendo la urgencia y la incomodidad que esto le está generando. Para poder atender su solicitud de manera eficiente, ¿me podría proporcionar su número de cliente o RUT, por favor?
+[00:00:22] CLIENTE: Claro, mi RUT es 16.785.432-7.
+[00:00:25] AGENTE: Gracias, Sr. Rivera. Un momento mientras reviso su información en el sistema... Ya lo tengo. Veo que su dirección registrada es Calle Las Palmas 102, ¿es correcto?
+[00:00:31] CLIENTE: Sí, esa es la dirección. Pero, ¿por qué está pasando esto? Yo ya he realizado el pago de la factura de este mes, así que no debería haber ningún problema.
+[00:00:39] AGENTE: Comprendo su inquietud, Sr. Rivera. Permítame revisar más a fondo. Un momento... Según nuestros registros, no hay cortes programados en su zona, y no debería haber ningún inconveniente con su cuenta de pago. Permítame escalar este caso al equipo técnico para que se envíe una cuadrilla a su domicilio de inmediato.
+[00:00:56] CLIENTE: ¡Eso es lo que quiero! Ya estoy cansado de esperar. Mi nevera, mi calefacción, todo está sin funcionar, y es inaceptable que me dejen sin energía tanto tiempo.
+[00:01:04] AGENTE: Le pido una disculpa nuevamente, Sr. Rivera. Lo entiendo completamente. Ya estoy gestionando la solicitud para que se envíe a una cuadrilla técnica al lugar. La estimación de tiempo para la reparación es de 3 horas a partir de ahora.
+[00:01:17] CLIENTE: Tres horas más... ¿Realmente van a tardar tanto? Esto ya es demasiado.
+[00:01:21] AGENTE: Entiendo su frustración, Sr. Rivera. Debido a que los cortes en su zona no son programados, nuestro equipo necesita realizar una revisión más exhaustiva en el sistema para identificar la causa del problema. Sin embargo, puedo asegurarle que la cuadrilla de reparación estará allí lo más rápido posible.
+[00:01:36] CLIENTE: Pero ¿cómo es posible que no tengan idea de la causa? Esto es un problema grave. No quiero esperar más. Este es un servicio básico, y me están dejando sin nada.
+[00:01:44] AGENTE: Tiene toda la razón, Sr. Rivera. Este es un inconveniente que no debería haber ocurrido. Estoy viendo con el equipo técnico para agilizar los procedimientos. También he escalado la solicitud como de alta prioridad para que se resuelva en el menor tiempo posible. Además, puedo ofrecerle un número de seguimiento para que pueda obtener actualizaciones constantes sobre el progreso de la reparación.
+[00:02:02] CLIENTE: Agradecería mucho poder recibir esas actualizaciones. Esto es muy molesto.
+[00:02:06] AGENTE: Claro, Sr. Rivera. Le enviaré un mensaje de texto con el número de seguimiento y las actualizaciones del progreso en el caso. Además, como gesto de disculpa por los inconvenientes causados, procederemos a aplicar un descuento del 20% en su próxima factura de electricidad.
+[00:02:18] CLIENTE: El descuento está bien, pero lo que realmente quiero es que se resuelva este problema. Esto no debería haber pasado.
+[00:02:23] AGENTE: Entiendo completamente su punto, Sr. Rivera. Estoy gestionando la reparación con la mayor urgencia posible y me aseguraré de que reciba todas las actualizaciones necesarias. Le pido disculpas nuevamente por este inconveniente tan grave y le agradezco por su paciencia.
+[00:02:38] CLIENTE: Está bien, pero quiero que me avisen de inmediato si hay algún avance.
+[00:02:42] AGENTE: Por supuesto, Sr. Rivera. Como mencioné, se enviará un mensaje con la información de la cuadrilla y las actualizaciones cada 30 minutos. Si algo cambia o se requiere de su intervención, también nos pondremos en contacto directamente con usted.
+[00:02:56] CLIENTE: Muy bien, esperaré las actualizaciones. Espero que todo se solucione rápidamente.
+[00:02:59] AGENTE: Lo resolvemos cuanto antes, Sr. Rivera. Aprecio mucho su comprensión y paciencia durante este proceso. Si hay algo más en lo que pueda ayudarlo mientras tanto, no dude en llamarnos.
+[00:03:10] CLIENTE: No, eso sería todo por ahora. Gracias por la atención.
+[00:03:13] AGENTE: A usted, Sr. Rivera, por su comprensión. Lamento nuevamente los inconvenientes. Que tenga un buen día, y quedamos atentos a cualquier novedad.
+[00:03:17] CLIENTE: Igualmente. Chau.
+[00:03:19] AGENTE: Chau, chau.
+[00:03:20] *** LLAMADA FINALIZADA ***

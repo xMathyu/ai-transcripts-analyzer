@@ -1,0 +1,73 @@
+[00:00:00] AGENTE: <LOCATION> Móvil, le atiende Valeria. ¿Con quién tengo el gusto de hablar?
+
+[00:00:06] CLIENTE: Buenas tardes, mi nombre es <PERSON>.
+
+[00:00:09] AGENTE: Un gusto saludarle, <PERSON>. ¿En qué puedo ayudarle hoy?
+
+[00:00:13] CLIENTE: Mire, estoy interesado en cambiarme de compañía y traer mi número actual a <LOCATION> Móvil. Quiero saber cuál es el proceso y qué planes me pueden ofrecer.
+
+[00:00:23] AGENTE: Excelente, <PERSON>. Con gusto le explico todo sobre nuestro proceso de portabilidad numérica y los planes que tenemos disponibles. Para empezar, ¿me podría indicar cuál es su compañía actual y qué tipo de plan tiene?
+
+[00:00:36] CLIENTE: Actualmente estoy con Movicom, tengo un plan pospago de $22.990 con 12 gigas de internet, llamadas ilimitadas nacionales y 100 minutos internacionales.
+
+[00:00:48] AGENTE: Gracias por la información. ¿Y podría comentarme cuál es el motivo principal por el que desea cambiarse a nuestra compañía?
+
+[00:00:56] CLIENTE: La verdad es que he tenido muchos problemas de cobertura últimamente. Trabajo en una zona rural y constantemente se me cae la señal. Además, un colega que se cambió a ustedes me comentó que tienen mejor servicio en esa área.
+
+[00:01:10] AGENTE: Comprendo su situación. Efectivamente, en los últimos 8 meses hemos ampliado nuestra red de cobertura rural significativamente, con más de 200 nuevas antenas instaladas. ¿Me podría indicar específicamente en qué localidad trabaja para verificar nuestra cobertura allí?
+
+[00:01:25] CLIENTE: Trabajo en la zona de <LOCATION>, cerca del kilómetro 54 de la carretera principal.
+
+[00:01:31] AGENTE: Perfecto, permítame verificar nuestra cobertura en esa zona.
+
+[00:01:45] AGENTE: He consultado nuestro mapa de cobertura y tengo buenas noticias. Justamente en <LOCATION> instalamos hace dos meses una nueva antena de alta capacidad que cubre toda esa área, incluyendo el tramo de la carretera que menciona. Tenemos una señal excelente en 4G+ en toda esa zona.
+
+[00:02:01] CLIENTE: Eso suena muy bien. ¿Y qué planes similares al mío me podrían ofrecer?
+
+[00:02:06] AGENTE: Tenemos varias opciones que podrían interesarle. Por un valor similar al que paga actualmente, puedo ofrecerle nuestro Plan Total Plus de $23.490, que incluye 18 gigas de internet, llamadas ilimitadas nacionales, 120 minutos internacionales y acceso gratuito a nuestras aplicaciones de streaming sin consumir sus datos. Además, durante los primeros tres meses, le ofrecemos un 30% de descuento en la mensualidad.
+
+[00:02:33] CLIENTE: Mmm, eso suena interesante. ¿Y tendrían alguna opción con más datos? A veces necesito usar el teléfono como punto de acceso cuando no hay buena conexión de internet en el lugar.
+
+[00:02:43] AGENTE: Por supuesto. También tenemos el Plan Premium de $27.990 que incluye 25 gigas de internet, con 5 gigas adicionales exclusivamente para uso de punto de acceso, llamadas ilimitadas nacionales e internacionales a 10 países a elección, y todos los beneficios de streaming que mencioné anteriormente. Con este plan también aplicaría el descuento del 30% durante los primeros tres meses.
+
+[00:03:05] CLIENTE: Y para hacer la portabilidad, ¿qué documentos necesito y cuánto tiempo toma el proceso?
+
+[00:03:11] AGENTE: El proceso es muy sencillo. Necesitaría su cédula de identidad vigente, un comprobante de domicilio reciente y el último comprobante de pago de su servicio actual para verificar que no tenga deudas pendientes. En cuanto al tiempo, una vez que tengamos toda la documentación, la portabilidad se realiza en un máximo de 24 horas hábiles.
+
+[00:03:31] CLIENTE: ¿Y necesito ir personalmente a alguna sucursal?
+
+[00:03:34] AGENTE: No es necesario. Podemos gestionar todo el proceso de forma remota. Puedo enviarle un enlace por correo electrónico donde podrá subir la documentación requerida y firmar digitalmente el contrato. También tenemos la opción de enviar un ejecutivo a su domicilio u oficina si prefiere hacer el trámite presencialmente, sin costo adicional.
+
+[00:03:53] CLIENTE: Perfecto, prefiero hacerlo de forma remota. ¿Y el chip cómo lo recibiría?
+
+[00:03:58] AGENTE: Una vez completada la solicitud, enviaremos un mensajero con su nuevo chip a la dirección que nos indique, dentro de las siguientes 48 horas. El día de la portabilidad, simplemente deberá reemplazar su chip actual por el nuevo y reiniciar su teléfono. El proceso es automático y no debería experimentar más de 30 minutos sin servicio durante la transición.
+
+[00:04:17] CLIENTE: Entiendo. Y una última pregunta, ¿puedo conservar mi equipo actual o necesito adquirir uno nuevo?
+
+[00:04:24] AGENTE: Puede conservar su equipo actual sin problema, siempre y cuando no esté bloqueado por su operador. En caso de que desee adquirir un nuevo equipo, tenemos promociones especiales para clientes que realizan portabilidad, con descuentos de hasta un 40% en equipos seleccionados y opciones de financiamiento hasta en 24 cuotas sin interés.
+
+[00:04:43] CLIENTE: Creo que por ahora me quedaré con mi equipo. Me interesa el Plan Premium que mencionó. ¿Podríamos proceder con ese?
+
+[00:04:51] AGENTE: ¡Excelente elección! Procederé a iniciar el trámite de portabilidad con el Plan Premium. Necesito confirmar algunos datos para generar su solicitud. ¿Me podría indicar su correo electrónico para enviarle el enlace con el formulario y los pasos a seguir?
+
+[00:05:05] CLIENTE: Sí, es personal@correo.com
+
+[00:05:10] AGENTE: Perfecto, he registrado su correo. ¿Y un número alternativo de contacto, por si necesitamos comunicarnos con usted durante el proceso?
+
+[00:05:18] CLIENTE: Puede ser el fijo de mi casa, es el 22-456-7890.
+
+[00:05:25] AGENTE: Muchas gracias. En este momento estoy enviando a su correo electrónico el enlace para continuar con el proceso. Recibirá dos correos: uno con el enlace al formulario para subir sus documentos y otro con la descripción detallada del plan y beneficios que ha seleccionado.
+
+[00:05:42] CLIENTE: Perfecto, muchas gracias por toda la información y la atención.
+
+[00:05:46] AGENTE: Al contrario, <PERSON>, muchas gracias a usted por elegirnos como su nueva compañía. ¿Hay algo más en lo que pueda ayudarle?
+
+[00:05:53] CLIENTE: No, eso sería todo por ahora. Voy a revisar mi correo y completar el proceso.
+
+[00:05:58] AGENTE: Excelente. Si tiene cualquier duda durante el proceso, no dude en contactarnos nuevamente o responder directamente al correo que recibirá. Ha sido un placer atenderle y bienvenido a <LOCATION> Móvil. Que tenga un excelente día.
+
+[00:06:13] CLIENTE: Igualmente, muchas gracias. Hasta luego.
+
+[00:06:16] AGENTE: Hasta luego, que esté bien.
+
+[00:06:18] SISTEMA: Llamada finalizada.

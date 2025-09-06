@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Roberto Gómez de <LOCATION>. ¿En qué puedo asistirlo hoy?
+[00:00:04] CLIENTE: ¡Esto ya es el colmo! Mi nombre es Fernando Martínez y estoy llamando porque llevo semanas con problemas de cobertura y de calidad en las llamadas. ¡Esto es inaceptable! 
+[00:00:12] AGENTE: Lamento mucho escuchar eso, Sr. Martínez. Entiendo la frustración que puede generar no poder hacer llamadas de calidad. Permítame revisar su cuenta para entender mejor el problema. ¿Podría proporcionarme su número de cliente o RUT, por favor?
+[00:00:21] CLIENTE: Claro, mi RUT es 12.345.678-9. ¿Qué está pasando con su servicio? Estoy pagando por algo que no funciona.
+[00:00:26] AGENTE: Gracias, Sr. Martínez. Permítame un momento mientras reviso los detalles de su cuenta... Un momento, por favor... Ya tengo la información. Según nuestros registros, parece que su línea está experimentando un **problema de cobertura en su área**, que ha sido reportado en varias ocasiones. Sin embargo, no se había escalado adecuadamente. Permítame investigar más a fondo.
+[00:00:47] CLIENTE: ¡Eso es lo que me han dicho cada vez que llamo! ¡Ya estoy harto de escuchar siempre lo mismo! ¿Cuánto tiempo más tengo que esperar para que se resuelva?
+[00:00:53] AGENTE: Comprendo perfectamente su enojo, Sr. Martínez, y le ofrezco una disculpa por los inconvenientes. Voy a escalar este problema de inmediato al equipo de infraestructura para asegurarnos de que la cobertura en su área sea revisada y solucionada. Además, investigaré por qué no se ha tomado una acción más rápida hasta ahora.
+[00:01:10] CLIENTE: ¡Esto es un desastre! Mi trabajo depende de que las llamadas sean claras y estables. Si esto no se resuelve hoy, voy a buscar otro proveedor, ¡lo juro!
+[00:01:18] AGENTE: Entiendo perfectamente, Sr. Martínez, y le aseguro que estamos tomando medidas urgentes. En cuanto a su línea, procederé con la **escalada inmediata** para que se realice una revisión prioritaria de la cobertura. Además, le ofreceré una **compensación por el tiempo que ha perdido** con este problema. ¿Le parece bien?
+[00:01:36] CLIENTE: ¡Por fin alguien que me escucha! Sí, quiero que me ofrezcan algo por todos estos días sin servicio adecuado. Esto ya no es un simple inconveniente, esto está afectando mi trabajo.
+[00:01:45] AGENTE: Le agradezco por su paciencia, Sr. Martínez. De inmediato, procesaré una **compensación del 25%** sobre su próxima factura debido a los problemas que ha experimentado. Además, me aseguraré de que un técnico se ponga en contacto con usted en las próximas 48 horas para confirmar que la cobertura en su área sea estabilizada.
+[00:02:03] CLIENTE: Eso suena bien, pero necesito que esto se resuelva de una vez por todas. ¿Por qué no me lo solucionaron antes? Llevo semanas con lo mismo.
+[00:02:09] AGENTE: Lamento sinceramente que no haya recibido la atención que merece, Sr. Martínez. Este tipo de situaciones no son aceptables. Estoy tomando las medidas necesarias para que su caso sea tratado como prioridad. El equipo de infraestructura ya está al tanto y se pondrá en contacto con usted lo antes posible para asegurarse de que el servicio de cobertura esté completamente solucionado.
+[00:02:27] CLIENTE: Bien, espero que esta vez actúen rápido. Quiero que me mantengan informado cada vez que haya avances. No quiero quedarme esperando sin saber qué está pasando.
+[00:02:34] AGENTE: Claro, Sr. Martínez. Le aseguro que se mantendrá informado por correo y mensaje de texto cada vez que haya una actualización relevante. También dejaré un seguimiento personal de su caso para asegurarme de que se resuelva en el menor tiempo posible.
+[00:02:47] CLIENTE: Gracias por hacer algo al respecto, pero todavía estoy molesto por todo el tiempo perdido. Espero que se resuelva de manera efectiva.
+[00:02:53] AGENTE: Lo entiendo completamente, Sr. Martínez, y lamento profundamente todos los inconvenientes causados. Agradezco mucho su comprensión. Estoy seguro de que el problema se solucionará rápidamente. ¿Hay algo más en lo que pueda asistirlo mientras tanto?
+[00:03:07] CLIENTE: No, eso es todo por ahora. Espero recibir las actualizaciones que me prometen.
+[00:03:12] AGENTE: Gracias por su tiempo, Sr. Martínez. Lamento los inconvenientes y estamos trabajando para solucionarlo de inmediato. Que tenga un buen día.
+[00:03:17] CLIENTE: Buen día, y espero que cumplan con lo prometido.
+[00:03:20] AGENTE: Por supuesto. Buen día.
+[00:03:22] *** LLAMADA FINALIZADA ***

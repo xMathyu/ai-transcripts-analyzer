@@ -1,0 +1,26 @@
+[00:00:00] AGENTE: . Buenas tardes, habla Mariana del área de facturación. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Rodrigo Espinoza. Estoy llamando porque mi última boleta llegó con un monto mucho más alto de lo habitual, y no encuentro ninguna explicación en el detalle.
+[00:00:13] AGENTE: Comprendo tu preocupación, Rodrigo. Con gusto te ayudo a revisar el caso. ¿Podrías brindarme tu número de cliente o RUT, por favor?
+[00:00:20] CLIENTE: Sí, claro. Es 17-345-789-2.
+[00:00:23] AGENTE: Gracias. ¿Puedes confirmarme también tu dirección registrada?
+[00:00:26] CLIENTE: Calle La Marina 256, departamento 604.
+[00:00:30] AGENTE: Perfecto. Ya accedí a tu cuenta. Veo que tu boleta del mes de marzo es de 185 soles, mientras que en febrero fue de 129 soles. Déjame revisar el detalle exacto.
+[00:00:43] AGENTE: Rodrigo, el aumento se debe principalmente a cargos por exceso de datos móviles. Se aplicaron 4 paquetes de 1 GB adicionales a 14 soles cada uno. ¿Estás al tanto de ese consumo?
+[00:00:56] CLIENTE: No, no estaba al tanto. Yo tengo un plan de 15 GB, y usualmente no llego ni a 10. ¿Cómo es que se activaron esos paquetes?
+[00:01:05] AGENTE: Según el sistema, se activaron automáticamente por consumo total de datos. Esta función está habilitada por defecto en tu plan. Una vez que se consumen los GB incluidos, se activa el paquete adicional para no cortar el servicio.
+[00:01:17] CLIENTE: Eso no me parece justo. Nunca fui notificado de que me estaba quedando sin datos ni de que me iban a cobrar más.
+[00:01:24] AGENTE: Tienes razón. Generalmente, el sistema envía un mensaje de advertencia al 90% y otro al 100% del consumo. ¿Podrías confirmarme si recibiste alguno de esos mensajes?
+[00:01:33] CLIENTE: No, no recibí ningún mensaje.
+[00:01:35] AGENTE: En ese caso, puedo levantar un reclamo por activación no informada de paquetes adicionales. Además, puedo desactivar esa función para que no se vuelva a repetir. ¿Te gustaría que proceda con ambas acciones?
+[00:01:47] CLIENTE: Sí, por favor. Me gustaría dejar de recibir esos cobros automáticos.
+[00:01:51] AGENTE: Muy bien, ya desactivé la función de paquetes automáticos. A partir de ahora, cuando llegues al límite de datos, se cortará la navegación hasta que actives manualmente más datos desde tu app.
+[00:02:03] AGENTE: También he registrado el reclamo. El área correspondiente tiene un plazo de hasta 7 días hábiles para resolverlo. Si procede la devolución, se hará como saldo a favor en tu siguiente boleta o como reembolso directo, según el medio de pago.
+[00:02:15] CLIENTE: Perfecto. ¿Me enviarán algún número de seguimiento?
+[00:02:18] AGENTE: Sí, te lo enviaré por SMS y también por correo a rodriespinoza@email.com. Además, puedes hacer el seguimiento desde la app MiTeleco en la sección de reclamos.
+[00:02:28] CLIENTE: Gracias por toda la información, Mariana.
+[00:02:31] AGENTE: Con gusto, Rodrigo. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:02:34] CLIENTE: No, eso sería todo por ahora.
+[00:02:36] AGENTE: Gracias por comunicarte con nosotros. Que tengas un excelente día.
+[00:02:39] CLIENTE: Igualmente. Hasta luego.
+[00:02:41] AGENTE: Hasta luego.
+[00:02:42] SISTEMA: [Llamada finalizada]

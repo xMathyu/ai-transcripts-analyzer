@@ -1,0 +1,30 @@
+[00:00:00] AGENTE: <LOCATION>. Muy buenos días, le habla Javiera. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Hola, soy Camilo Riquelme. Por favor necesito bloquear mi número ahora. Me acaban de robar el celular.
+[00:00:09] AGENTE: Lamento mucho lo que pasó, Camilo. Te voy a ayudar de inmediato. ¿Puedes darme tu RUT o número de cliente, por favor?
+[00:00:14] CLIENTE: Sí, 19.354.230-7.
+[00:00:16] AGENTE: Gracias. ¿Me puedes confirmar tu dirección registrada, por favor?
+[00:00:19] CLIENTE: Av. El Bosque Norte 445, depto. 1703.
+[00:00:22] AGENTE: Confirmado. Estoy validando la línea… Listo. ¿Quieres que bloqueemos solo el chip o también el equipo?
+[00:00:27] CLIENTE: ¡Todo! El equipo, el chip, todo. Me lo arrebataron cuando salía del metro.
+[00:00:31] AGENTE: Lo siento mucho, Camilo. Ya procedo al bloqueo total de la línea y del IMEI. Esto dejará el equipo completamente inhabilitado para usar con cualquier otro chip.
+[00:00:38] CLIENTE: Perfecto. ¿Y qué hago ahora para recuperar el número?
+[00:00:41] AGENTE: Puedes acercarte a cualquiera de nuestras sucursales con tu cédula de identidad para solicitar la reposición del chip. El número se mantiene.
+[00:00:48] CLIENTE: ¿Tiene costo?
+[00:00:50] AGENTE: Sí, la reposición del chip tiene un costo único de $1.990. Si llevas una copia de la constancia policial, puedes pedir la exención del cobro.
+[00:00:58] CLIENTE: Ya. Voy a ir hoy mismo. ¿Y cuánto se demora en activarse el chip nuevo?
+[00:01:02] AGENTE: Una vez entregado, la activación es inmediata. En menos de 15 minutos ya puedes usar tu línea.
+[00:01:07] CLIENTE: ¿Y pueden dejarme también el bloqueo de datos? Tenía banca, correos, todo ahí.
+[00:01:12] AGENTE: Ya se realizó el bloqueo completo, pero te recomiendo contactar a tu banco para informar lo sucedido. También puedes revisar si tenías activada alguna app para borrar o ubicar el dispositivo.
+[00:01:21] CLIENTE: Tenía “Buscar mi iPhone”, pero no sé si alcanzó a activarse.
+[00:01:25] AGENTE: Puedes intentar desde otro dispositivo entrando con tu Apple ID. Si el teléfono aún tiene batería y conexión, podrás ubicarlo o borrarlo remotamente.
+[00:01:32] CLIENTE: Ya. Muchas gracias por toda la ayuda.
+[00:01:35] AGENTE: A ti por comunicarte, Camilo. También dejaré constancia del robo para que no haya cargos indebidos si el equipo intenta conectarse.
+[00:01:41] CLIENTE: Súper. ¿Me puedes mandar por correo el comprobante del bloqueo?
+[00:01:44] AGENTE: Claro. Lo recibirás en los próximos minutos al correo registrado. También recibirás un SMS cuando actives tu chip nuevo.
+[00:01:51] CLIENTE: Genial. Gracias por ser tan rápida, de verdad.
+[00:01:54] AGENTE: Para eso estamos. ¿Hay algo más en lo que te pueda ayudar hoy?
+[00:01:57] CLIENTE: No, eso sería todo. Muchas gracias otra vez.
+[00:02:00] AGENTE: Que estés bien, Camilo. Lamento lo ocurrido y espero que todo se solucione pronto.
+[00:02:03] CLIENTE: Gracias, chau.
+[00:02:05] AGENTE: Chau, chau.
+[00:02:06] *** LLAMADA FINALIZADA ***

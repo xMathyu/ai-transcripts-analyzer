@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: . Buenas tardes, le habla Renata del área de atención al cliente. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Álvaro Herrera. Llamo porque quiero suspender temporalmente mi servicio de internet y televisión. Me voy de viaje por unas semanas y no quiero seguir pagando mientras no lo uso.
+[00:00:15] AGENTE: Perfecto, Álvaro. Podemos gestionar una suspensión temporal. ¿Me puedes brindar tu número de cliente o RUT, por favor?
+[00:00:21] CLIENTE: Claro, es 20-651-839-2.
+[00:00:24] AGENTE: Gracias. ¿Podrías confirmarme tu dirección registrada?
+[00:00:27] CLIENTE: Sí, vivo en Jirón San Luis 305, departamento 502.
+[00:00:31] AGENTE: Perfecto. Ya accedí a tu cuenta. Según nuestros términos, puedes suspender tu servicio hasta por 60 días sin costo. ¿Qué fecha deseas que inicie la suspensión?
+[00:00:42] CLIENTE: Me gustaría que se inicie este viernes 4 de abril y lo reactiven el 2 de mayo.
+[00:00:48] AGENTE: Entendido. Procederé a registrar la suspensión desde el 4 de abril hasta el 2 de mayo. Durante ese tiempo, no se te generará cobro alguno y tu servicio será reactivado automáticamente el 2.
+[00:01:00] CLIENTE: Perfecto. ¿Tengo que devolver el módem o el decodificador?
+[00:01:04] AGENTE: No es necesario devolver los equipos mientras dure la suspensión. Solo asegúrate de mantenerlos desconectados para evitar daños o consumo eléctrico innecesario.
+[00:01:13] CLIENTE: ¿Y recibiré alguna confirmación por escrito?
+[00:01:16] AGENTE: Sí, te enviaré un correo de confirmación con los detalles de la suspensión. También recibirás un SMS el día anterior al corte y otro cuando se reactive el servicio.
+[00:01:27] CLIENTE: ¿Y hay algún cargo por reactivación?
+[00:01:30] AGENTE: No, no hay ningún cargo adicional. La reactivación es automática y gratuita dentro del periodo pactado.
+[00:01:37] CLIENTE: Excelente, muchas gracias, Renata.
+[00:01:39] AGENTE: Con gusto, Álvaro. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:01:42] CLIENTE: No, eso sería todo. ¡Muy buena atención!
+[00:01:45] AGENTE: Muchas gracias por tus palabras. Que tengas un excelente viaje.
+[00:01:48] CLIENTE: Gracias, hasta luego.
+[00:01:50] AGENTE: Hasta luego.
+[00:01:51] SISTEMA: [Llamada finalizada]

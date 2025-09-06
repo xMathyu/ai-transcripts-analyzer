@@ -1,0 +1,24 @@
+[00:00:00] AGENTE: <LOCATION>. Buenas tardes, le saluda Felipe. ¿Con quién tengo el gusto de hablar?
+[00:00:04] CLIENTE: Hola Felipe, soy Luis Martínez. Llamo porque revisé mi factura y me están cobrando un plan que no contraté. Quiero una explicación y que me lo solucionen ahora mismo.
+[00:00:12] AGENTE: Lamento mucho escuchar eso, Luis. Te voy a ayudar a resolverlo. ¿Me puedes indicar tu número de cliente o RUT, por favor?
+[00:00:17] CLIENTE: Mi RUT es 15.689.427-9.
+[00:00:20] AGENTE: Gracias, Luis. Un momento mientras reviso tu cuenta… Ya la tengo. Veo que tu plan es el "Plan Flex 10GB", pero parece que se te activó un servicio adicional sin autorización. Déjame revisar más a fondo.
+[00:00:31] CLIENTE: ¡Eso es lo que me molesta! Yo contraté el plan básico, el de 10GB, y me están cobrando un plan de 30GB con llamadas internacionales. No pedí nada de eso.
+[00:00:39] AGENTE: Te pido disculpas por este inconveniente, Luis. Parece que hubo un error en el sistema que activó un paquete adicional de datos y llamadas internacionales. Esto es totalmente ajeno a tu solicitud.
+[00:00:50] CLIENTE: ¡Claro! Siempre son errores de sistema, pero los que terminamos pagando somos los clientes. ¿Cómo me solucionan esto?
+[00:00:55] AGENTE: Entiendo tu molestia, Luis. Lo que puedo hacer es desactivar el paquete adicional de inmediato y procesar un ajuste a tu factura. Además, puedo solicitar un reembolso por el cobro erróneo.
+[00:01:05] CLIENTE: ¡Eso espero! ¿Cuánto tiempo se va a demorar el reembolso?
+[00:01:09] AGENTE: El reembolso se procesará en un máximo de 48 horas, y debería reflejarse en tu cuenta dentro de 3 a 5 días hábiles.
+[00:01:15] CLIENTE: ¡Eso está bien! Pero quiero que me envíen un correo confirmando todo, porque no quiero que vuelva a pasar.
+[00:01:21] AGENTE: Claro, Luis. Te enviaré un correo con el detalle del ajuste y el reembolso. También activaríamos alertas para que cualquier cambio en tu plan te llegue primero por mensaje de texto y correo.
+[00:01:30] CLIENTE: Perfecto, eso me da algo de tranquilidad. ¿Y qué pasa si vuelve a ocurrir este tipo de error?
+[00:01:36] AGENTE: Si el error se repite, tenemos un canal directo de atención donde podrás contactar con el área técnica y de facturación sin tener que esperar largas colas. También tomaríamos medidas para asegurarnos de que tu plan se mantenga según lo solicitado.
+[00:01:48] CLIENTE: Ok, pero eso no me sirve si tengo que seguir llamando cada vez que haya un problema.
+[00:01:52] AGENTE: Te entiendo completamente. Voy a dejar constancia en tu cuenta para que el sistema realice una revisión de tu historial y se eviten cargos erróneos en el futuro.
+[00:02:00] CLIENTE: Eso lo espero. Ya estoy harto de tener que estar llamando por esto.
+[00:02:04] AGENTE: Te pido disculpas nuevamente, Luis. Te aseguro que haremos todo lo posible para que no se repita. ¿Hay algo más en lo que te pueda ayudar hoy?
+[00:02:10] CLIENTE: No, eso es todo. Solo quiero que me resuelvan esto lo antes posible. Gracias por atenderme.
+[00:02:14] AGENTE: A ti, Luis. Te aseguro que tu caso será tratado con prioridad. Que tengas un buen día.
+[00:02:18] CLIENTE: Gracias. Chau.
+[00:02:19] AGENTE: Chau.
+[00:02:21] *** LLAMADA FINALIZADA ***

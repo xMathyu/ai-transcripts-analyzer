@@ -1,0 +1,23 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Sofía. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buenos días. Me llamo Andrés.
+[00:00:07] AGENTE: <LOCATION>. ¡Hola Andrés! ¿Cómo estás? Espero que te encuentres bien. Cuéntame, ¿en qué te puedo ayudar el día de hoy?
+[00:00:12] CLIENTE: Estoy llamando porque tengo problemas con mi servicio de telefonía móvil. No tengo señal desde hace varias horas.
+[00:00:20] AGENTE: Entiendo, Andrés. Lamento el inconveniente. Voy a revisar el estado de la red en tu zona. ¿Podrías indicarme tu número de línea?
+[00:00:26] CLIENTE: Claro, es 987-654-321.
+[00:00:30] AGENTE: Muchas gracias. Un momento mientras consulto el sistema.
+[00:00:40] AGENTE: Andrés, según el sistema, no hay reportes de fallas masivas en tu área. ¿Has intentado reiniciar tu teléfono?
+[00:00:50] CLIENTE: Sí, lo reinicié un par de veces, pero sigue sin señal.
+[00:00:55] AGENTE: De acuerdo. Vamos a hacer una verificación más profunda. ¿Podrías confirmar el modelo de tu equipo y si has cambiado de SIM recientemente?
+[00:01:05] CLIENTE: Tengo un Galaxy S21 y no he cambiado de SIM.
+[00:01:10] AGENTE: Gracias por la información. Voy a restablecer la configuración de red de tu línea. Un momento, por favor.
+[00:01:20] AGENTE: Listo, ya hice el restablecimiento. Por favor, apaga tu teléfono, espera 30 segundos y vuelve a encenderlo.
+[00:01:30] CLIENTE: De acuerdo, dame un momento… Listo, ya lo encendí.
+[00:01:35] AGENTE: ¿Puedes verificar si ahora tienes señal?
+[00:01:40] CLIENTE: Sí, ya aparece la señal. ¡Muchas gracias!
+[00:01:45] AGENTE: Me alegra saberlo, Andrés. ¿Puedo ayudarte con algo más?
+[00:01:50] CLIENTE: No, eso sería todo. Aprecio mucho tu ayuda.
+[00:01:55] AGENTE: Con gusto, Andrés. Que tengas un excelente día.
+[00:02:00] CLIENTE: Igualmente. Hasta luego.
+[00:02:05] AGENTE: Hasta luego.
+[00:02:07] [Llamada finalizada]
+

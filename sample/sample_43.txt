@@ -1,0 +1,104 @@
+[00:00:00] AGENTE: <LOCATION>FusionCom. Le atiende Daniel. ¿En qué puedo ayudarle hoy?
+
+[00:00:06] CLIENTE: Hola, buenas tardes. Estoy llamando porque estoy interesado en contratar un paquete que incluya internet, teléfono y televisión.
+
+[00:00:14] AGENTE: Buenas tardes. Gracias por contactar con FusionCom. Será un placer ayudarle a encontrar el paquete que mejor se adapte a sus necesidades. ¿Es usted cliente nuestro actualmente o sería un nuevo cliente?
+
+[00:00:26] CLIENTE: Sería nuevo cliente, actualmente tengo estos servicios con diferentes compañías y quiero unificarlo todo.
+
+[00:00:32] AGENTE: Entiendo perfectamente. Unificar todos los servicios con FusionCom le permitirá ahorrar y disfrutar de ventajas exclusivas. ¿Me podría indicar su código postal? Así podré verificar la cobertura y las opciones disponibles en su zona.
+
+[00:00:45] CLIENTE: Es el 28015.
+
+[00:00:48] AGENTE: Gracias. Voy a consultar la disponibilidad en su zona... Un momento, por favor.
+
+[00:01:05] AGENTE: Excelentes noticias. En su zona disponemos de fibra óptica de última generación con velocidades de hasta 1 Gbps. ¿Podría decirme qué uso le daría principalmente a su conexión? ¿Trabaja desde casa, ve contenido en streaming, juega online?
+
+[00:01:21] CLIENTE: Trabajamos desde casa mi pareja y yo, vemos muchas series en plataformas de streaming y tenemos dos hijos adolescentes que también usan bastante internet para estudiar y jugar online.
+
+[00:01:33] AGENTE: Gracias por esa información. Dado el uso intensivo que harán de la conexión, le recomendaría nuestro paquete FusionTotal Plus, que incluye:
+- Fibra óptica simétrica de 600 Mbps
+- Telefonía fija con llamadas ilimitadas a fijos y móviles nacionales
+- Dos líneas móviles con llamadas ilimitadas y 25GB cada una
+- Televisión con más de 80 canales incluidos los de deportes y series premium
+- La posibilidad de añadir líneas adicionales con un 50% de descuento para sus hijos
+
+[00:02:07] CLIENTE: Suena bien. ¿Cuál sería el precio mensual?
+
+[00:02:10] AGENTE: El precio regular del paquete FusionTotal Plus es de 89,90€ al mes. Sin embargo, tenemos una promoción especial para nuevos clientes: durante los primeros 6 meses pagaría solo 69,90€ al mes, con un ahorro total de 120€. Además, la instalación y el router son totalmente gratuitos.
+
+[00:02:29] CLIENTE: ¿Y después de los 6 meses?
+
+[00:02:31] AGENTE: Después de los 6 meses de promoción, se aplicaría el precio regular de 89,90€ al mes, impuestos incluidos. Este precio está garantizado durante 12 meses adicionales, sin subidas.
+
+[00:02:43] CLIENTE: Entiendo. ¿Y qué canales de deportes incluye exactamente?
+
+[00:02:47] AGENTE: El paquete incluye todos los canales de la plataforma DeporTV, que tiene La Liga, Champions League, Fórmula 1, MotoGP, NBA y tenis. También incluye el canal de Golf y los canales deportivos internacionales. Prácticamente toda la oferta deportiva disponible en el mercado.
+
+[00:03:05] CLIENTE: Perfecto, porque nos gusta mucho el fútbol. ¿Y hay permanencia?
+
+[00:03:10] AGENTE: Sí, el paquete tiene un compromiso de permanencia de 12 meses. Sin embargo, este compromiso solo afecta a los servicios fijos (fibra y televisión). Las líneas móviles no tienen permanencia y puede modificarlas cuando lo desee.
+
+[00:03:24] CLIENTE: ¿Y si quisiera añadir las líneas móviles para mis hijos?
+
+[00:03:28] AGENTE: Puede añadir líneas adicionales con un 50% de descuento. Cada línea adicional incluiría llamadas ilimitadas y 15GB por solo 7,95€ al mes, en lugar de los 15,90€ habituales. ¿Le gustaría incluir estas líneas adicionales desde el principio?
+
+[00:03:45] CLIENTE: Sí, creo que sería lo mejor añadir dos líneas más.
+
+[00:03:49] AGENTE: Perfecto. Con las dos líneas adicionales, su factura mensual durante los primeros 6 meses sería de 85,80€ (69,90€ del paquete base más 15,90€ de las dos líneas adicionales). Después pasaría a 105,80€ mensuales. ¿Le parece bien?
+
+[00:04:06] CLIENTE: Sí, parece razonable. ¿Cuánto tiempo tardaría en estar operativo todo?
+
+[00:04:11] AGENTE: Tras la contratación, un técnico se pondrá en contacto con usted en las próximas 24-48 horas para concertar la visita de instalación. Normalmente, la instalación se realiza dentro de los 3-5 días laborables siguientes. Las SIM para los móviles las recibiría por mensajería en 1-2 días, pudiendo usar el servicio móvil antes incluso de tener instalada la fibra.
+
+[00:04:32] CLIENTE: Bien. Otra pregunta, ¿puedo mantener mis números de teléfono actuales?
+
+[00:04:37] AGENTE: Por supuesto. Realizaremos la portabilidad de todos sus números actuales sin coste adicional. Solo necesitaría proporcionarme los números que desea mantener y con qué operadores están actualmente. ¿Me los podría facilitar?
+
+[00:04:50] CLIENTE: El fijo es el 91-456-78-90 con TeleHogar, y los móviles son 654-321-987 y 654-321-988 con MobiExpress, y 654-321-989 y 654-321-990 con OtraCompañía.
+
+[00:05:08] AGENTE: Muchas gracias. He anotado todos los números. Ahora, para proceder con la contratación, necesitaría algunos datos personales. ¿Me podría facilitar su nombre completo?
+
+[00:05:18] CLIENTE: <PERSON>.
+
+[00:05:21] AGENTE: Gracias. ¿Y su número de documento de identidad?
+
+[00:05:25] CLIENTE: 12345678A.
+
+[00:05:28] AGENTE: Perfecto. ¿Me confirma su dirección completa donde se realizará la instalación?
+
+[00:05:33] CLIENTE: Calle Gran Vía 123, 4º B, 28015, Madrid.
+
+[00:05:39] AGENTE: Gracias. ¿Y un correo electrónico para enviarle la confirmación y la documentación?
+
+[00:05:44] CLIENTE: Mi correo es ejemplo@correo.com.
+
+[00:05:48] AGENTE: Perfecto. Para finalizar la contratación, necesitaría los datos de su cuenta bancaria para la domiciliación de los recibos. ¿Me puede facilitar su número de cuenta IBAN?
+
+[00:05:59] CLIENTE: Es ES12 3456 7890 1234 5678 9012.
+
+[00:06:10] AGENTE: Muchas gracias. Un momento mientras completo el proceso de contratación en nuestro sistema.
+
+[00:06:33] AGENTE: <PERSON>, he finalizado el registro de su contratación. Su número de pedido es FC-456789. En los próximos minutos recibirá un correo electrónico con la confirmación y toda la documentación. También recibirá un SMS cuando el técnico haya sido asignado para concertar la visita de instalación. ¿Tiene alguna preferencia de horario para la instalación?
+
+[00:06:54] CLIENTE: Si pudiera ser por la tarde, a partir de las 16:00, sería ideal.
+
+[00:06:58] AGENTE: Lo he anotado en su expediente. Le indicaré al técnico que se ponga en contacto para concertar una cita en horario de tarde. Las SIM para sus líneas móviles serán enviadas en las próximas 24-48 horas por mensajería. ¿Hay alguna otra consulta que quiera hacerme sobre su contratación?
+
+[00:07:16] CLIENTE: ¿Qué pasa con mis contratos actuales? ¿Debo darme de baja yo mismo?
+
+[00:07:21] AGENTE: No se preocupe por eso. Al hacer la portabilidad de sus números, nosotros gestionamos automáticamente la baja de sus servicios móviles. En cuanto al servicio fijo, al portar el número fijo, también se gestiona la baja de la línea telefónica. Sin embargo, si tiene contratados servicios adicionales como internet o televisión con su actual proveedor, sí debería contactar con ellos para tramitar esas bajas específicas una vez que nuestro servicio esté instalado y funcionando correctamente.
+
+[00:07:48] CLIENTE: Entendido. Pues creo que está todo claro.
+
+[00:07:51] AGENTE: Perfecto. Ha sido un placer gestionar su contratación. Bienvenido a FusionCom. En nombre de toda la compañía, le agradecemos su confianza. Recibirá toda la información por correo electrónico y estaremos a su disposición para cualquier consulta adicional en nuestro servicio de atención al cliente 24/7. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:08:11] CLIENTE: No, eso es todo. Muchas gracias por su atención.
+
+[00:08:15] AGENTE: Gracias a usted por elegir FusionCom. No dude en contactarnos si surge cualquier duda. Que tenga un excelente día.
+
+[00:08:23] CLIENTE: Igualmente. Adiós.
+
+[00:08:25] AGENTE: Adiós.
+
+[00:08:26] [FIN DE LA LLAMADA]

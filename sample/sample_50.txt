@@ -1,0 +1,25 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Camila del área de beneficios y promociones. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Jorge Salas. Estoy llamando porque me llegó un mensaje sobre una promoción por referir a amigos, pero no entendí bien cómo funciona.
+[00:00:13] AGENTE: Con gusto te explico, Jorge. La promoción "Trae a un Amigo" permite que, si refieres a alguien para que contrate un plan de internet o TV con nosotros, ambos recibirán un mes gratis del servicio.
+[00:00:25] CLIENTE: Interesante. ¿Y cómo hago la referencia? ¿Hay algún código o formulario?
+[00:00:29] AGENTE: Sí, puedes generar tu código único desde la app MiTelecom en la sección "Promociones". También puedes compartirlo directamente desde ahí por WhatsApp, correo o redes.
+[00:00:40] CLIENTE: ¿Y qué pasa si mi amigo ya fue cliente antes?
+[00:00:44] AGENTE: La promoción solo aplica para nuevos clientes o quienes hayan estado inactivos por más de 6 meses. Si cumple esa condición, puede usar tu código al momento de la contratación.
+[00:00:54] CLIENTE: ¿Y qué plan mínimo debe contratar para que se active el beneficio?
+[00:00:57] AGENTE: Debe contratar al menos un plan Dúo o Trío, es decir, internet + TV o internet + TV + teléfono. Los planes de solo internet no están incluidos en esta promoción.
+[00:01:08] CLIENTE: Entiendo. ¿Y cuándo recibo el mes gratis?
+[00:01:11] AGENTE: Una vez que el servicio de tu referido esté activo y haya pagado su primera factura, en tu siguiente boleta se aplicará automáticamente el descuento equivalente a un mes completo de tu plan actual.
+[00:01:22] CLIENTE: ¿Hay un límite de referidos?
+[00:01:24] AGENTE: Puedes referir hasta 5 personas durante el periodo de vigencia de la campaña, que va hasta el 30 de junio. Podrías obtener hasta 5 meses gratis si tus referidos cumplen las condiciones.
+[00:01:35] CLIENTE: Suena muy bien. ¿Puedo revisar cuántos referidos tengo desde la app?
+[00:01:39] AGENTE: Así es. En la misma sección de la promoción puedes hacer seguimiento: verás cuántas personas usaron tu código, cuántos activaron el servicio y cuándo se aplicará tu beneficio.
+[00:01:49] CLIENTE: Perfecto. Voy a intentarlo. Tengo al menos dos amigos que están buscando cambiar de operadora.
+[00:01:54] AGENTE: Excelente. Comparte tu código con ellos y si necesitan ayuda para contratar, pueden llamarnos o hacerlo por la web ingresando el código durante el proceso.
+[00:02:02] CLIENTE: Muchas gracias, Camila. Muy clara la explicación.
+[00:02:05] AGENTE: Gracias a ti por tu interés, Jorge. ¿Deseas que te enviemos un correo con esta información resumida?
+[00:02:10] CLIENTE: Sí, por favor. Mi correo es jorgesalas@email.com.
+[00:02:13] AGENTE: Perfecto. Ya lo envié. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:02:17] CLIENTE: No, todo bien. Buenas tardes.
+[00:02:19] AGENTE: Que tengas una excelente tarde. Hasta luego.
+[00:02:21] CLIENTE: Hasta luego.
+[00:02:22] SISTEMA: [Llamada finalizada]

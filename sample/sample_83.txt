@@ -1,0 +1,24 @@
+[00:00:00] AGENTE: <LOCATION>. Muy buenos días, le atiende Catalina. ¿Con quién tengo el gusto de hablar?
+[00:00:04] CLIENTE: Buenos días. Mi nombre es Martín Díaz. Llamo porque necesito recuperar mi número urgente. Cambié de equipo y ahora no tengo acceso a mi cuenta bancaria.
+[00:00:10] AGENTE: Entiendo, Martín. Vamos a resolverlo. ¿Me puedes indicar tu RUT, por favor?
+[00:00:13] CLIENTE: 20.198.111-0.
+[00:00:15] AGENTE: Gracias. ¿Y tu dirección registrada?
+[00:00:18] CLIENTE: Calle Limache 303, departamento 705.
+[00:00:21] AGENTE: Perfecto. Veo que tu chip fue activado por última vez hace 3 días en un equipo nuevo. ¿Eso fue intencional?
+[00:00:26] CLIENTE: No, ese es el problema. Cambié de teléfono pero el chip viejo no me funciona y no logré hacer el cambio en tienda. Ahora no tengo ni línea ni verificación para mi banco.
+[00:00:33] AGENTE: Ya veo. Podemos hacer una reposición remota del chip, siempre que tengas acceso a otro número para recibir validación. ¿Tienes uno disponible?
+[00:00:40] CLIENTE: Sí, tengo el teléfono de mi pareja. Puedo usar ese.
+[00:00:43] AGENTE: Perfecto. Te voy a enviar un código al número alternativo. ¿Me lo puedes dictar cuando llegue?
+[00:00:47] CLIENTE: Ya… ahí llegó. El código es 398104.
+[00:00:50] AGENTE: Código verificado. Ya estoy activando una nueva tarjeta SIM asociada a tu número. ¿Tienes una SIM virgen disponible?
+[00:00:56] CLIENTE: Sí, la compré ayer en la tienda.
+[00:00:58] AGENTE: Excelente. Inserta el chip y reinicia el equipo. En un par de minutos deberías tener señal con tu número anterior.
+[00:01:04] CLIENTE: ¡Ya tengo señal! Qué alivio.
+[00:01:07] AGENTE: ¡Qué bueno, Martín! Ya puedes volver a usar todas tus apps. ¿Deseas que bloqueemos el chip anterior por seguridad?
+[00:01:13] CLIENTE: Sí, por favor. Y también quiero activar doble verificación para evitar esto de nuevo.
+[00:01:17] AGENTE: Perfecto, ya quedó bloqueado el chip anterior y activada la verificación por correo. ¿Algo más en que te pueda ayudar?
+[00:01:24] CLIENTE: No, solo agradecerte. Me resolviste todo muy rápido.
+[00:01:27] AGENTE: A ti por comunicarte con <LOCATION>. Que tengas muy buen día.
+[00:01:30] CLIENTE: Gracias. Chau.
+[00:01:31] AGENTE: Chau.
+[00:01:33] *** LLAMADA FINALIZADA ***

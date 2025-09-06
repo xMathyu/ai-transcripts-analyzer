@@ -1,0 +1,79 @@
+[00:00:00] AGENTE: <LOCATION> Atención al Cliente. Le habla Fernando. ¿En qué puedo ayudarle?
+
+[00:00:07] CLIENTE: Hola, buenos días. Estoy llamando porque recibí mi factura de este mes y viene con un cobro que no corresponde. Me están facturando un servicio adicional que yo nunca contraté.
+
+[00:00:19] AGENTE: Buenos días. Lamento escuchar que está teniendo problemas con su facturación. Vamos a revisar este tema de inmediato. Para acceder a su cuenta, ¿podría proporcionarme su número de cliente o el número telefónico asociado a su servicio?
+
+[00:00:34] CLIENTE: Mi número de cliente es 7624-8951-3062.
+
+[00:00:42] AGENTE: Gracias. Y para confirmar que estoy hablando con el titular, ¿me podría indicar su nombre completo?
+
+[00:00:49] CLIENTE: <PERSON>.
+
+[00:00:51] AGENTE: Muchas gracias, <PERSON>. Permítame un momento mientras reviso la información de su cuenta y los detalles de su facturación reciente.
+
+[00:01:08] AGENTE: He revisado su cuenta y veo que efectivamente en su factura del periodo 15 de febrero al 15 de marzo aparece un cargo por "Paquete Streaming Premium" de $8.990. ¿Es este el cargo que no reconoce?
+
+[00:01:24] CLIENTE: Exactamente. Yo nunca solicité ese paquete y no entiendo por qué me lo están cobrando.
+
+[00:01:30] AGENTE: Comprendo su preocupación. Déjeme verificar cuándo y cómo fue activado este servicio adicional.
+
+[00:01:45] AGENTE: De acuerdo con nuestros registros, este paquete fue activado el 22 de febrero a través de nuestra plataforma de autogestión en línea. La solicitud se realizó desde la dirección IP 192.168.xx.xx utilizando las credenciales de acceso a su cuenta. ¿Es posible que usted o algún miembro de su familia haya activado este servicio?
+
+[00:02:08] CLIENTE: Definitivamente no fui yo. Tal vez mi hijo adolescente que a veces usa mi computadora, pero él sabe que debe consultarme antes de contratar cualquier servicio adicional. Además, nunca recibí ninguna confirmación de esta contratación.
+
+[00:02:22] AGENTE: Entiendo. Respecto a la confirmación, según nuestro sistema, se envió una notificación por correo electrónico a la dirección registrada en su cuenta, que es usuario@correo.com. ¿Es esta su dirección de correo actual?
+
+[00:02:37] CLIENTE: Sí, es mi correo, pero no recuerdo haber visto ninguna notificación sobre esto. Quizás llegó a spam o se me pasó, pero lo importante es que yo no autoricé este servicio y quiero que me lo descuenten de la factura.
+
+[00:02:50] AGENTE: Comprendo completamente. Dado que se trata de un servicio que no reconoce haber contratado, voy a proceder a generar una solicitud de ajuste en su factura para que se descuente este cargo. También voy a cancelar inmediatamente este paquete para que no aparezca en futuras facturaciones.
+
+[00:03:09] CLIENTE: Perfecto, eso es lo que necesito. ¿Cuánto tiempo tardará en procesarse este ajuste?
+
+[00:03:14] AGENTE: El ajuste se procesará en un plazo máximo de 5 días hábiles. Una vez aprobado, se generará una nota de crédito por el valor de $8.990 que podrá ver reflejada en su próxima factura como un saldo a favor. Alternativamente, si lo prefiere, podemos realizar una devolución directa a su cuenta bancaria, aunque este proceso podría tomar hasta 10 días hábiles.
+
+[00:03:37] CLIENTE: Prefiero que quede como saldo a favor para la próxima factura, es más simple.
+
+[00:03:42] AGENTE: Perfecto, así lo haremos. Adicionalmente, ¿le gustaría que implementemos alguna medida de seguridad adicional en su cuenta para evitar contrataciones no autorizadas en el futuro?
+
+[00:03:54] CLIENTE: Sí, me gustaría. ¿Qué opciones hay?
+
+[00:03:57] AGENTE: Le puedo ofrecer tres opciones: primero, activar la autenticación de dos factores, donde además de su contraseña, necesitará confirmar cualquier cambio o contratación con un código enviado a su teléfono móvil; segundo, establecer un PIN de seguridad para operaciones sensibles; o tercero, bloquear completamente la contratación de servicios adicionales desde la plataforma online, permitiendo realizar estos cambios únicamente a través de nuestro centro de atención telefónica.
+
+[00:04:27] CLIENTE: Me gusta la primera opción, la autenticación de dos factores. Así me enteraré si alguien intenta hacer cambios.
+
+[00:04:34] AGENTE: Excelente elección. Voy a configurar la autenticación de dos factores en este momento. Para completar el proceso, necesito confirmar que su número de teléfono móvil actual es 9-8765-4321, ¿es correcto?
+
+[00:04:48] CLIENTE: Sí, ese es mi número.
+
+[00:04:50] AGENTE: Perfecto. He activado la autenticación de dos factores. A partir de ahora, cuando usted o cualquier persona intente realizar cambios en su cuenta, contratar servicios adicionales o modificar sus datos personales, recibirá un mensaje SMS con un código de verificación válido por 10 minutos que deberá ingresar para autorizar la operación.
+
+[00:05:11] CLIENTE: Excelente, eso me da más tranquilidad.
+
+[00:05:14] AGENTE: Me alegra escuchar eso. Ahora, respecto a su reclamo por el cobro indebido, estoy generando el caso con el número #RTF-456789. Con este número podrá darle seguimiento si lo necesita. También le enviaré un correo electrónico con la confirmación del caso y el detalle del ajuste solicitado.
+
+[00:05:33] CLIENTE: Perfecto. Y quiero asegurarme de que este "Paquete Streaming Premium" quede completamente cancelado y no me lo vuelvan a cobrar.
+
+[00:05:42] AGENTE: No se preocupe, he procesado la cancelación del paquete en este momento. La cancelación es efectiva de inmediato y se ha registrado en nuestro sistema para que no vuelva a activarse. Le puedo confirmar que a partir de su próxima factura no verá más este cargo.
+
+[00:05:59] CLIENTE: Una consulta adicional: ¿este paquete que se activó por error incluía algún beneficio o servicio que vaya a perder ahora?
+
+[00:06:08] AGENTE: El Paquete Streaming Premium incluía acceso a tres plataformas de streaming con descuentos preferenciales y datos ilimitados para estas aplicaciones. Al cancelarlo, ya no tendrá estos beneficios. Sin embargo, dado que usted no solicitó el servicio ni lo utilizó, no debería representar una pérdida real para usted.
+
+[00:06:27] CLIENTE: Entiendo, gracias por la aclaración. ¿Hay alguna otra alternativa que me puedan ofrecer si en el futuro realmente quisiera algo similar pero más económico?
+
+[00:06:37] AGENTE: Claro que sí. Tenemos el "Paquete Streaming Básico" por $4.990 mensuales que incluye datos ilimitados para las dos plataformas de streaming más populares, o el "Paquete Redes Sociales y Multimedia" por $3.990 que cubre tanto redes sociales como algunas plataformas de streaming con datos preferenciales. Si en algún momento desea conocer más detalles o contratar alguna de estas opciones, puede contactarnos nuevamente y con gusto le asesoraremos.
+
+[00:07:05] CLIENTE: Lo tendré en cuenta para el futuro. Creo que por ahora eso sería todo.
+
+[00:07:10] AGENTE: Perfecto, <PERSON>. Recapitulando: he registrado su reclamo por el cobro del "Paquete Streaming Premium" que no reconoce haber contratado; he solicitado el ajuste correspondiente que verá reflejado como saldo a favor en su próxima factura; he cancelado el servicio para que no se vuelva a cobrar; y he activado la autenticación de dos factores para aumentar la seguridad de su cuenta. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:07:36] CLIENTE: No, eso sería todo. Muchas gracias por la gestión.
+
+[00:07:40] AGENTE: Gracias a usted por contactarnos y por su paciencia. Lamento las molestias ocasionadas por este inconveniente. Recibirá en breve un correo electrónico con todos los detalles de la gestión realizada hoy. Si necesita cualquier otra asistencia, no dude en contactarnos nuevamente. Ha sido un placer atenderle.
+
+[00:07:58] CLIENTE: Gracias, que tenga un buen día.
+
+[00:08:01] AGENTE: Igualmente, que tenga un excelente día. Gracias por preferir <LOCATION>.
+
+[00:08:06] SISTEMA: Llamada finalizada.

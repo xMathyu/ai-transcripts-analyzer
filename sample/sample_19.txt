@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: . Buenas tardes, habla Jimena del área de fidelización. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Manuel Lazo. Llamo porque estoy evaluando cancelar mi servicio. Me gustaría saber qué opciones tengo antes de tomar la decisión.
+[00:00:13] AGENTE: Entiendo, Manuel. Primero que nada, lamento que estés considerando irte. ¿Podrías brindarme tu número de cliente o RUT para revisar tu cuenta y ayudarte mejor?
+[00:00:21] CLIENTE: Claro, es 18-564-903-7.
+[00:00:24] AGENTE: Gracias. ¿Me confirmas tu dirección registrada, por favor?
+[00:00:27] CLIENTE: Sí, Avenida Del Parque 312, departamento 402.
+[00:00:30] AGENTE: Perfecto. Ya accedí a tu cuenta. Veo que tienes el plan Hogar Total con internet de 200 Mbps y televisión HD. ¿Puedo preguntarte por qué estás considerando cancelarlo?
+[00:00:41] CLIENTE: Básicamente por el precio. Me parece que ha subido demasiado y no estoy usando tanto la televisión como antes. Además, he visto ofertas más baratas en otras compañías.
+[00:00:51] AGENTE: Entiendo. Justamente tenemos promociones exclusivas para clientes que están considerando dejar el servicio. Por ejemplo, puedo ofrecerte una rebaja del 25% por los próximos 6 meses si mantienes el plan actual, o cambiarte al plan Esencial con internet de 150 Mbps y TV básica por 99 soles mensuales. ¿Te interesaría evaluar alguna de estas opciones?
+[00:01:09] CLIENTE: La del 25% me parece interesante. ¿Se mantiene el mismo servicio y condiciones?
+[00:01:14] AGENTE: Exacto. Tendrías la misma velocidad y canales, pero con un descuento aplicado automáticamente en tu factura. No tiene permanencia adicional y puedes cancelar cuando lo desees.
+[00:01:23] CLIENTE: Suena bien. ¿Ese descuento se aplica desde el próximo mes?
+[00:01:27] AGENTE: Así es. Si decides continuar, desde tu siguiente ciclo ya vendría con el 25% aplicado. ¿Te gustaría que lo active ahora?
+[00:01:34] CLIENTE: Sí, adelante. Vamos a probar.
+[00:01:36] AGENTE: Perfecto, ya quedó registrado. También recibirás un correo de confirmación con los detalles del ajuste.
+[00:01:42] CLIENTE: Muchas gracias, Jimena. Me parece bien que ofrezcan estas alternativas antes de que uno se vaya.
+[00:01:47] AGENTE: Gracias a ti, Manuel, por darte el tiempo de consultarlo. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:01:51] CLIENTE: No, por ahora todo claro.
+[00:01:53] AGENTE: Perfecto. Que tengas una excelente tarde y gracias por seguir con nosotros.
+[00:01:57] CLIENTE: Igualmente. Hasta luego.
+[00:01:59] AGENTE: Hasta luego.
+[00:02:00] SISTEMA: [Llamada finalizada]

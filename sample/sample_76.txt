@@ -1,0 +1,32 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Camila. ¿Con quién tengo el gusto de hablar?
+[00:00:04] CLIENTE: Hola, buen día. Mi nombre es <PERSON>. Llamaba para consultar sobre un corte de servicio que tengo desde ayer.
+[00:00:10] AGENTE: Hola <PERSON>, espero estés muy bien. Gracias por comunicarte con <LOCATION>. ¿Podrías indicarme tu número de cliente para poder ayudarte?
+[00:00:16] CLIENTE: Sí, claro. Es 784-230-114.
+[00:00:20] AGENTE: Perfecto, gracias. ¿Me confirmas también tu dirección registrada, por favor?
+[00:00:23] CLIENTE: Avenida Las Palmas 1452, departamento 402.
+[00:00:28] AGENTE: Muchas gracias. Un momento mientras reviso tu información en sistema.
+[00:00:34] AGENTE: Ya tengo la información. Efectivamente, el servicio fue suspendido por falta de pago de la última factura vencida.
+[00:00:42] CLIENTE: ¿Y de cuánto es esa factura? Porque yo pagué el mes pasado.
+[00:00:45] AGENTE: Déjame confirmarlo… Sí, el último pago registrado fue el del 15 de agosto por $18.990. Sin embargo, quedó un saldo pendiente de $4.800 correspondiente a un cargo adicional por exceso de datos.
+[00:00:58] CLIENTE: ¡Ah! No tenía idea de ese cobro.
+[00:01:01] AGENTE: Entiendo, <PERSON>. A veces esos cobros se generan si se supera el límite mensual del plan. Si deseas, puedo enviarte el detalle a tu correo.
+[00:01:08] CLIENTE: Por favor. ¿Está registrado el correo <EMAIL>?
+[00:01:12] AGENTE: Sí, correcto. Ya envié el detalle. ¿Lo acabas de recibir?
+[00:01:17] CLIENTE: Sí, aquí lo tengo. Gracias.
+[00:01:19] CLIENTE: Entonces, para reactivar el servicio, ¿puedo pagar ahora?
+[00:01:22] AGENTE: Claro que sí. Puedes pagar en línea desde nuestra página web o te puedo generar un enlace de pago rápido. ¿Te gustaría?
+[00:01:27] CLIENTE: Sí, mándame el enlace, por favor.
+[00:01:29] AGENTE: Listo, acabo de enviarlo por SMS al número registrado. ¿Lo recibiste?
+[00:01:35] CLIENTE: Sí, ya me llegó. Lo voy a pagar ahora mismo.
+[00:01:41] AGENTE: Perfecto, te acompaño mientras tanto.
+[00:02:20] CLIENTE: Ya está pagado.
+[00:02:23] AGENTE: Déjame verificar… Sí, ya aparece registrado el pago. Ahora procederé con la reactivación de tu servicio. Este proceso puede tardar entre 5 a 10 minutos.
+[00:02:35] CLIENTE: Genial. ¿Y tengo que reiniciar el router o algo?
+[00:02:38] AGENTE: Te recomiendo apagar el router por 10 segundos y luego volver a encenderlo. Si después de 15 minutos no vuelve el servicio, nos vuelves a contactar, ¿de acuerdo?
+[00:02:46] CLIENTE: Ok, muchas gracias.
+[00:02:49] AGENTE: ¿Hay algo más en lo que te pueda ayudar el día de hoy?
+[00:02:52] CLIENTE: No, eso sería todo. Muchas gracias, Camila.
+[00:02:55] AGENTE: Gracias a ti por comunicarte con <LOCATION>. Que tengas un excelente día.
+[00:02:58] CLIENTE: Igualmente. Chau.
+[00:03:00] AGENTE: Chau, chau.
+[00:03:02] *** LLAMADA FINALIZADA ***

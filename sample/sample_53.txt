@@ -1,0 +1,23 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Karla. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buenos días. Me llamo Juan.
+[00:00:07] AGENTE: <LOCATION>. ¡Hola Juan! ¿Cómo estás? Espero que te encuentres bien. Cuéntame, ¿en qué te puedo ayudar el día de hoy?
+[00:00:12] CLIENTE: Estoy llamando porque he tenido problemas con mi servicio de internet. Se desconecta constantemente.
+[00:00:20] AGENTE: Lamento mucho escuchar eso, Juan. Voy a revisar el estado de tu servicio. ¿Podrías proporcionarme tu número de cliente?
+[00:00:26] CLIENTE: Claro, es 74-389-512.
+[00:00:30] AGENTE: Muchas gracias. Déjame un momento mientras verifico la información en el sistema.
+[00:00:40] AGENTE: Veo que hay intermitencia en la conexión desde hace dos días. ¿Has notado algún patrón en las desconexiones?
+[00:00:50] CLIENTE: Sí, parece que ocurre sobre todo en la noche.
+[00:00:55] AGENTE: Entiendo. Voy a reiniciar la señal desde mi sistema para ver si eso mejora la estabilidad. Un momento, por favor.
+[00:01:05] AGENTE: Listo, he reiniciado la señal. ¿Podrías probar tu conexión ahora y decirme si notas alguna mejora?
+[00:01:15] CLIENTE: Un segundo... Parece que ahora está funcionando mejor.
+[00:01:20] AGENTE: ¡Genial! También te recomiendo reiniciar tu router al menos una vez por semana para evitar problemas de intermitencia.
+[00:01:30] CLIENTE: De acuerdo, lo tendré en cuenta. Muchas gracias.
+[00:01:35] AGENTE: Con mucho gusto, Juan. Si el problema persiste, podemos enviar a un técnico para revisar la instalación.
+[00:01:45] CLIENTE: Espero que no sea necesario, pero lo tendré en cuenta.
+[00:01:50] AGENTE: Perfecto. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:01:55] CLIENTE: No, eso sería todo. Gracias por tu ayuda.
+[00:02:00] AGENTE: Con gusto, Juan. Que tengas un excelente día.
+[00:02:05] CLIENTE: Igualmente. Hasta luego.
+[00:02:10] AGENTE: Hasta luego.
+[00:02:12] [Llamada finalizada]
+

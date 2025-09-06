@@ -1,0 +1,25 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Santiago del área de renovaciones. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Karina Espinoza. Me están llamando seguido con ofertas de renovación y quería entender bien qué beneficios tendría si renuevo ahora mi contrato.
+[00:00:13] AGENTE: Perfecto, Karina. Con gusto te explico. ¿Podrías brindarme tu número de cliente o RUT para verificar tu plan actual?
+[00:00:19] CLIENTE: Claro, es 23-719-440-2.
+[00:00:22] AGENTE: Gracias. ¿Puedes confirmarme también tu dirección registrada, por favor?
+[00:00:25] CLIENTE: Avenida Primavera 178, departamento 1201.
+[00:00:29] AGENTE: Muy bien. Veo que actualmente cuentas con el plan Dúo 150, que incluye internet de 150 Mbps y televisión HD con 85 canales. El contrato está por vencer en dos semanas, así que es un buen momento para renovar y acceder a nuevos beneficios.
+[00:00:45] CLIENTE: ¿Y qué beneficios me ofrecen exactamente?
+[00:00:47] AGENTE: Tenemos una promoción para clientes que renuevan por 12 meses. Podrías pasar al plan Dúo 300 por el mismo precio actual durante los primeros 6 meses, y luego pagar solo 10 soles más. Además, recibirías un mes gratuito de nuestra app de streaming y el nuevo decodificador 4K sin costo.
+[00:01:05] CLIENTE: ¿Ese plan incluye más canales?
+[00:01:07] AGENTE: Sí, el plan Dúo 300 incluye 20 canales adicionales, varios en alta definición, incluyendo deportes y cine. También mejoras tu velocidad de internet al doble.
+[00:01:17] CLIENTE: Me interesa, pero tengo duda con el tema del decodificador. ¿Hay que devolver el actual?
+[00:01:21] AGENTE: No, puedes quedártelo como respaldo. El nuevo decodificador 4K se entrega sin costo por renovación y será tuyo mientras mantengas el plan activo.
+[00:01:30] CLIENTE: ¿Y hay penalidad si decido cancelar antes de los 12 meses?
+[00:01:33] AGENTE: Sí, hay una penalidad proporcional al tiempo restante del contrato. Por ejemplo, si cancelas en el mes 6, se te cobraría el 50% del saldo de los meses restantes.
+[00:01:45] CLIENTE: Entiendo. Me interesa la propuesta. ¿Puedo firmar digitalmente?
+[00:01:48] AGENTE: Por supuesto. Te enviaré el contrato digital al correo registrado: karina.espinoza@email.com. Solo debes hacer clic en el enlace y seguir las instrucciones.
+[00:01:56] CLIENTE: Perfecto, Santiago. Vamos a hacerlo entonces.
+[00:01:59] AGENTE: Ya quedó procesada la renovación. En unos minutos recibirás la confirmación y en máximo 3 días hábiles el técnico llevará el nuevo decodificador a tu domicilio.
+[00:02:09] CLIENTE: Excelente. Gracias por tu ayuda.
+[00:02:11] AGENTE: Gracias a ti por seguir confiando en nosotros. ¿Hay algo más en lo que pueda asistirte hoy?
+[00:02:15] CLIENTE: No, todo claro. Buenas tardes.
+[00:02:17] AGENTE: Que tengas una excelente tarde. Hasta luego.
+[00:02:20] CLIENTE: Hasta luego.
+[00:02:21] SISTEMA: [Llamada finalizada]

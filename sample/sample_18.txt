@@ -1,0 +1,23 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Matías del área de ventas. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Cecilia Paredes. Estoy interesada en contratar un paquete de internet y televisión para mi casa nueva.
+[00:00:11] AGENTE: Con gusto te ayudo, Cecilia. Primero, ¿me podrías indicar la dirección donde deseas instalar el servicio?
+[00:00:16] CLIENTE: Sí, es Calle Las Palmeras 890, distrito de San Borja.
+[00:00:21] AGENTE: Gracias. Dame un momento para verificar si contamos con cobertura en esa zona...
+[00:00:35] AGENTE: Cecilia, tengo buenas noticias. Sí tenemos cobertura de fibra óptica en tu dirección. Podemos ofrecerte un paquete que incluye internet de 500 Mbps, TV HD con 100 canales, y acceso a nuestra app de streaming por 129 soles al mes.
+[00:00:48] CLIENTE: Suena bien. ¿Ese precio incluye la instalación?
+[00:00:51] AGENTE: Sí, la instalación está incluida. Y si contratas hoy, también recibirás el primer mes sin costo como promoción.
+[00:00:58] CLIENTE: Perfecto. ¿Qué necesito para iniciar el proceso?
+[00:01:01] AGENTE: Solo necesito tus datos básicos: número de DNI, correo electrónico y un número de contacto. ¿Te parece si iniciamos ahora?
+[00:01:07] CLIENTE: Claro. Mi DNI es 45873921, el correo es cparedes@email.com y mi celular es 987654321.
+[00:01:15] AGENTE: Perfecto. Ya estoy ingresando los datos. ¿Hay algún día en particular que prefieras para la instalación?
+[00:01:20] CLIENTE: El sábado en la mañana sería ideal.
+[00:01:23] AGENTE: Tenemos disponibilidad para este sábado entre 8:00 a.m. y 12:00 p.m. El técnico te llamará antes de llegar.
+[00:01:30] CLIENTE: Perfecto. ¿Debo estar presente o puede recibirlo alguien más?
+[00:01:33] AGENTE: Puede recibirlo otra persona, solo asegúrate de que tenga tu DNI o una copia.
+[00:01:38] CLIENTE: Entendido. ¿Cuándo recibiré la confirmación del servicio?
+[00:01:41] AGENTE: En los próximos 10 minutos recibirás un correo con los detalles del contrato y un SMS con la confirmación de la cita. ¿Algo más en lo que pueda ayudarte, Cecilia?
+[00:01:50] CLIENTE: No, todo muy claro. Muchas gracias, Matías.
+[00:01:53] AGENTE: Gracias a ti por elegirnos. Te damos la bienvenida a nuestra red. ¡Que tengas una excelente tarde!
+[00:01:57] CLIENTE: Igualmente. Hasta luego.
+[00:01:59] AGENTE: Hasta luego.
+[00:02:00] SISTEMA: [Llamada finalizada]

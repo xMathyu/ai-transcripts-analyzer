@@ -1,0 +1,25 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Martín. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buenos días. Me llamo Andrés.
+[00:00:07] AGENTE: ¡Hola, Andrés! ¿Cómo estás? Espero que te encuentres bien. ¿En qué te puedo ayudar el día de hoy?
+[00:00:12] CLIENTE: Sí, llamo porque quiero revisar mi plan de datos. Creo que estoy pagando demasiado y me gustaría saber si hay una opción más económica.
+[00:00:21] AGENTE: Entiendo, Andrés. Con gusto te ayudo a revisar opciones. Para eso, ¿me puedes proporcionar tu número de documento?
+[00:00:28] CLIENTE: Claro, es 18-567-234-9.
+[00:00:32] AGENTE: Perfecto, muchas gracias. Déjame validar tu información en el sistema.
+[00:00:40] AGENTE: Veo que actualmente tienes el plan Premium Plus de 50 GB con llamadas ilimitadas, el cual tiene un costo de 29.990 al mes. ¿Es correcto?
+[00:00:50] CLIENTE: Sí, ese es el que tengo, pero creo que no consumo tanto. ¿Hay algo más barato?
+[00:00:56] AGENTE: Claro, te comento que tenemos un plan de 25 GB con llamadas ilimitadas por 19.990. ¿Te interesaría hacer el cambio?
+[00:01:05] CLIENTE: Sí, ese suena mejor. ¿Cuándo se haría efectivo el cambio?
+[00:01:10] AGENTE: Si lo hacemos ahora, el cambio se reflejará en tu próxima facturación. Puede haber un cobro proporcional este mes.
+[00:01:17] CLIENTE: Ah, entiendo. Sí, hagámoslo entonces.
+[00:01:20] AGENTE: Excelente. Voy a proceder con el cambio. ¿Me confirmas tu dirección registrada?
+[00:01:25] CLIENTE: Sí, es Av. Los Olivos 145.
+[00:01:28] AGENTE: Perfecto, ya lo validé. Ahora, solo para confirmar, ¿aceptas el cambio al plan de 25 GB por 19.990 al mes?
+[00:01:35] CLIENTE: Sí, acepto.
+[00:01:37] AGENTE: Muy bien, Andrés. Procederé con la modificación. Un momento, por favor.
+[00:01:45] AGENTE: Listo, el cambio ha sido realizado. A partir de la próxima facturación, verás reflejado el nuevo plan.
+[00:01:52] CLIENTE: ¡Genial! Muchas gracias.
+[00:01:55] AGENTE: ¿Necesitas ayuda con algo más, Andrés?
+[00:01:58] CLIENTE: No, eso sería todo. Gracias.
+[00:02:00] AGENTE: De nada, gracias por comunicarte con <LOCATION>. ¡Que tengas un excelente día!
+[00:02:05] CLIENTE: Igualmente. ¡Hasta luego!
+

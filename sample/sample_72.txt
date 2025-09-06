@@ -1,0 +1,65 @@
+[00:00:00] AGENTE: MoviRed Chile. Le saluda Esteban. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola, buenos días. Mi nombre es Carmen López.
+
+[00:00:09] AGENTE: Buenos días doña Carmen, ¿cómo se encuentra el día de hoy? ¿En qué puedo ayudarle?
+
+[00:00:14] CLIENTE: Mira, te llamo porque tengo un problema con mi plan. Estoy pagando demasiado y quiero ver si hay alguna opción más económica.
+
+[00:00:22] AGENTE: Comprendo perfectamente su situación, doña Carmen. Estaré encantado de revisar las opciones que tenemos disponibles para usted. Para poder acceder a su cuenta, ¿me podría proporcionar su RUT, por favor?
+
+[00:00:34] CLIENTE: Sí, es 14.752.896-3.
+
+[00:00:41] AGENTE: Gracias. ¿Y me confirma también su nombre completo?
+
+[00:00:45] CLIENTE: <PERSON> Carmen Andrea López Mendoza.
+
+[00:00:49] AGENTE: Perfecto. ¿Y podría confirmarme la dirección registrada en su cuenta?
+
+[00:00:54] CLIENTE: Avenida Los Jazmines 234, departamento 506, <LOCATION>.
+
+[00:01:01] AGENTE: Muchas gracias por la información, doña Carmen. Un momento por favor mientras reviso su cuenta en el sistema... no me corte.
+
+[00:01:09] CLIENTE: Está bien, aquí espero.
+
+[00:01:45] AGENTE: Gracias por su paciencia. Veo que actualmente tiene un plan de $25.990 con 30GB, minutos ilimitados y redes sociales gratis. ¿Es correcto?
+
+[00:01:56] CLIENTE: Sí, ese es mi plan actual, pero me parece muy caro para lo que realmente uso.
+
+[00:02:01] AGENTE: Entiendo. Para poder ofrecerle la mejor alternativa, ¿me podría indicar aproximadamente cuántos GB consume mensualmente?
+
+[00:02:09] CLIENTE: La verdad es que nunca uso más de 15GB al mes.
+
+[00:02:13] AGENTE: Perfecto. Con esa información, puedo recomendarle nuestro plan de $16.990 que incluye 18GB, minutos ilimitados y las mismas redes sociales gratis. ¿Le interesaría este plan?
+
+[00:02:28] CLIENTE: Sí, eso suena mucho mejor. ¿Qué tengo que hacer para cambiarme?
+
+[00:02:33] AGENTE: Yo mismo puedo realizar el cambio ahora mismo. Solo necesito confirmar algunos datos adicionales. ¿Me podría proporcionar el número de serie de su dispositivo actual? Lo puede encontrar en la configuración de su teléfono.
+
+[00:02:45] CLIENTE: Dame un segundo para buscarlo... Es 892745631058923.
+
+[00:03:02] AGENTE: Gracias. Y para confirmar, ¿el número de contacto alternativo sigue siendo el 9-5487-2154?
+
+[00:03:09] CLIENTE: Sí, ese es mi número de trabajo.
+
+[00:03:12] AGENTE: Perfecto. Un momento por favor mientras realizo el cambio en el sistema...
+
+[00:03:50] AGENTE: Doña Carmen, le confirmo que he realizado el cambio exitosamente a su nuevo plan de $16.990 con 18GB. El cambio será efectivo a partir de mañana. Debido al ciclo de facturación, es probable que en su próxima boleta vea un cargo proporcional del plan anterior y un proporcional del nuevo plan.
+
+[00:04:12] CLIENTE: ¿Y aproximadamente cuánto sería ese monto?
+
+[00:04:15] AGENTE: Vamos a revisar su ciclo de facturación... Veo que su fecha de corte es el 20 de cada mes, y hoy estamos a 5. Esto significa que ya utilizó aproximadamente 15 días del plan anterior y le quedarían 15 días con el nuevo plan. El proporcional sería aproximadamente $12.995 del plan anterior más $8.495 del nuevo plan, para un total aproximado de $21.490 para este mes. A partir del próximo mes, su factura será de $16.990.
+
+[00:04:47] CLIENTE: Entiendo, muchas gracias por la explicación.
+
+[00:04:51] AGENTE: ¿Hay algo más en lo que pueda ayudarle hoy, doña Carmen?
+
+[00:04:55] CLIENTE: No, eso sería todo. Muchas gracias por tu ayuda.
+
+[00:04:59] AGENTE: Ha sido un placer atenderle. Le recuerdo que cualquier consulta adicional puede comunicarse con nosotros las 24 horas al 103 desde su móvil o visitar nuestra página web. Le deseo un excelente día.
+
+[00:05:11] CLIENTE: Igualmente, gracias.
+
+[00:05:13] AGENTE: Gracias por preferir Movistar. Que tenga un buen día.
+
+[00:05:17] SISTEMA: [LLAMADA FINALIZADA]

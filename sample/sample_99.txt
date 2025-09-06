@@ -1,0 +1,16 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Mariana López de <LOCATION>. ¿En qué puedo asistirte hoy?
+[00:00:03] CLIENTE: ¡Esto es increíble! Mi nombre es Gabriel Sánchez, y estoy llamando porque el producto que compré hace una semana está **defectuoso**. ¡No puedo creer que me hagan esto! ¿Cómo me van a enviar un producto que no funciona?
+[00:00:12] AGENTE: Lamento profundamente escuchar eso, Sr. Sánchez. Entiendo su frustración y voy a ayudarle a resolverlo lo antes posible. ¿Podría proporcionarme su número de pedido o RUT, por favor?
+[00:00:20] CLIENTE: Mi RUT es 18.245.569-3. No entiendo cómo esto pasó, el producto está completamente **estropeado**. ¿Qué van a hacer al respecto?
+[00:00:26] AGENTE: Gracias, Sr. Sánchez. Permítame un momento para revisar su pedido... Ya tengo la información. Veo que compró el modelo XYZ. Lamento mucho que haya recibido un producto defectuoso. Vamos a proceder con un **reemplazo inmediato** de su producto, pero primero debemos hacer una validación. ¿Podría describirme el problema que está experimentando con el producto?
+[00:00:44] CLIENTE: ¡No puedo ni encenderlo! Está completamente dañado. Ya me está costando mucho tiempo y paciencia. Esto es **un desastre**. ¡Necesito que me lo resuelvan de inmediato!
+[00:00:54] AGENTE: Entiendo perfectamente su enojo, Sr. Sánchez, y le pido una disculpa nuevamente. Procederé con la **gestión urgente** para que un nuevo producto le sea enviado hoy mismo. Además, le ofreceremos un **descuento del 20%** en su próxima compra por los inconvenientes causados.
+[00:01:08] CLIENTE: Eso está bien, pero quiero que me aseguren que **me enviarán el producto nuevo hoy**. No voy a esperar más.
+[00:01:14] AGENTE: Le garantizo que el reemplazo será enviado con **prioridad**. El nuevo producto será entregado a su domicilio en las próximas 48 horas. Recibirá un **correo de confirmación** y un **número de seguimiento** tan pronto como el paquete sea enviado.
+[00:01:27] CLIENTE: Está bien. Pero esto no debería haber pasado en primer lugar. Espero que todo se solucione de una vez por todas.
+[00:01:33] AGENTE: Tiene toda la razón, Sr. Sánchez, y me disculpo nuevamente por este inconveniente. Nos aseguraremos de que su nuevo producto llegue sin problemas. ¿Hay algo más en lo que pueda ayudarle hoy?
+[00:01:42] CLIENTE: No, eso es todo. Espero que no vuelva a pasar.
+[00:01:45] AGENTE: Le agradezco mucho por su comprensión, Sr. Sánchez. Lamento profundamente los inconvenientes y me aseguraré de que se resuelva de inmediato. Que tenga una excelente tarde.
+[00:01:52] CLIENTE: Gracias. Buenas tardes.
+[00:01:55] AGENTE: Buenas tardes.
+[00:01:57] *** LLAMADA FINALIZADA ***

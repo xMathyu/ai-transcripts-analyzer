@@ -1,0 +1,77 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Daniela. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola. Buenos días. ¿Cómo estás?
+
+[00:00:07] AGENTE: <LOCATION>. ¿Qué tal? ¿Cómo estás? Espero te encuentres bien. Cuénteme qué te puedo ayudar el día de hoy.
+
+[00:00:12] CLIENTE: Eh, mira, te llamo porque quiero cancelar mi servicio de telefonía móvil. Ya no lo necesito porque me voy a mudar al extranjero definitivamente.
+
+[00:00:22] AGENTE: Entiendo la situación. Lamentamos que ya no puedas seguir con nosotros. Para poder gestionar la cancelación, ¿me indicas tu número de RUT para poder verificar en nuestros sistemas?
+
+[00:00:36] CLIENTE: 17-654-982-3.
+
+[00:00:41] AGENTE: Muchas gracias.
+
+[00:00:43] CLIENTE: ¿Me confirmas también tu nombre completo, por favor?
+
+[00:00:47] CLIENTE: <PERSON>.
+
+[00:00:49] AGENTE: ¿Y el número telefónico asociado a la cuenta que deseas cancelar?
+
+[00:00:54] CLIENTE: 956 782 431.
+
+[00:00:59] AGENTE: Ok, muchas gracias. Un momento, por favor. Ahora tengo que revisar tu servicio, no me cortes. Gracias. ¿Solicitaste cancelación anteriormente o es primera vez?
+
+[00:01:43] CLIENTE: Es primera vez.
+
+[00:01:45] AGENTE: Ya, perfecto.
+
+[00:01:49] AGENTE: Veo que llevas con nosotros más de 3 años. ¿Hay alguna razón específica por la que deseas cancelar además de tu mudanza? ¿Algún problema con el servicio?
+
+[00:02:01] CLIENTE: No, ningún problema. Simplemente me voy a vivir a Australia y allá contrataré un servicio local.
+
+[00:02:08] AGENTE: Entiendo perfectamente. Veo que tu plan actual tiene un costo mensual de 15.990 con un contrato a 12 meses que ya finalizó, así que no tendrás ninguna penalización por terminar el servicio anticipadamente. ¿Cuándo deseas que se haga efectiva la cancelación?
+
+[00:02:27] CLIENTE: Si es posible, para fin de mes. Me voy el 5 del próximo mes.
+
+[00:02:33] AGENTE: Claro que sí. Programaré la cancelación para el último día del mes en curso. Te informo que podrás utilizar el servicio normalmente hasta esa fecha. ¿Deseas conservar tu número para portarlo a otro operador en el futuro?
+
+[00:02:50] CLIENTE: No, no será necesario. Pueden liberar el número.
+
+[00:02:55] AGENTE: De acuerdo. Antes de proceder con la cancelación, ¿me puedes confirmar tu correo electrónico para enviarte la confirmación del proceso?
+
+[00:03:03] AGENTE: Sí. Gracias. ¿Me confirmas si el correo registrado es persona@correo.com? ¿Es correcto?
+
+[00:03:13] CLIENTE: Sí, es correcto.
+
+[00:03:16] AGENTE: Perfecto. Para proceder con la cancelación, necesito hacerte algunas preguntas de seguridad. ¿Me podrías indicar tu fecha de nacimiento?
+
+[00:03:27] AGENTE: Y también necesito confirmar el método de pago registrado. ¿Actualmente pagas con débito automático o pago manual?
+
+[00:03:36] CLIENTE: Mi fecha de nacimiento es el 8 de octubre de 1985, y pago con débito automático.
+
+[00:03:44] AGENTE: Gracias por confirmar esos datos.
+
+[00:03:46] CLIENTE: ¿Y habrá algún cargo adicional por la cancelación?
+
+[00:03:49] AGENTE: A ver, voy a verificar eso en un momento, por favor.
+
+[00:04:05] AGENTE: <PERSON>, revisando tu cuenta, confirmo que no habrá ningún cargo adicional por la cancelación. Sin embargo, recibirás una última factura que incluirá el proporcional de los días utilizados hasta la fecha de cancelación, más cualquier consumo adicional que hayas realizado durante este periodo.
+
+[00:04:25] CLIENTE: ¿Y esa factura cuándo llegaría?
+
+[00:04:28] AGENTE: Tu última factura será emitida aproximadamente 5 días después de la fecha de cancelación y se cargará automáticamente a tu método de pago registrado. También te enviaremos una copia al correo electrónico que has confirmado.
+
+[00:04:43] CLIENTE: Perfecto, muchas gracias por la información.
+
+[00:04:46] AGENTE: Con gusto. Procederé entonces a programar la cancelación de tu línea para el último día del mes en curso. Te llegará un SMS de confirmación en las próximas 24 horas, así como un correo electrónico con los detalles completos del proceso. ¿Hay algo más en lo que pueda ayudarte?
+
+[00:05:05] CLIENTE: No, eso sería todo. Gracias por la atención.
+
+[00:05:09] AGENTE: <PERSON>, ha sido un placer atenderte durante estos años. Te agradecemos por haber sido parte de nuestra familia <LOCATION>. Te deseamos mucho éxito en esta nueva etapa en Australia. Si en algún momento regresas y necesitas nuestros servicios, estaremos encantados de recibirte nuevamente. Que tengas un excelente día.
+
+[00:05:28] CLIENTE: Muchas gracias, igualmente.
+
+[00:05:31] AGENTE: Gracias por tu llamada. Hasta luego.
+
+[00:05:34] [FIN DE LA LLAMADA]

@@ -1,0 +1,27 @@
+[00:00:00] AGENTE: . Buenas tardes, habla Camila. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Roberto Alvarado. Llamo porque quiero hacer una consulta sobre el estado de un reclamo que dejé hace una semana.
+[00:00:11] AGENTE: Claro, Roberto. Con gusto te ayudo. ¿Tienes a la mano el número de reclamo o tu número de cliente para revisar en el sistema?
+[00:00:18] CLIENTE: Tengo el número de reclamo: 28459231.
+[00:00:21] AGENTE: Perfecto. Un momento por favor mientras reviso los detalles.
+[00:00:50] AGENTE: Gracias por esperar, Roberto. Veo que el reclamo fue ingresado el día 22 de marzo, relacionado con una doble facturación en tu última boleta. ¿Es correcto?
+[00:01:00] CLIENTE: Exactamente. Me cobraron dos veces por el mismo servicio y no me han dado respuesta aún.
+[00:01:06] AGENTE: Entiendo la molestia, Roberto. Según el sistema, el caso aún está en revisión por el área de facturación, pero ya pasó el plazo estándar de respuesta. Voy a escalarlo como urgente para que lo atiendan hoy mismo.
+[00:01:18] CLIENTE: ¿Eso quiere decir que hoy mismo me darán una solución?
+[00:01:21] AGENTE: Exactamente. Cuando lo marcamos como urgente, el equipo tiene que contactarte antes de las 6:00 p.m. ¿Te pueden llamar a este mismo número?
+[00:01:28] CLIENTE: Sí, sin problema.
+[00:01:30] AGENTE: Perfecto. Ya dejé asentado que el cliente está esperando solución inmediata. Además, voy a emitir una nota interna para que validen el doble cobro con las boletas del sistema.
+[00:01:42] CLIENTE: ¿Y en caso no me llamen hoy?
+[00:01:45] AGENTE: Si no recibes llamada antes de las 6:00 p.m., te recomiendo comunicarte nuevamente y mencionar que ya está escalado. De todas formas, puedo programar un seguimiento para mañana en la mañana si lo deseas.
+[00:01:55] CLIENTE: Sí, por favor, programa el seguimiento.
+[00:01:58] AGENTE: Listo, el seguimiento está agendado para mañana a las 10:00 a.m. por el mismo canal.
+[00:02:03] CLIENTE: Perfecto. ¿Sabes si es probable que me hagan una devolución o solo harán el ajuste para el próximo mes?
+[00:02:10] AGENTE: Eso depende del análisis del área de facturación, pero por lo general, si hay doble cobro confirmado, se ofrece devolución directa al medio de pago o ajuste en la siguiente factura, según tu preferencia.
+[00:02:20] CLIENTE: En ese caso, preferiría la devolución directa a mi tarjeta.
+[00:02:24] AGENTE: Perfecto, ya dejé asentado que prefieres la devolución directa. Eso ayudará a que lo procesen de acuerdo a tu solicitud.
+[00:02:31] CLIENTE: Muchas gracias, Camila. Muy amable.
+[00:02:34] AGENTE: Con gusto, Roberto. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:02:38] CLIENTE: No, eso sería todo. Gracias nuevamente.
+[00:02:41] AGENTE: Gracias a ti por comunicarte con nosotros. Que tengas una excelente tarde.
+[00:02:45] CLIENTE: Igualmente. Hasta luego.
+[00:02:47] AGENTE: Hasta luego.
+[00:02:48] SISTEMA: [Llamada finalizada]

@@ -1,0 +1,18 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Francisco Álvarez de <LOCATION>. ¿En qué puedo ayudarlo?
+[00:00:04] CLIENTE: Buenas tardes, Francisco. Mi nombre es Ana Ruiz y estoy llamando porque me acabo de dar cuenta que **me están cobrando servicios adicionales** que no he solicitado. ¡Esto es totalmente inaceptable!
+[00:00:14] AGENTE: Lamento mucho los inconvenientes, Sra. Ruiz. Para poder verificar su caso de manera rápida y eficiente, ¿podría proporcionarme su número de cliente o RUT, por favor?
+[00:00:21] CLIENTE: Claro, mi RUT es 12.345.678-9. Quiero que me expliquen cómo es posible que me cobren algo sin mi autorización.
+[00:00:26] AGENTE: Gracias, Sra. Ruiz. Un momento mientras reviso su cuenta… Ya tengo la información. Veo que en su última factura hay un cargo adicional por "paquete de canales premium" y "servicio de datos extra", pero usted no ha solicitado ninguno de estos servicios. Permítame investigar por qué se aplicaron esos cargos.
+[00:00:44] CLIENTE: ¡Eso es exactamente lo que me molesta! Yo no pedí ningún paquete premium ni ningún servicio extra. Esto es un **robo**.
+[00:00:52] AGENTE: Entiendo su enojo, Sra. Ruiz, y le ofrezco mis más sinceras disculpas por esta situación. Según lo que he revisado, parece que hubo un **error administrativo** que activó estos servicios sin su autorización. Procederé a **eliminar** estos cargos de su cuenta y asegurarme de que no se repita.
+[00:01:09] CLIENTE: ¡Esto debería haberse solucionado hace tiempo! ¿Qué me garantiza que no vuelva a pasar?
+[00:01:14] AGENTE: Le aseguro que estamos tomando medidas para evitar que este tipo de errores se repitan, Sra. Ruiz. Además de **eliminar los cargos erróneos**, voy a poner una alerta en su cuenta para que no se activen servicios adicionales sin su consentimiento. También le ofreceré un **descuento de $20.000** como compensación por el tiempo que ha perdido lidiando con esta situación.
+[00:01:33] CLIENTE: Bueno, eso es lo mínimo que podían hacer, pero quiero algo por escrito, porque no me fío de que no lo vuelvan a hacer.
+[00:01:38] AGENTE: Claro, Sra. Ruiz. Le enviaré un correo de confirmación con todos los detalles de los cargos eliminados, el descuento aplicado y las medidas que hemos tomado para evitar que esto ocurra de nuevo. Además, el equipo de atención al cliente estará al tanto de su caso para darle seguimiento.
+[00:01:54] CLIENTE: Espero que sea así. No quiero estar llamando cada mes para que me solucionen lo mismo.
+[00:01:58] AGENTE: Entiendo perfectamente, Sra. Ruiz, y le pido una disculpa nuevamente por los inconvenientes. El reembolso y el descuento se procesarán de inmediato, y debería recibir el correo con toda la información en los próximos minutos.
+[00:02:13] CLIENTE: Bien. Confío en que ahora sí se solucione. Gracias.
+[00:02:16] AGENTE: A usted, Sra. Ruiz. Lamento mucho los inconvenientes ocasionados. Que tenga una excelente tarde.
+[00:02:21] CLIENTE: Igualmente. Buenas tardes.
+[00:02:23] AGENTE: Buenas tardes.
+[00:02:25] *** LLAMADA FINALIZADA ***

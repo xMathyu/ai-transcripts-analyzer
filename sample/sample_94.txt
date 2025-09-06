@@ -1,0 +1,29 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Patricia Díaz de <LOCATION>. ¿Cómo puedo asistirte hoy?
+[00:00:03] CLIENTE: ¡Hola! Mi nombre es Ricardo Soto y estoy extremadamente molesto. Acabo de revisar mi cuenta y me han cobrado dos veces el mismo monto. ¿Qué clase de servicio es este? Esto es inaceptable.
+[00:00:12] AGENTE: Lamento mucho escuchar eso, Sr. Soto. Entiendo su enojo y con gusto lo ayudaré a resolver este inconveniente de inmediato. Para poder verificar su cuenta y el cobro, ¿podría proporcionarme su número de cliente o RUT, por favor?
+[00:00:21] CLIENTE: Mi RUT es 18.456.987-4. ¿Cómo puede pasar esto? Siempre pago a tiempo y ahora me cobran dos veces. ¡Esto no tiene sentido!
+[00:00:30] AGENTE: Gracias por la información, Sr. Soto. Permítame un momento mientras reviso su cuenta… Ya tengo la información. Veo que el monto fue cobrado en dos ocasiones el día de ayer. Permítame investigar más a fondo para verificar qué ocurrió.
+[00:00:41] CLIENTE: ¡Lo que quiero saber es por qué me hicieron un cargo duplicado! No me importa la investigación, quiero que me devuelvan el dinero ahora mismo.
+[00:00:47] AGENTE: Entiendo perfectamente su frustración, Sr. Soto. Revisando los registros, parece que hubo un error en el sistema que generó un cobro duplicado por la renovación de su plan. Este tipo de error es poco común, pero ya estoy viendo con el equipo de facturación para que se resuelva lo antes posible.
+[00:01:04] CLIENTE: ¡Esto es ridículo! No puedo creer que esté pagando por algo que no corresponde. ¿Qué voy a hacer con el dinero que me robaron?
+[00:01:11] AGENTE: Le ofrezco mis más sinceras disculpas, Sr. Soto. Voy a proceder con la reversión del cobro duplicado. El reembolso se procesará inmediatamente y debería reflejarse en su cuenta en las próximas 48 horas.
+[00:01:23] CLIENTE: ¡48 horas! ¿Cómo pueden pedirme tanto tiempo? ¡Esto no puede esperar más!
+[00:01:28] AGENTE: Comprendo su enojo, Sr. Soto, y le aseguro que estamos haciendo todo lo posible para agilizar el proceso. Lo que puedo hacer es **escalar el caso de inmediato** para que el reembolso sea procesado con urgencia y no haya más retrasos.
+[00:01:42] CLIENTE: ¡Esto tiene que resolverse hoy mismo! No voy a esperar dos días. ¿Puedo hablar con un supervisor o alguien que pueda hacer algo más rápido?
+[00:01:47] AGENTE: Claro, Sr. Soto. Procederé a transferirlo con un supervisor ahora mismo para que pueda recibir atención prioritaria. Un momento, por favor.
+[00:01:55] CLIENTE: ¡Esto no es aceptable! Nadie me da una solución en este maldito servicio. ¡Pónganme con el supervisor ahora mismo!
+[00:01:59] AGENTE: Lo entiendo perfectamente, Sr. Soto. Por favor, permítame un momento para transferirlo a mi supervisor.
+[00:02:03] *** TRANSFERENCIA EN CURSO ***
+[00:02:10] SUPERVISOR: Buenas tardes, Sr. Soto. Mi nombre es Laura Martínez y soy supervisora en <LOCATION>. Entiendo que está experimentando un problema con un cobro duplicado en su cuenta. Permítame disculparme en nombre de la empresa por los inconvenientes causados. Quiero asegurarle que voy a resolver este asunto de inmediato.
+[00:02:24] CLIENTE: Finalmente, alguien que parece saber lo que está haciendo. ¿Qué van a hacer para resolver esto?
+[00:02:29] SUPERVISOR: Lamento mucho la situación, Sr. Soto. Le aseguro que vamos a procesar el reembolso del cobro duplicado de forma urgente. Inmediatamente después de que terminemos esta llamada, iniciaré el proceso para que su cuenta sea reembolsada en las próximas horas, en lugar de 48 horas como se mencionó previamente.
+[00:02:45] CLIENTE: ¡Eso espero! Esto me ha causado muchos inconvenientes, y no quiero que vuelva a pasar.
+[00:02:51] SUPERVISOR: Absolutamente, Sr. Soto. Este error no volverá a ocurrir. Aparte de procesar el reembolso, también voy a hacer una revisión de su cuenta para asegurarme de que no haya más cargos innecesarios. Le enviaré un correo electrónico con la confirmación de todo lo que hemos corregido y el estado de su reembolso.
+[00:03:05] CLIENTE: Bien, pero esto tiene que ser algo que dejen registrado, porque no voy a tolerar que me cobren de nuevo sin aviso.
+[00:03:11] SUPERVISOR: Lo he anotado en su cuenta, Sr. Soto. Aseguramos que no habrá más errores, y tendrá un monitoreo constante de su cuenta por parte de nuestro equipo. Le pido nuevamente disculpas por los inconvenientes y le agradezco por su paciencia.
+[00:03:25] CLIENTE: Está bien, espero ver el reembolso en mi cuenta pronto. No quiero más problemas con esto.
+[00:03:30] SUPERVISOR: Le agradezco mucho su comprensión, Sr. Soto. Estaré enviando el correo de confirmación en breve. ¿Hay algo más en lo que pueda ayudarlo?
+[00:03:37] CLIENTE: No, eso es todo. Espero que todo esté resuelto cuando reciba el correo. Gracias por finalmente darme una solución.
+[00:03:42] SUPERVISOR: Gracias a usted por su paciencia, Sr. Soto. Lamentamos profundamente los inconvenientes causados. Que tenga una excelente tarde.
+[00:03:47] CLIENTE: Igualmente, buena tarde.
+[00:03:49] *** LLAMADA FINALIZADA ***

@@ -1,0 +1,26 @@
+[00:00:00] AGENTE: . Buenas tardes, habla Andrea del área de facturación. ¿En qué puedo ayudarte hoy?
+[00:00:04] CLIENTE: Buenas tardes, Andrea. Soy Juan Carlos Medina. Estoy llamando porque acabo de revisar mi boleta y veo un cargo de roaming internacional que nunca usé.
+[00:00:14] AGENTE: Entiendo, Juan Carlos. Lamento el inconveniente. Vamos a revisar el detalle juntos. ¿Me puedes brindar tu número de cliente o RUT, por favor?
+[00:00:21] CLIENTE: Claro, es 19-234-567-8.
+[00:00:24] AGENTE: Gracias. ¿Puedes confirmarme tu dirección registrada?
+[00:00:27] CLIENTE: Avenida Libertad 520, departamento 803.
+[00:00:30] AGENTE: Perfecto, ya tengo acceso a tu cuenta. Estoy revisando tu boleta y efectivamente aparece un cargo por roaming internacional por un monto de 98.50 soles, correspondiente al periodo del 10 al 15 de marzo. ¿Tú estuviste fuera del país durante esas fechas?
+[00:00:45] CLIENTE: No, yo no he salido del país desde el año pasado. Siempre he estado en Lima.
+[00:00:50] AGENTE: Gracias por confirmarlo. Podría tratarse de una activación involuntaria por cercanía a zona fronteriza o un error en la triangulación de señal. ¿Recibiste algún mensaje sobre activación de roaming en esos días?
+[00:01:00] CLIENTE: Ahora que lo mencionas, sí recibí un mensaje que decía algo sobre tarifas internacionales, pero como no salí del país, no le di importancia.
+[00:01:08] AGENTE: Es probable que se haya activado automáticamente si el teléfono detectó una red extranjera, aunque no se haya usado el servicio directamente. Pero como no viajaste y no hubo uso voluntario, puedo iniciar un proceso de reclamo para solicitar la anulación del cargo.
+[00:01:21] CLIENTE: Por favor, te lo agradecería. Ese monto no corresponde.
+[00:01:24] AGENTE: Perfecto. Ya estoy registrando el caso. El área de reclamos tiene un plazo de hasta 5 días hábiles para resolverlo. Mientras tanto, te recomiendo no pagar ese monto hasta que se actualice tu boleta.
+[00:01:36] CLIENTE: ¿Y cómo sabré si lo anularon?
+[00:01:39] AGENTE: Te enviaremos un correo de confirmación al email registrado, que es jmedina84@email.com. También puedes hacerle seguimiento desde la app MiCuenta o llamarnos directamente.
+[00:01:49] CLIENTE: ¿Hay alguna forma de evitar que esto vuelva a pasar?
+[00:01:52] AGENTE: Sí, puedo bloquear el servicio de roaming internacional desde ahora para que no se active bajo ninguna circunstancia. ¿Deseas que lo haga?
+[00:01:59] CLIENTE: Sí, por favor. Bloquéalo.
+[00:02:01] AGENTE: Listo, el servicio ha sido bloqueado. No volverás a tener cargos relacionados al roaming, salvo que lo actives manualmente desde la app.
+[00:02:09] CLIENTE: Excelente. Muchas gracias por tu ayuda, Andrea.
+[00:02:12] AGENTE: Con gusto, Juan Carlos. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:02:15] CLIENTE: No, eso es todo. Buenas tardes.
+[00:02:18] AGENTE: Gracias por comunicarte con nosotros. Que tengas una excelente tarde.
+[00:02:21] CLIENTE: Igualmente. Hasta luego.
+[00:02:23] AGENTE: Hasta luego.
+[00:02:24] SISTEMA: [Llamada finalizada]

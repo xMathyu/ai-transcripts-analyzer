@@ -1,0 +1,73 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Patricia. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola. Buenas tardes. ¿Cómo estás?
+
+[00:00:07] AGENTE: <LOCATION>. ¿Qué tal? ¿Cómo estás? Espero te encuentres bien. Cuénteme qué te puedo ayudar el día de hoy.
+
+[00:00:12] CLIENTE: Eh, mira, te llamo porque voy a viajar a Europa la próxima semana y necesito activar el roaming internacional para mi teléfono. No sé qué planes tienen o cómo funciona.
+
+[00:00:24] AGENTE: Sí, con gusto te puedo ayudar con eso. Para poder revisar las opciones disponibles para tu línea, ¿me indicas tu número de RUT para poder verificar en nuestros sistemas?
+
+[00:00:37] CLIENTE: 18-453-876-9.
+
+[00:00:42] AGENTE: Muchas gracias.
+
+[00:00:44] CLIENTE: ¿Me confirmas también tu nombre completo, por favor?
+
+[00:00:48] CLIENTE: <PERSON>.
+
+[00:00:50] AGENTE: ¿Y por último el número telefónico para el cual necesitas activar el roaming?
+
+[00:00:55] CLIENTE: 978 345 621.
+
+[00:01:00] AGENTE: Ok, muchas gracias. Un momento, por favor. Ahora tengo que revisar tu servicio, no me cortes. Gracias. ¿Viajarás a qué países de Europa específicamente?
+
+[00:01:43] CLIENTE: Sí, voy a España, Francia e Italia.
+
+[00:01:47] CLIENTE: Por dos semanas.
+
+[00:01:49] AGENTE: Ya, perfecto.
+
+[00:01:52] AGENTE: Veo que tienes un plan elegible para nuestros paquetes de roaming internacional. Para los países que mencionas, tenemos varias opciones. ¿Prefieres un paquete con datos y minutos o sólo datos?
+
+[00:02:07] CLIENTE: Necesito ambos, pero uso más los datos.
+
+[00:02:11] AGENTE: Entiendo. En ese caso, te recomiendo nuestro paquete "Europa Total" que incluye 5GB de navegación, 60 minutos para llamadas y mensajes ilimitados por 15 días a un precio de 28.900. También tenemos la opción "Europa Premium" con 10GB, 120 minutos y mensajes ilimitados por 20.900 adicionales. ¿Cuál te parece mejor?
+
+[00:02:37] CLIENTE: Creo que el de 5GB estaría bien. ¿Eso se suma a mi factura mensual?
+
+[00:02:44] AGENTE: Exactamente. El cargo de 28.900 se verá reflejado en tu próxima factura como un servicio adicional. No afecta tu plan actual ni implica ningún cambio en tu contrato base.
+
+[00:02:57] CLIENTE: ¿Y en caso de que se me acaben los datos antes, puedo comprar más?
+
+[00:03:03] AGENTE: Sí, claro. Puedes adquirir paquetes adicionales de 1GB por 7.900 a través de nuestra aplicación móvil o enviando un SMS con la palabra "EURODATA" al 7766. Estos paquetes adicionales tienen vigencia hasta el término de tu paquete principal.
+
+[00:03:23] AGENTE: Ya, perfecto, <PERSON>.
+
+[00:03:27] AGENTE: Para activar el paquete "Europa Total" necesito confirmar algunos datos de seguridad. ¿Me indicas tu fecha de nacimiento y un correo electrónico donde podamos enviarte la confirmación de la activación?
+
+[00:03:40] CLIENTE: Mi fecha de nacimiento es 22 de julio de 1989 y mi correo es persona@correo.com.
+
+[00:03:48] AGENTE: Perfecto.
+
+[00:03:49] AGENTE: A ver, voy a procesar la activación en un momento, por favor.
+
+[00:04:10] AGENTE: <PERSON>, he realizado la activación del paquete "Europa Total" para tu línea 978 345 621. El servicio estará disponible desde mañana a las 00:01 horas y tendrá vigencia por 15 días consecutivos. Recibirás un SMS de confirmación en los próximos minutos y también te enviaremos las instrucciones detalladas a tu correo electrónico.
+
+[00:04:32] CLIENTE: ¿Necesito configurar algo en mi teléfono cuando llegue allá?
+
+[00:04:37] AGENTE: Es una excelente pregunta. La mayoría de los teléfonos modernos se conectan automáticamente a las redes disponibles, pero te recomiendo que actives la opción "Datos en roaming" en la configuración de tu teléfono antes de viajar. Además, es importante que tengas activada la selección automática de red para que tu dispositivo se conecte a nuestros operadores asociados. Todas estas instrucciones vendrán detalladas en el correo que te enviaremos.
+
+[00:05:07] CLIENTE: Perfecto, muchas gracias por la información.
+
+[00:05:10] AGENTE: ¿Hay algo más en lo que pueda ayudarte hoy?
+
+[00:05:13] CLIENTE: No, eso sería todo. Gracias por tu ayuda.
+
+[00:05:16] AGENTE: Ha sido un placer atenderte, <PERSON>. Te deseamos un excelente viaje por Europa. Si necesitas cualquier asistencia adicional durante tu viaje, puedes contactarnos desde el extranjero marcando +56 2 2XXX XXXX sin costo adicional. Que tengas una excelente tarde.
+
+[00:05:34] CLIENTE: Muchas gracias. Hasta pronto.
+
+[00:05:37] AGENTE: Hasta pronto. Gracias por preferir <LOCATION>.
+
+[00:05:40] [FIN DE LA LLAMADA]

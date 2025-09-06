@@ -1,0 +1,79 @@
+[00:00:00] AGENTE: <LOCATION>. Le atiende Laura. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola, buenas tardes. Mi nombre es <PERSON>.
+
+[00:00:08] AGENTE: Buenas tardes, <PERSON>. Bienvenido a nuestro servicio de atención al cliente. ¿En qué puedo ayudarle hoy?
+
+[00:00:15] CLIENTE: Mire, estoy llamando porque quiero cambiar mi plan de teléfono móvil. El que tengo actualmente me parece muy caro para lo que realmente uso.
+
+[00:00:24] AGENTE: Entiendo perfectamente. Con gusto le ayudaré a revisar opciones más adecuadas a sus necesidades. Para acceder a su cuenta, necesito verificar algunos datos. ¿Me podría proporcionar su número de teléfono móvil?
+
+[00:00:38] CLIENTE: Sí, es el 6-23-487-952.
+
+[00:00:43] AGENTE: Gracias. ¿Y me podría confirmar su número de identificación, por favor?
+
+[00:00:48] CLIENTE: 28-645-192-7.
+
+[00:00:54] AGENTE: Perfecto. Un momento mientras verifico su información.
+
+[00:01:10] AGENTE: Muchas gracias por esperar, <PERSON>. Veo que actualmente tiene contratado nuestro Plan Total Plus por 28.900 mensuales, que incluye 30GB de datos, llamadas ilimitadas y mensajes ilimitados. ¿Es correcto?
+
+[00:01:26] CLIENTE: Sí, ese es el plan que tengo.
+
+[00:01:29] AGENTE: Perfecto. Para poder ofrecerle un plan más adecuado, ¿podría decirme aproximadamente cuántos datos móviles consume al mes?
+
+[00:01:38] CLIENTE: La verdad es que nunca llego a usar ni la mitad. Creo que uso unos 10GB como máximo.
+
+[00:01:45] AGENTE: Entiendo. ¿Y respecto a las llamadas? ¿Suele realizar muchas llamadas al mes?
+
+[00:01:52] CLIENTE: Sí, las llamadas sí las uso bastante, sobre todo por motivos de trabajo.
+
+[00:01:57] AGENTE: Perfecto. Basándome en su consumo, tenemos dos planes que podrían ajustarse mejor a sus necesidades. El primero es nuestro Plan Medio, que incluye 15GB de datos, llamadas ilimitadas y mensajes ilimitados por 18.900 mensuales. El segundo es nuestro Plan Básico Pro, con 12GB, también con llamadas y mensajes ilimitados, por 16.500 mensuales.
+
+[00:02:23] CLIENTE: Mmm, me interesa el de 16.500, pero me preocupa quedarme sin datos si algún mes consumo más.
+
+[00:02:31] AGENTE: Entiendo su preocupación. Todos nuestros planes incluyen la opción de comprar paquetes adicionales de datos si en algún momento lo necesita. Por ejemplo, puede adquirir 2GB adicionales por 1.500 pesos en cualquier momento desde nuestra aplicación móvil.
+
+[00:02:47] CLIENTE: Ah, eso está bien. Y si cambio de plan, ¿hay alguna penalización?
+
+[00:02:53] AGENTE: No se preocupe, no hay ninguna penalización por cambiar a un plan de menor valor. El cambio se puede hacer efectivo desde el inicio de su próximo ciclo de facturación, que según veo aquí comienza el día 8 de cada mes.
+
+[00:03:08] CLIENTE: Perfecto. Entonces quiero cambiar al Plan Básico Pro de 16.500.
+
+[00:03:14] AGENTE: Excelente elección. Procederé a gestionar el cambio para que se active a partir del día 8 del próximo mes. ¿Desea recibir un mensaje de confirmación cuando el cambio se haga efectivo?
+
+[00:03:27] CLIENTE: Sí, por favor.
+
+[00:03:29] AGENTE: Perfecto. Además del mensaje de confirmación, le enviaré también un correo electrónico con los detalles del nuevo plan y la confirmación del cambio. ¿El correo que tenemos registrado termina en @correo.com?
+
+[00:03:43] CLIENTE: Sí, ese es mi correo.
+
+[00:03:45] AGENTE: Perfecto. Ahora, ¿le gustaría conocer nuestras promociones actuales para clientes que cambian de plan? Tenemos una oferta especial que incluye 3 meses de acceso a nuestra plataforma de streaming de música sin costo adicional.
+
+[00:04:01] CLIENTE: Sí, eso suena interesante.
+
+[00:04:04] AGENTE: Genial. Voy a incluir esta promoción en su cuenta. Podrá activarla a través de nuestra aplicación una vez que el cambio de plan sea efectivo. Recibirá las instrucciones en el correo de confirmación.
+
+[00:04:17] CLIENTE: Perfecto, muchas gracias.
+
+[00:04:19] AGENTE: ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:04:22] CLIENTE: Sí, una última pregunta. ¿Este nuevo plan incluye alguna limitación en la velocidad de navegación?
+
+[00:04:29] AGENTE: Excelente pregunta. No hay limitación en la velocidad; disfrutará de la máxima velocidad disponible en nuestra red 5G. Lo único que cambia respecto a su plan anterior es la cantidad de datos incluidos. Una vez consumidos los 12GB, la velocidad se reducirá a 256kbps hasta el inicio del siguiente ciclo, a menos que adquiera datos adicionales.
+
+[00:04:51] CLIENTE: Entendido. Creo que con eso tengo toda la información que necesitaba.
+
+[00:04:56] AGENTE: Perfecto, <PERSON>. He realizado la solicitud de cambio de plan con el número de gestión CM-78523. Este cambio será efectivo a partir del 8 del próximo mes. Recibirá tanto un SMS como un correo electrónico con la confirmación y los detalles del nuevo plan, incluyendo la promoción de streaming de música.
+
+[00:05:16] CLIENTE: Muchas gracias por su ayuda.
+
+[00:05:19] AGENTE: Ha sido un placer atenderle. Recuerde que puede contactarnos nuevamente si tiene cualquier otra consulta o si necesita asistencia adicional. Le deseo un excelente día.
+
+[00:05:30] CLIENTE: Igualmente, que tenga buen día.
+
+[00:05:33] AGENTE: Gracias por comunicarse con <LOCATION>. Hasta pronto.
+
+[00:05:37] CLIENTE: Hasta luego.
+
+[00:05:39] SISTEMA: Llamada finalizada.

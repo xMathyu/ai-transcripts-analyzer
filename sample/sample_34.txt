@@ -1,0 +1,77 @@
+[00:00:00] AGENTE: <LOCATION> Comunicaciones. Le atiende Carolina. ¿En qué puedo ayudarle?
+
+[00:00:07] CLIENTE: Hola, buenos días. Necesito hacer un cambio de titularidad en mi línea telefónica. La línea está a nombre de mi padre fallecido y quiero pasarla a mi nombre.
+
+[00:00:18] AGENTE: Buenos días. Lamento mucho su pérdida. Con gusto le asistiré en este proceso de cambio de titularidad. Para comenzar, ¿podría proporcionarme el número de teléfono de la línea y el nombre del titular actual?
+
+[00:00:32] CLIENTE: Gracias. El número es 2-3456-7890 y está a nombre de <PERSON> padre.
+
+[00:00:40] AGENTE: Gracias por la información. Y ¿usted es?
+
+[00:00:44] CLIENTE: <PERSON> hijo.
+
+[00:00:46] AGENTE: Entiendo. ¿Me podría indicar cuándo ocurrió el fallecimiento de su padre?
+
+[00:00:52] CLIENTE: Fue hace tres meses, el 15 de diciembre del año pasado.
+
+[00:00:57] AGENTE: Comprendo. Nuevamente, mis condolencias. Para poder realizar el cambio de titularidad en este caso, necesitaremos algunos documentos específicos. ¿Me permite explicarle el procedimiento?
+
+[00:01:09] CLIENTE: Sí, por favor.
+
+[00:01:11] AGENTE: En casos de fallecimiento del titular, el procedimiento requiere la siguiente documentación: primero, una copia del certificado de defunción; segundo, documentos que acrediten su calidad de heredero o albacea, como un testamento, una posesión efectiva o una declaratoria de herederos; tercero, su documento de identidad vigente; y cuarto, un comprobante de domicilio a su nombre con fecha reciente, no mayor a tres meses.
+
+[00:01:40] CLIENTE: Entiendo. Tengo el certificado de defunción y mi documento de identidad. Sobre la calidad de heredero, tengo una posesión efectiva donde aparezco como heredero junto con mi hermana. ¿Eso serviría?
+
+[00:01:53] AGENTE: Sí, la posesión efectiva es un documento válido para este trámite. Sin embargo, si usted comparte la calidad de heredero con su hermana, necesitaríamos también una carta firmada por ella autorizando el cambio de titularidad a su nombre, o bien, que ella también figure como cotitular en el nuevo contrato.
+
+[00:02:13] CLIENTE: Preferiría ser el único titular. Le pediré a mi hermana que firme esa autorización. ¿Debe ser una carta notarial o una simple carta firmada por ella?
+
+[00:02:23] AGENTE: Para este tipo de trámites, recomendamos que sea una carta notarial para garantizar la validez del documento. La carta debe mencionar explícitamente que ella autoriza el cambio de titularidad de la línea telefónica número 2-3456-7890 a su nombre, renunciando a sus derechos sobre este servicio como coheredera.
+
+[00:02:44] CLIENTE: Perfecto. ¿Y sobre el comprobante de domicilio? Tengo mi cuenta de luz que llegó hace un mes, ¿eso sirve?
+
+[00:02:52] AGENTE: Sí, una cuenta de servicios básicos como luz, agua o gas a su nombre con fecha de emisión dentro de los últimos tres meses es perfectamente válida como comprobante de domicilio.
+
+[00:03:05] CLIENTE: Excelente. ¿Y cuál es el proceso una vez que tenga todos los documentos?
+
+[00:03:10] AGENTE: Una vez que tenga toda la documentación, tiene tres opciones para realizar el trámite: puede acercarse a cualquiera de nuestras sucursales con los documentos originales y copias; puede realizar el trámite a través de nuestra página web en la sección "Cambio de Titularidad", subiendo versiones digitalizadas de los documentos; o puede solicitar una visita a domicilio de uno de nuestros ejecutivos, quien verificará los documentos originales y completará el trámite en su hogar.
+
+[00:03:38] CLIENTE: Creo que prefiero hacerlo en una sucursal. ¿Necesito sacar una cita previa o puedo ir directamente?
+
+[00:03:45] AGENTE: Puede acudir directamente a cualquiera de nuestras sucursales en horario de atención, de lunes a viernes de 9:00 a 18:00 horas y sábados de 9:00 a 13:00 horas. Sin embargo, para evitar tiempos de espera, le recomendaría agendar una cita previa a través de nuestra página web o aplicación móvil, seleccionando la opción "Agenda tu visita" y luego "Cambio de titularidad".
+
+[00:04:09] CLIENTE: Entiendo. ¿Y hay algún costo asociado a este trámite?
+
+[00:04:13] AGENTE: Sí, el cambio de titularidad tiene un costo administrativo de $15.990, que puede ser pagado en la sucursal al momento de realizar el trámite, o bien, cargado a la primera factura que se emita a su nombre. Este cargo es estándar para todos los cambios de titularidad, independientemente del motivo.
+
+[00:04:33] CLIENTE: ¿Y cuánto tiempo toma el proceso completo una vez que entregue todos los documentos?
+
+[00:04:38] AGENTE: Una vez que la documentación esté completa y sea presentada en la sucursal, el cambio de titularidad se hace efectivo en un plazo máximo de 5 días hábiles. Sin embargo, en la mayoría de los casos, se completa en 2 o 3 días hábiles. Recibirá una notificación por SMS y correo electrónico cuando el cambio haya sido procesado completamente.
+
+[00:05:00] CLIENTE: ¿Y durante ese tiempo el servicio sigue funcionando normalmente?
+
+[00:05:04] AGENTE: Sí, el servicio continúa operando con normalidad durante todo el proceso. No habrá interrupciones ni cambios en la funcionalidad. El cambio de titularidad es un trámite administrativo que no afecta la prestación del servicio.
+
+[00:05:17] CLIENTE: Perfecto. Y una última pregunta, ¿este cambio de titularidad afecta de alguna manera el plan o las condiciones del servicio que tenía mi padre?
+
+[00:05:26] AGENTE: Es una excelente pregunta. El cambio de titularidad por sí mismo no modifica el plan ni las condiciones del servicio, que se mantienen exactamente iguales. Sin embargo, durante el proceso, si usted lo desea, puede solicitar una revisión del plan actual y evaluar si existen opciones más adecuadas a sus necesidades. Nuestros ejecutivos en sucursal podrán asesorarle sobre las alternativas disponibles, pero esto sería completamente opcional.
+
+[00:05:53] CLIENTE: Entiendo. Creo que por ahora mantendré el mismo plan y más adelante evaluaré si necesito cambiarlo.
+
+[00:06:00] AGENTE: Me parece una decisión sensata. Primero completamos el cambio de titularidad y luego, cuando lo considere conveniente, puede revisar las opciones de planes. ¿Hay algo más en lo que pueda ayudarle respecto a este trámite?
+
+[00:06:14] CLIENTE: No, creo que es todo. Entonces, para resumir, necesito el certificado de defunción, la posesión efectiva, la autorización notarial de mi hermana, mi documento de identidad y un comprobante de domicilio reciente. Con eso puedo ir a una sucursal y pagar el cargo de $15.990.
+
+[00:06:33] AGENTE: Ha resumido perfectamente los requerimientos. Es exactamente así. Una recomendación adicional: le sugiero llevar también una copia de la última factura del servicio, si la tiene disponible. No es un requisito obligatorio, pero facilita la identificación de la cuenta en nuestro sistema.
+
+[00:06:51] CLIENTE: Sí, tengo las facturas. Llevaré la más reciente. Muchas gracias por toda la información.
+
+[00:06:57] AGENTE: Ha sido un placer ayudarle. Si tiene cualquier duda adicional antes de acudir a la sucursal, no dude en contactarnos nuevamente. Nuestro equipo está disponible las 24 horas para asistirle. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:07:13] CLIENTE: No, eso sería todo. Muchas gracias por su atención.
+
+[00:07:17] AGENTE: Gracias a usted por contactar a <LOCATION> Comunicaciones. Lamento nuevamente su pérdida y le deseo que el trámite se complete sin contratiempos. Que tenga un excelente día.
+
+[00:07:29] CLIENTE: Igualmente, gracias.
+
+[00:07:31] SISTEMA: Llamada finalizada.

@@ -1,0 +1,87 @@
+[00:00:00] AGENTE: <LOCATION> Internacional. Le atiende Manuel. ¿En qué puedo ayudarle?
+
+[00:00:07] CLIENTE: Hola, buenos días. Voy a viajar al extranjero la próxima semana y necesito información sobre las opciones para usar mi teléfono allá.
+
+[00:00:16] AGENTE: Buenos días. Con gusto le informaré sobre nuestros servicios de roaming internacional. Para poder asesorarle mejor, ¿me podría proporcionar su número de teléfono móvil y su nombre, por favor?
+
+[00:00:28] CLIENTE: Sí, mi número es 9-1234-5678 y mi nombre es <PERSON>.
+
+[00:00:35] AGENTE: Gracias, <PERSON>. Para confirmar su identidad, ¿podría proporcionarme los últimos cuatro dígitos de su documento de identidad?
+
+[00:00:44] CLIENTE: 7890.
+
+[00:00:46] AGENTE: Perfecto, muchas gracias. ¿Me podría indicar a qué país o países va a viajar y por cuánto tiempo estará fuera?
+
+[00:00:55] CLIENTE: Voy a Estados Unidos y México. Estaré 10 días en total, primero 6 días en Nueva York y luego 4 días en Ciudad de México.
+
+[00:01:05] AGENTE: Excelente. Gracias por la información. Permítame verificar su plan actual y las opciones de roaming disponibles para su viaje.
+
+[00:01:22] AGENTE: <PERSON>, veo que actualmente tiene nuestro Plan Max con 25GB mensuales en territorio nacional. Para su viaje, tenemos varias opciones de paquetes de roaming internacional. Dado que visitará dos países diferentes, le recomendaría nuestro "Paquete Viajero América" que incluye cobertura en Estados Unidos, Canadá, México y toda América Latina.
+
+[00:01:45] CLIENTE: ¿Y qué incluye ese paquete exactamente?
+
+[00:01:48] AGENTE: El Paquete Viajero América incluye 5GB de datos para navegar, 60 minutos para llamadas locales en el país visitado o hacia <LOCATION>, y 60 SMS. Tiene un costo de $29.990 y una vigencia de 15 días desde su activación, lo que cubriría perfectamente la duración de su viaje.
+
+[00:02:09] CLIENTE: ¿Y las llamadas que reciba de <LOCATION> mientras estoy allá también me descuentan de esos 60 minutos?
+
+[00:02:16] AGENTE: Excelente pregunta. Las llamadas que usted reciba desde <LOCATION> mientras está en el extranjero no le descuentan de los 60 minutos incluidos. Esos minutos son para llamadas que usted realice. Sin embargo, es importante mencionar que para la persona que le llama desde <LOCATION>, la llamada se cobra como una llamada nacional normal.
+
+[00:02:36] CLIENTE: Entendido. ¿Y qué pasa si me quedo sin datos antes de que termine mi viaje?
+
+[00:02:41] AGENTE: Si consume los 5GB antes de finalizar su viaje, tiene dos opciones: puede contratar un paquete adicional de datos de 2GB por $15.990 con la misma vigencia del paquete original, o puede utilizar el roaming por demanda, que se cobra a $490 por MB. Sin embargo, le recomendaría contratar el paquete adicional si necesita más datos, ya que es mucho más económico que el cobro por demanda.
+
+[00:03:06] CLIENTE: ¿Y los 5GB son para usar en ambos países o tengo una cantidad específica para cada uno?
+
+[00:03:12] AGENTE: Los 5GB puede utilizarlos indistintamente en cualquiera de los países incluidos en el paquete. No hay una asignación específica por país, lo que le da flexibilidad para usar sus datos según sus necesidades en cada destino.
+
+[00:03:26] CLIENTE: Perfecto. ¿Y necesito activar algo especial en mi teléfono para que funcione cuando llegue?
+
+[00:03:33] AGENTE: Una vez que contratemos el paquete, el roaming se activará automáticamente. Sin embargo, es importante que en su teléfono verifique que el "Roaming de datos" o "Datos en itinerancia" esté activado en la configuración. Además, le recomendaría seleccionar la opción de "Selección de red automática" para que su teléfono se conecte a la red con mejor señal en cada ubicación.
+
+[00:03:55] CLIENTE: ¿Y hay alguna operadora específica a la que deba conectarme en Estados Unidos o México para tener mejor servicio?
+
+[00:04:03] AGENTE: En Estados Unidos, tenemos acuerdos preferenciales con AT&T y T-Mobile, que generalmente ofrecen mejor cobertura y velocidad para nuestros clientes. En México, nuestros socios principales son Telcel y Movistar. Su teléfono debería conectarse automáticamente a estas redes, pero si nota problemas de conexión, puede seleccionar manualmente estas operadoras desde la configuración de redes móviles de su dispositivo.
+
+[00:04:28] CLIENTE: Entendido. ¿Y si necesito más minutos para llamadas?
+
+[00:04:32] AGENTE: También ofrecemos un paquete adicional de 30 minutos por $9.990, que puede contratar en cualquier momento durante su viaje si ve que está quedándose sin minutos. Puede activarlo a través de nuestra aplicación móvil o enviando un SMS con la palabra "MINUTOS" al 7766 desde su teléfono, incluso estando en el extranjero.
+
+[00:04:53] CLIENTE: Perfecto. Creo que el Paquete Viajero América será suficiente para mis necesidades. ¿Puedo contratarlo ahora mismo?
+
+[00:05:01] AGENTE: ¡Por supuesto! Puedo gestionar la contratación del paquete en este momento. ¿Desea que el paquete se active automáticamente cuando llegue a su destino, o prefiere una fecha específica para la activación?
+
+[00:05:14] CLIENTE: Preferiría que se active automáticamente cuando llegue a Estados Unidos, así no tengo que preocuparme por recordar activarlo.
+
+[00:05:22] AGENTE: Excelente elección. Configuraremos el paquete para que se active automáticamente con su primera conexión en Estados Unidos. El cargo se aplicará a su próxima factura. ¿Viajará el próximo 15 de abril, es correcto?
+
+[00:05:35] CLIENTE: Sí, exactamente. Mi vuelo sale el 15 de abril.
+
+[00:05:39] AGENTE: Perfecto. Voy a proceder con la contratación del Paquete Viajero América para que se active automáticamente al llegar a Estados Unidos el 15 de abril.
+
+[00:05:56] AGENTE: He procesado su solicitud y el paquete ha sido contratado exitosamente. Recibirá un SMS de confirmación en los próximos minutos con los detalles del paquete. También quiero mencionarle que a través de nuestra aplicación móvil podrá monitorear su consumo de datos, minutos y SMS durante su viaje en tiempo real.
+
+[00:06:17] CLIENTE: Perfecto. ¿Y si tengo algún problema técnico estando allá, cómo puedo contactarlos?
+
+[00:06:23] AGENTE: Desde el extranjero puede contactarnos gratuitamente marcando *111 desde su teléfono móvil. Este número de atención al cliente funciona en todos los países donde tenemos servicio de roaming. Alternativamente, puede comunicarse a través de nuestro chat en la aplicación móvil o enviarnos un correo electrónico a soporte@location.com. Nuestro servicio de atención al cliente está disponible 24/7 para asistirle durante su viaje.
+
+[00:06:48] CLIENTE: Excelente. Y una última pregunta, ¿el Whatsapp consume de mis datos de roaming?
+
+[00:06:54] AGENTE: Sí, las aplicaciones como WhatsApp, Facebook, Instagram y otras redes sociales consumirán de los datos incluidos en su paquete de roaming. Sin embargo, tengo una buena noticia para usted: actualmente tenemos una promoción especial donde WhatsApp y redes sociales no consumen de sus datos principales en roaming, sino de un paquete adicional de 2GB exclusivo para estas aplicaciones que le estamos regalando por ser cliente fiel. Este beneficio se activará automáticamente junto con su paquete de roaming.
+
+[00:07:24] CLIENTE: ¡Eso es perfecto! Muchas gracias por toda la información y por el beneficio adicional.
+
+[00:07:30] AGENTE: Es un placer poder ayudarle, <PERSON>. ¿Hay algo más en lo que pueda asistirle respecto a su viaje o algún otro servicio?
+
+[00:07:38] CLIENTE: No, eso sería todo por ahora. Me queda muy claro todo.
+
+[00:07:42] AGENTE: Perfecto. Le deseo un excelente viaje. Recuerde que puede contactarnos en cualquier momento si surge alguna duda adicional. Recibirá la confirmación por SMS en breve, y un día antes de su viaje le enviaremos un recordatorio con recomendaciones para el uso de su teléfono en el extranjero. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:08:03] CLIENTE: No, eso es todo. Muchas gracias por su ayuda.
+
+[00:08:07] AGENTE: Gracias a usted por preferir <LOCATION> Internacional. Ha sido un placer atenderle. Que tenga un excelente día y un magnífico viaje.
+
+[00:08:16] CLIENTE: Igualmente, adiós.
+
+[00:08:18] AGENTE: Adiós.
+
+[00:08:19] SISTEMA: Llamada finalizada.

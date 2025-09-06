@@ -1,0 +1,23 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Mariana. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buenos días. Me llamo Carlos.
+[00:00:07] AGENTE: <LOCATION>. ¡Hola, Carlos! ¿Cómo estás? Espero que te encuentres bien. Cuéntame, ¿en qué te puedo ayudar el día de hoy?
+[00:00:12] CLIENTE: Estoy llamando porque necesito activar una nueva tarjeta SIM que acabo de comprar.
+[00:00:20] AGENTE: Entiendo, Carlos. Con gusto te ayudo con la activación. ¿Podrías proporcionarme el número de la nueva SIM, por favor?
+[00:00:26] CLIENTE: Sí, el número es 8923-4567-8901.
+[00:00:30] AGENTE: Perfecto. Un momento mientras verifico la información en el sistema.
+[00:00:40] AGENTE: Listo, la SIM está registrada y podemos proceder con la activación. ¿Podrías confirmarme tu número de línea?
+[00:00:50] CLIENTE: Claro, es 987-654-321.
+[00:00:55] AGENTE: Gracias, Carlos. También necesito validar tu identidad. ¿Podrías confirmarme tu nombre completo y documento de identidad?
+[00:01:05] CLIENTE: Sí, mi nombre es Carlos Ramírez y mi número de identificación es 12345678.
+[00:01:10] AGENTE: Excelente. Un momento mientras proceso la activación.
+[00:01:20] AGENTE: Ya activé tu SIM. Para finalizar el proceso, por favor apaga tu teléfono, inserta la nueva SIM y enciéndelo nuevamente.
+[00:01:30] CLIENTE: De acuerdo, dame un momento… Listo, ya lo encendí.
+[00:01:35] AGENTE: ¿Puedes verificar si ya tienes señal y puedes hacer una llamada?
+[00:01:40] CLIENTE: Sí, ya tengo señal. Haré una prueba llamando a otro número… Funciona perfectamente. ¡Muchas gracias!
+[00:01:50] AGENTE: Me alegra saberlo, Carlos. ¿Puedo ayudarte con algo más?
+[00:01:55] CLIENTE: No, eso sería todo. Aprecio mucho tu ayuda.
+[00:02:00] AGENTE: Con gusto, Carlos. Que tengas un excelente día.
+[00:02:05] CLIENTE: Igualmente. Hasta luego.
+[00:02:10] AGENTE: Hasta luego.
+[00:02:12] [Llamada finalizada]
+

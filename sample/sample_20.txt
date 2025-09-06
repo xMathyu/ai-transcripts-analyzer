@@ -1,0 +1,27 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Fiorella del área de atención digital. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Andrés Guevara. Estoy llamando porque tengo problemas para ingresar a la app móvil de la empresa. No puedo ver mis consumos ni pagar la factura.
+[00:00:14] AGENTE: Entiendo, Andrés. Vamos a resolverlo juntos. ¿Podrías brindarme tu número de cliente o RUT, por favor?
+[00:00:20] CLIENTE: Sí, es 19-703-861-0.
+[00:00:23] AGENTE: Gracias. ¿Podrías confirmarme también tu dirección registrada?
+[00:00:26] CLIENTE: Claro, Calle Monteverde 348, departamento 504.
+[00:00:30] AGENTE: Perfecto. Ya tengo acceso a tu cuenta. ¿Qué mensaje te aparece exactamente cuando intentas ingresar a la app?
+[00:00:37] CLIENTE: Dice que mis credenciales son incorrectas, pero estoy seguro de que la contraseña es la correcta. Incluso intenté restablecerla, pero no me llega el correo.
+[00:00:47] AGENTE: Comprendido. Primero revisemos si tu correo está correctamente registrado en el sistema. Dame un segundo...
+[00:01:00] AGENTE: Bien, veo que tu correo figura como andresguevara@email.com. ¿Ese es el correcto?
+[00:01:05] CLIENTE: Sí, ese es.
+[00:01:07] AGENTE: Perfecto. Voy a enviarte manualmente un enlace de recuperación de contraseña desde nuestro sistema interno. Debería llegarte en los próximos minutos. ¿Puedes verificar mientras seguimos en línea?
+[00:01:17] CLIENTE: Ya... sí, me acaba de llegar. Voy a hacer el cambio ahora.
+[00:01:22] AGENTE: Adelante, te espero.
+[00:01:40] CLIENTE: Listo, ya cambié la contraseña. Voy a intentar ingresar de nuevo...
+[00:01:45] CLIENTE: ¡Listo! Ya entré a la app. Ahora sí puedo ver mis consumos y el saldo pendiente.
+[00:01:50] AGENTE: Excelente. ¿Deseas que te guíe para hacer el pago desde la app?
+[00:01:53] CLIENTE: Sí, por favor. Nunca lo he hecho desde ahí.
+[00:01:56] AGENTE: Claro. En el menú principal, entra a "Mis Servicios" y luego a "Facturación". Ahí verás el botón "Pagar ahora". Puedes usar tarjeta o Yape.
+[00:02:05] CLIENTE: Ya encontré la opción. Voy a pagar con tarjeta... listo, ¡pago realizado!
+[00:02:11] AGENTE: Perfecto, el sistema ya refleja tu pago. También recibirás un comprobante al correo.
+[00:02:15] CLIENTE: Muchas gracias, Fiorella. Excelente atención.
+[00:02:18] AGENTE: Gracias a ti, Andrés, por comunicarte con nosotros. ¿Hay algo más en lo que pueda ayudarte?
+[00:02:22] CLIENTE: No, todo claro por ahora.
+[00:02:24] AGENTE: Que tengas una excelente tarde. Hasta luego.
+[00:02:27] CLIENTE: Hasta luego.
+[00:02:28] SISTEMA: [Llamada finalizada]

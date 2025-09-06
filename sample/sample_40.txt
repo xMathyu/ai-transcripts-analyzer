@@ -1,0 +1,79 @@
+[00:00:00] AGENTE: <LOCATION>NotStar. Le atiende Laura. ¿En qué puedo ayudarle hoy?
+
+[00:00:06] CLIENTE: Hola, buenos días. Llamo porque quiero cambiar mi plan actual por uno con más datos.
+
+[00:00:12] AGENTE: Buenos días. Con gusto le puedo ayudar con eso. Para acceder a su cuenta, ¿podría proporcionarme su número de cliente, por favor?
+
+[00:00:20] CLIENTE: Sí, es el 56-728-943-2.
+
+[00:00:27] AGENTE: Gracias. ¿Y me confirma su nombre completo?
+
+[00:00:30] CLIENTE: <PERSON>.
+
+[00:00:32] AGENTE: Perfecto. Por seguridad, ¿me podría indicar los últimos cuatro dígitos de su documento de identidad?
+
+[00:00:39] CLIENTE: 8573.
+
+[00:00:41] AGENTE: Excelente. Un momento mientras reviso la información de su cuenta.
+
+[00:01:02] AGENTE: <PERSON>, veo que actualmente tiene el Plan Conecta 25, que incluye 25GB de datos, llamadas ilimitadas y 300 SMS por 32,90 al mes. ¿Es correcto?
+
+[00:01:15] CLIENTE: Sí, ese es mi plan actual, pero se me acaban los datos antes de fin de mes y necesito más.
+
+[00:01:21] AGENTE: Entiendo perfectamente. Tenemos varias opciones que podrían interesarle. ¿Tiene algún presupuesto mensual específico o prefiere que le presente nuestras mejores opciones?
+
+[00:01:32] CLIENTE: No quiero gastar más de 45 euros al mes, si es posible.
+
+[00:01:36] AGENTE: Perfecto. Para ese presupuesto, tenemos dos opciones muy interesantes. La primera es nuestro Plan Conecta 50, que incluye 50GB de datos, llamadas ilimitadas y SMS ilimitados por 39,90 al mes. La segunda opción es nuestro Plan Premium 70, con 70GB de datos, llamadas ilimitadas, SMS ilimitados y acceso a nuestra plataforma de streaming por 44,90 al mes.
+
+[00:02:03] CLIENTE: El de 70GB suena bien. ¿Ese incluye roaming en Europa?
+
+[00:02:08] AGENTE: Sí, ambos planes incluyen roaming en la Unión Europea con hasta 25GB en el Plan Conecta 50 y 35GB en el Plan Premium 70. Además, el Plan Premium 70 incluye 5GB para usar en Estados Unidos, Canadá y Reino Unido.
+
+[00:02:24] CLIENTE: Perfecto. Y la plataforma de streaming, ¿qué ofrece exactamente?
+
+[00:02:29] AGENTE: La plataforma incluye acceso a series, películas y documentales. Tenemos un catálogo de más de 10,000 títulos, incluyendo producciones originales. Normalmente, este servicio tiene un costo de 8,99 por mes, pero viene incluido sin costo adicional en el Plan Premium 70.
+
+[00:02:47] CLIENTE: Me interesa el Plan Premium 70. ¿Hay algún período de permanencia?
+
+[00:02:52] AGENTE: El plan tiene un compromiso de permanencia de 12 meses. Si decide cancelar antes, habría una penalización proporcional al tiempo restante del compromiso. ¿Le parece bien?
+
+[00:03:02] CLIENTE: Sí, no hay problema. ¿Cuándo se haría efectivo el cambio?
+
+[00:03:06] AGENTE: Podemos hacer el cambio efectivo a partir de hoy mismo. Sus nuevos datos estarían disponibles de inmediato, y el ciclo de facturación se ajustará proporcionalmente. Es decir, pagaría la parte proporcional del nuevo plan por los días restantes del mes actual.
+
+[00:03:22] CLIENTE: Perfecto. Quiero proceder con el cambio al Plan Premium 70.
+
+[00:03:26] AGENTE: Excelente elección. Procederé a realizar el cambio de inmediato. Un momento, por favor.
+
+[00:03:51] AGENTE: <PERSON>, estoy completando el proceso de cambio de plan. ¿Desea mantener el mismo método de pago que tiene configurado actualmente?
+
+[00:03:59] CLIENTE: Sí, el mismo está bien.
+
+[00:04:02] AGENTE: Perfecto. Y para confirmar, ¿el correo electrónico para enviarle la confirmación sigue siendo ejemplo@correo.com?
+
+[00:04:09] CLIENTE: Sí, ese correo es correcto.
+
+[00:04:12] AGENTE: Perfecto. He completado el cambio al Plan Premium 70. A partir de este momento ya cuenta con 70GB de datos, llamadas y SMS ilimitados. En unos minutos recibirá un SMS y un correo electrónico con la confirmación del cambio.
+
+[00:04:27] CLIENTE: ¿Y cómo accedo a la plataforma de streaming?
+
+[00:04:30] AGENTE: Excelente pregunta. En el correo electrónico de confirmación encontrará un enlace para activar su cuenta en la plataforma de streaming. También puede descargar nuestra aplicación MoviStar+ desde la tienda de aplicaciones de su dispositivo y acceder con las mismas credenciales de su cuenta MoviStar. La activación puede tardar hasta 2 horas en completarse.
+
+[00:04:49] CLIENTE: Entendido. ¿Y si tengo algún problema con la activación?
+
+[00:04:53] AGENTE: No se preocupe, puede contactarnos las 24 horas a través de nuestro servicio de atención al cliente. También puede resolver la mayoría de las dudas a través de nuestra aplicación móvil o el área de clientes en nuestra página web. ¿Le gustaría que le enviara un tutorial sobre cómo acceder a la plataforma?
+
+[00:05:10] CLIENTE: Sí, eso sería útil.
+
+[00:05:12] AGENTE: Perfecto. Incluiré el tutorial en el correo de confirmación. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:05:19] CLIENTE: No, eso sería todo. Muchas gracias por su ayuda.
+
+[00:05:23] AGENTE: Gracias a usted por confiar en MoviStar. Su plan ya está actualizado y puede comenzar a disfrutar de sus nuevos beneficios de inmediato. Si surge cualquier consulta adicional, no dude en contactarnos. Ha sido un placer atenderle.
+
+[00:05:36] CLIENTE: Gracias, igualmente. Adiós.
+
+[00:05:39] AGENTE: Que tenga un excelente día. Adiós.
+
+[00:05:42] [FIN DE LA LLAMADA]

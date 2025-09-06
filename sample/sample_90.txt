@@ -1,0 +1,24 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Isabel García de <LOCATION>. ¿Con quién tengo el gusto de hablar?
+[00:00:04] CLIENTE: Buenas tardes. Mi nombre es Héctor Ramírez. Estoy llamando porque he recibido una factura con cargos adicionales que no reconozco y quiero que los revisen de inmediato.
+[00:00:12] AGENTE: Lamento mucho escuchar eso, Sr. Ramírez. Con gusto procederé a revisar su factura. ¿Podría proporcionarme su número de cliente o RUT para poder localizar su cuenta?
+[00:00:18] CLIENTE: Claro, mi RUT es 12.345.678-9.
+[00:00:22] AGENTE: Gracias, Sr. Ramírez. Permítame un momento mientras reviso su cuenta... Un momento, por favor... Ya tengo la información. Veo que en su factura hay un cargo adicional de $35.000 correspondiente a "ajustes por consumo estimado". ¿Este es el cargo al que se refiere?
+[00:00:38] CLIENTE: Sí, exactamente. No entiendo por qué aparece un cargo de ese tipo. He pagado mis facturas a tiempo y no he solicitado ningún ajuste ni cambio en el servicio. Este cargo no me fue informado previamente.
+[00:00:47] AGENTE: Entiendo su preocupación, Sr. Ramírez. Permítame investigar más a fondo. Parece que, según nuestros registros, se realizó una estimación en su consumo debido a una interrupción en la lectura de su medidor en el último ciclo. Sin embargo, eso no debe generar un cargo sin su consentimiento. Procederé a investigar por qué se generó este ajuste sin previo aviso.
+[00:01:09] CLIENTE: Eso es inaceptable. Nunca recibí ninguna notificación sobre esta estimación. Como cliente, considero que debí haber sido informado antes de que se me aplicara cualquier cargo adicional.
+[00:01:17] AGENTE: Lamento mucho esta situación, Sr. Ramírez, y comprendo su frustración. Esto claramente no corresponde a las políticas que tenemos para la atención de nuestros clientes. Procederé de inmediato a realizar una revisión detallada del proceso que generó este cargo adicional. Un momento, por favor.
+[00:01:35] CLIENTE: Gracias. Espero que se resuelva de manera rápida y justa.
+[00:01:40] AGENTE: Por supuesto, Sr. Ramírez. Estoy haciendo un seguimiento con nuestro departamento de facturación para que se analice este ajuste y se rectifique si ha habido algún error en el proceso. Le aseguro que tomaremos las medidas necesarias para corregirlo. ¿Me permite unos minutos más para completar la revisión?
+[00:01:58] CLIENTE: Está bien, pero espero que esto se solucione pronto. Este tipo de cobros innecesarios afectan mi confianza en el servicio que proporcionan.
+[00:02:06] AGENTE: Comprendo completamente su molestia, Sr. Ramírez. Un momento más mientras verifico los detalles... He recibido confirmación de nuestro departamento de facturación. El cargo adicional se generó debido a un error en la estimación de consumo. Esto será corregido inmediatamente y el ajuste será revertido en su próxima factura. Lamento mucho los inconvenientes causados.
+[00:02:29] CLIENTE: Agradezco la corrección, pero esto debería haber sido manejado de manera diferente. ¿Puedo esperar una confirmación por escrito de que este ajuste ha sido realizado?
+[00:02:37] AGENTE: Por supuesto, Sr. Ramírez. Le enviaré un correo electrónico de confirmación en cuanto se haya procesado el reembolso del cargo adicional y se actualice su cuenta. Este proceso debería completarse en un plazo de 72 horas.
+[00:02:51] CLIENTE: Espero recibir la confirmación dentro de ese plazo. Quiero asegurarme de que el cargo será completamente rectificado.
+[00:02:57] AGENTE: Le aseguro que su cuenta será ajustada correctamente, Sr. Ramírez. Como medida adicional, también revisaré si ha habido otros cargos similares en el pasado, para garantizar que su historial de facturación sea el correcto. ¿Hay algo más en lo que pueda asistirlo mientras tanto?
+[00:03:12] CLIENTE: No, eso es todo por ahora. Solo espero que no haya más problemas con mi cuenta en el futuro.
+[00:03:18] AGENTE: Entiendo, Sr. Ramírez, y le agradezco su comprensión. Lamentamos nuevamente los inconvenientes ocasionados y estamos comprometidos en garantizar que esto no vuelva a ocurrir. Recibirá su confirmación por correo en los próximos días.
+[00:03:32] CLIENTE: Muchas gracias por su atención. Espero que se resuelva pronto.
+[00:03:36] AGENTE: A usted, Sr. Ramírez, por su paciencia. Que tenga una excelente tarde.
+[00:03:40] CLIENTE: Igualmente. Buenas tardes.
+[00:03:42] AGENTE: Buenas tardes.
+[00:03:43] *** LLAMADA FINALIZADA ***

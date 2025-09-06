@@ -1,0 +1,28 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Diego. ¿En qué puedo ayudarle?
+[00:00:04] CLIENTE: Buenas tardes, Diego. Mi nombre es Valeria Moreno. Estoy llamando porque quiero dar de baja uno de los servicios que tengo contratados, específicamente el teléfono fijo.
+[00:00:13] AGENTE: Entiendo, Valeria. Lamento que quieras cancelar el servicio. Primero voy a verificar tu información para poder ayudarte. ¿Podrías brindarme tu número de cliente o RUT?
+[00:00:21] CLIENTE: Claro, es 21-567-334-8.
+[00:00:24] AGENTE: Gracias. ¿Podrías confirmarme también tu dirección registrada?
+[00:00:27] CLIENTE: Avenida Miraflores 740, casa B.
+[00:00:30] AGENTE: Perfecto, ya tengo acceso a tu cuenta. Veo que tienes un paquete que incluye internet, televisión y línea fija. Si damos de baja la línea fija, el paquete cambiaría y podría afectar el precio mensual. ¿Estás al tanto de eso?
+[00:00:43] CLIENTE: Sí, me lo mencionaron antes. ¿Puedes indicarme cuál sería el nuevo monto?
+[00:00:47] AGENTE: Claro, sin la línea fija, el plan quedaría en 139 soles mensuales, con los servicios de internet de 200 Mbps y TV HD con 90 canales. Actualmente estás pagando 149 soles por los tres servicios.
+[00:00:58] CLIENTE: Está bien, me parece justo. Quiero proceder con la cancelación del teléfono fijo.
+[00:01:02] AGENTE: Perfecto. Antes de continuar, necesito hacerte algunas preguntas por motivos de seguridad. ¿Cuál es el monto de tu última factura?
+[00:01:09] CLIENTE: Fue de 149 soles exactos.
+[00:01:11] AGENTE: Correcto. ¿Y cuál es el método de pago habitual?
+[00:01:14] CLIENTE: Tarjeta de crédito.
+[00:01:16] AGENTE: Gracias. Todo en orden. Procederé con la cancelación del servicio de línea fija. Esto tomará efecto en un plazo de 24 a 48 horas.
+[00:01:24] CLIENTE: ¿Y me enviarán algún comprobante por correo?
+[00:01:27] AGENTE: Sí, recibirás un correo de confirmación al mail registrado: valmoreno@email.com.
+[00:01:32] CLIENTE: Perfecto. ¿Hay penalidad por cancelación?
+[00:01:35] AGENTE: No, Valeria. Como ya cumpliste el periodo mínimo de permanencia, no se aplica penalidad alguna.
+[00:01:41] CLIENTE: Excelente. Gracias por tu ayuda.
+[00:01:44] AGENTE: Con gusto. ¿Deseas mantener el número de línea por si más adelante quisieras reactivarlo?
+[00:01:50] CLIENTE: No, no es necesario. Puedes liberar el número.
+[00:01:53] AGENTE: Listo, entonces la línea será desactivada completamente. ¿Hay algo más en lo que pueda ayudarte?
+[00:01:58] CLIENTE: No, eso sería todo por ahora. Gracias, Diego.
+[00:02:01] AGENTE: Gracias a ti, Valeria. Que tengas una excelente tarde.
+[00:02:04] CLIENTE: Igualmente. Hasta luego.
+[00:02:06] AGENTE: Hasta luego.
+[00:02:07] SISTEMA: [Llamada finalizada]

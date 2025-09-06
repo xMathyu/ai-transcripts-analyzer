@@ -1,0 +1,73 @@
+[00:00:00] AGENTE: Soporte técnico de <LOCATION>. Le atiende Carlos. ¿En qué puedo ayudarle?
+
+[00:00:06] CLIENTE: Hola, buenas tardes. Mire, tengo un problema con mi router, llevo dos días sin conexión a internet y necesito trabajar desde casa.
+
+[00:00:14] AGENTE: Comprendo su situación y lamento las molestias. Vamos a solucionarlo lo antes posible. ¿Me podría proporcionar su número de cuenta, por favor?
+
+[00:00:22] CLIENTE: Sí, es el 78-309-452-8.
+
+[00:00:29] AGENTE: Gracias. Y para verificar que estoy hablando con el titular, ¿me podría decir su nombre completo?
+
+[00:00:34] CLIENTE: <PERSON>.
+
+[00:00:36] AGENTE: Perfecto, <PERSON>. Deme un momento mientras accedo a su información.
+
+[00:00:53] AGENTE: Muy bien, efectivamente veo que su servicio está registrado pero hay una alerta de desconexión. ¿Me podría describir qué luces están encendidas en su router en este momento?
+
+[00:01:04] CLIENTE: A ver... está encendida la luz de encendido que es verde, la de DSL está parpadeando en rojo, y las otras están apagadas.
+
+[00:01:15] AGENTE: Entiendo. Esa luz parpadeando en rojo nos indica que hay un problema con la sincronización de la línea. ¿Ha habido alguna tormenta eléctrica o corte de luz en su zona recientemente?
+
+[00:01:27] CLIENTE: Sí, de hecho, anteayer hubo un apagón en todo el barrio que duró como dos horas.
+
+[00:01:32] AGENTE: Eso podría explicar el problema. Vamos a intentar reiniciar el equipo correctamente. ¿Podría por favor desconectar el router de la corriente eléctrica, esperar 30 segundos y volverlo a conectar?
+
+[00:01:44] CLIENTE: Sí, un momento.
+
+[00:02:15] CLIENTE: Listo, ya lo desconecté y volví a conectar. Está encendiendo de nuevo.
+
+[00:02:20] AGENTE: Perfecto. Esperemos unos 60 segundos mientras el router se inicializa completamente. Mientras tanto, ¿está el cable telefónico bien conectado tanto al router como a la toma de pared?
+
+[00:02:30] CLIENTE: Déjeme revisar... Sí, parece que está bien conectado en ambos extremos.
+
+[00:02:37] AGENTE: Excelente. ¿Cómo están las luces ahora?
+
+[00:02:45] CLIENTE: La luz de encendido está verde, la de DSL sigue parpadeando pero ahora en verde, la de internet sigue apagada.
+
+[00:02:53] AGENTE: Eso es una buena señal. El parpadeo en verde de la luz DSL indica que está intentando sincronizarse. Vamos a esperar unos segundos más.
+
+[00:03:08] CLIENTE: ¡Ah! Ahora la luz de internet se encendió, es verde fija.
+
+[00:03:12] AGENTE: ¡Excelente noticia! Esto significa que ya tiene conexión. ¿Podría verificar desde algún dispositivo si puede navegar por internet?
+
+[00:03:21] CLIENTE: Voy a probar con mi laptop, un momento... Mmm, no, sigue diciendo que no hay conexión.
+
+[00:03:33] AGENTE: Entiendo. Vamos a verificar la configuración WiFi. ¿Puede ver si en su laptop aparece su red WiFi en la lista de redes disponibles?
+
+[00:03:42] CLIENTE: A ver... No, no aparece ninguna red con mi nombre.
+
+[00:03:48] AGENTE: Comprendo. Es posible que el router haya restaurado su configuración de fábrica después del apagón. Vamos a configurarlo nuevamente. ¿Puede ver en la parte inferior o trasera del router si hay una etiqueta con la información de red WiFi?
+
+[00:04:03] CLIENTE: Sí, aquí dice "SSID: HomeFiber_2G4" y hay una contraseña.
+
+[00:04:12] AGENTE: Perfecto. Intente buscar esa red en su laptop y conéctese usando la contraseña que aparece en la etiqueta.
+
+[00:04:23] CLIENTE: Estoy buscando... ¡Ah, ahí está! Voy a conectarme.
+
+[00:04:38] CLIENTE: Ya me conecté a la red, y... ¡sí! Ya tengo internet. La página web cargó correctamente.
+
+[00:04:44] AGENTE: ¡Excelente! El problema estaba en que el router restauró su configuración predeterminada después del apagón. Lo que podemos hacer ahora es configurar nuevamente su red con el nombre y contraseña que usted prefiera para facilitar la conexión de sus dispositivos habituales. ¿Le gustaría que le guiara en ese proceso?
+
+[00:05:01] CLIENTE: La verdad, por ahora estoy conforme con que funcione. Tengo una reunión en 15 minutos y necesito prepararme. Quizás otro día pueda llamar para hacer esa configuración más personalizada.
+
+[00:05:11] AGENTE: Comprendo perfectamente. No hay problema. Lo importante es que ya cuenta con el servicio. Para su tranquilidad, he registrado en nuestro sistema que se ha solucionado este incidente. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:05:23] CLIENTE: No, eso sería todo. Muchísimas gracias por su ayuda y paciencia.
+
+[00:05:27] AGENTE: Ha sido un placer ayudarle, <PERSON>. Recuerde que puede contactarnos las 24 horas si necesita asistencia técnica nuevamente. Le deseo una excelente reunión y un buen día.
+
+[00:05:38] CLIENTE: Gracias, igualmente. Adiós.
+
+[00:05:40] AGENTE: Adiós. Gracias por contactar a soporte técnico de <LOCATION>.
+
+[00:05:44] SISTEMA: Llamada finalizada.

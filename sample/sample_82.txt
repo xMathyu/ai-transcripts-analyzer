@@ -1,0 +1,20 @@
+[00:00:00] AGENTE: <LOCATION>. Buenas tardes, le saluda Nicolás. ¿Con quién tengo el gusto de hablar?
+[00:00:03] CLIENTE: Con Andrea Silva. Y antes que digas cualquier cosa, quiero hablar directamente con un supervisor. Llevo tres días sin internet.
+[00:00:09] AGENTE: Lamento muchísimo la situación, Andrea. Estoy aquí para ayudarte. ¿Me puedes dar tu número de cliente o RUT para revisar tu caso?
+[00:00:14] CLIENTE: 15.898.445-3. Pero ya he hablado con tres personas esta semana. Nadie soluciona nada.
+[00:00:19] AGENTE: Entiendo tu molestia completamente. Déjame revisar… Veo aquí que tu sector presenta una incidencia técnica desde el lunes.
+[00:00:26] CLIENTE: ¡Sí, lo sé! Trabajo desde casa, y no tengo cómo conectarme. Me han hecho perder dinero, reuniones, y paciencia.
+[00:00:32] AGENTE: Comprendo, Andrea. El equipo técnico informó que el corte fue por daño en la fibra troncal. Ya comenzaron la reparación hoy a las 10:00 hrs.
+[00:00:39] CLIENTE: ¡Eso dijeron ayer también! ¿Cómo sé que no es otra mentira?
+[00:00:43] AGENTE: Te puedo enviar el reporte técnico actualizado al correo. Además, puedo escalar tu caso al área de retención para que evalúen una compensación por días sin servicio.
+[00:00:51] CLIENTE: No quiero evaluación. Quiero que me devuelvan el dinero y que me den una solución hoy.
+[00:00:56] AGENTE: Voy a ingresar un reclamo con solicitud de reembolso directo, y si lo deseas, puedo transferirte con un supervisor del área técnica para seguimiento más detallado.
+[00:01:03] CLIENTE: Por favor, hazlo. Pero no me pongas en espera 20 minutos, como la última vez.
+[00:01:07] AGENTE: Entiendo. Me aseguraré de que te contacten dentro de los próximos 15 minutos. ¿Este número termina en 641?
+[00:01:11] CLIENTE: Sí.
+[00:01:12] AGENTE: Perfecto. Ya está todo registrado. Te llegará el comprobante del reclamo a tu correo. El número del caso es 6011442.
+[00:01:18] CLIENTE: Bien. Ojalá esta vez hagan algo.
+[00:01:21] AGENTE: De verdad lo siento, Andrea. Espero que pronto se normalice. Te llamará un supervisor a la brevedad.
+[00:01:25] CLIENTE: Chau.
+[00:01:26] AGENTE: Chau, y gracias por tu paciencia.
+[00:01:28] *** LLAMADA FINALIZADA ***

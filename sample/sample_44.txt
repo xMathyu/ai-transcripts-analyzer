@@ -1,0 +1,79 @@
+[00:00:00] AGENTE: <LOCATION>TelePlus. Le atiende Roberto. ¿En qué puedo ayudarle hoy?
+
+[00:00:06] CLIENTE: Buenas tardes. Llamo porque he recibido la factura de este mes y viene con un cargo adicional que no entiendo. Es bastante más alta de lo habitual.
+
+[00:00:16] AGENTE: Buenas tardes. Lamento escuchar que hay un problema con su facturación. Voy a revisar su cuenta de inmediato para ayudarle a resolver esta situación. ¿Podría facilitarme su número de cliente o el DNI asociado a la cuenta?
+
+[00:00:30] CLIENTE: Mi número de cliente es el TP-729384.
+
+[00:00:35] AGENTE: Gracias. ¿Y podría confirmarme su nombre completo, por favor?
+
+[00:00:39] CLIENTE: <PERSON>.
+
+[00:00:41] AGENTE: Perfecto, <PERSON>. Por motivos de seguridad, ¿podría indicarme también los últimos cuatro dígitos de la cuenta bancaria donde tiene domiciliados los recibos?
+
+[00:00:51] CLIENTE: Sí, son 3845.
+
+[00:00:54] AGENTE: Muchas gracias por la confirmación. Estoy accediendo a su cuenta y a la información de su última factura. Un momento, por favor.
+
+[00:01:14] AGENTE: <PERSON>, estoy revisando su factura del periodo del 15 de febrero al 14 de marzo. Veo que el importe total es de 98,76€, cuando normalmente su factura mensual es de aproximadamente 54,90€. ¿Es correcta esta información?
+
+[00:01:30] CLIENTE: Sí, exactamente. Ha subido casi el doble y no entiendo por qué.
+
+[00:01:34] AGENTE: Voy a revisar los detalles de la factura para identificar a qué se debe este incremento. Un momento, por favor.
+
+[00:01:57] AGENTE: Gracias por su paciencia. Analizando su factura en detalle, observo que además de su tarifa habitual de 54,90€, hay un cargo adicional de 43,86€ correspondiente a "Servicios Premium Internacional". Este cargo aparece vinculado a llamadas realizadas a un número internacional con prefijo +216 el día 28 de febrero. ¿Reconoce haber realizado estas llamadas?
+
+[00:02:21] CLIENTE: No, en absoluto. No he llamado a ningún número internacional. ¿Qué país es ese prefijo?
+
+[00:02:27] AGENTE: El prefijo +216 corresponde a Túnez. Según los registros, se realizaron 3 llamadas a este número con una duración total de 17 minutos. ¿Es posible que algún familiar o persona con acceso a su teléfono haya podido realizar estas llamadas?
+
+[00:02:42] CLIENTE: No, vivo solo y nadie más usa mi teléfono. Nunca he llamado a Túnez y no conozco a nadie allí. Esto debe ser un error o algún tipo de fraude.
+
+[00:02:51] AGENTE: Entiendo su preocupación. En estos casos, procedemos a investigar detalladamente el origen de las llamadas. Dado que usted no reconoce estas llamadas y el patrón parece inusual comparado con su histórico de uso, voy a iniciar una reclamación por posible fraude telefónico.
+
+[00:03:08] CLIENTE: ¿Y tendré que pagar esa cantidad mientras tanto?
+
+[00:03:11] AGENTE: No se preocupe. Voy a proceder a generar una factura rectificativa de inmediato, eliminando el cargo de 43,86€. Su próximo recibo será por el importe habitual de 54,90€. Mientras tanto, nuestro departamento de seguridad investigará estas llamadas para determinar su origen.
+
+[00:03:28] CLIENTE: Menos mal. Me había asustado porque es una cantidad importante.
+
+[00:03:32] AGENTE: Lo entiendo perfectamente. Su tranquilidad es nuestra prioridad. También voy a activar en su línea el bloqueo de llamadas a números internacionales y servicios de tarificación adicional como medida preventiva. Si en algún momento necesita realizar llamadas internacionales, puede solicitarnos que desactivemos temporalmente este bloqueo.
+
+[00:03:51] CLIENTE: Me parece bien. ¿Hay algo más que pueda hacer para evitar este tipo de situaciones en el futuro?
+
+[00:03:57] AGENTE: Sí, le recomendaría activar nuestro servicio gratuito de alertas de consumo, que le enviará un SMS cuando su factura supere ciertos umbrales que usted mismo puede definir. También puede instalar nuestra aplicación móvil, donde podrá monitorizar en tiempo real el consumo de su línea y recibir alertas de actividad inusual. ¿Le gustaría que active alguno de estos servicios?
+
+[00:04:19] CLIENTE: Sí, por favor, active ambos. Prefiero estar informado si ocurre algo raro.
+
+[00:04:24] AGENTE: Perfecto. Acabo de activar el servicio de alertas de consumo. Le llegará un SMS cuando su factura alcance los 30€ y otro cuando llegue a 50€. En cuanto a la aplicación, puede descargarla desde la tienda de aplicaciones de su dispositivo buscando "TelePlus App". Le enviaré un SMS con el enlace directo para facilitar la descarga.
+
+[00:04:43] CLIENTE: Gracias. ¿Cuánto tiempo llevará la investigación del fraude?
+
+[00:04:47] AGENTE: La investigación por parte de nuestro departamento de seguridad suele tomar entre 5 y 10 días hábiles. Una vez concluida, recibirá un informe detallado por correo electrónico. En la mayoría de los casos similares, hemos detectado que se trata de técnicas de "Wangiri" o llamadas perdidas fraudulentas, donde intentan que usted devuelva la llamada a números con tarifas elevadas.
+
+[00:05:08] CLIENTE: Nunca había oído hablar de eso. Es preocupante.
+
+[00:05:12] AGENTE: Efectivamente, es una práctica fraudulenta que está aumentando. Por eso es importante no devolver llamadas a números desconocidos, especialmente internacionales. Como medida adicional, ¿le gustaría que cambiemos su número por uno nuevo para evitar futuros intentos?
+
+[00:05:27] CLIENTE: No, prefiero mantener mi número actual, ya que lo tengo desde hace muchos años. Con el bloqueo debería ser suficiente, espero.
+
+[00:05:34] AGENTE: Entiendo. El bloqueo que he activado es bastante efectivo. Aun así, actualizaré sus datos para que nuestro sistema esté más atento a patrones inusuales en su línea. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:05:47] CLIENTE: Quería preguntar si recibiré algún documento que confirme la anulación de ese cargo.
+
+[00:05:52] AGENTE: Por supuesto. En los próximos 30 minutos recibirá un correo electrónico con la factura rectificativa, donde podrá ver que el cargo ha sido eliminado. También incluirá un número de referencia de la reclamación por fraude para su seguimiento. ¿El correo electrónico registrado en su cuenta sigue siendo ejemplo@correo.com?
+
+[00:06:10] CLIENTE: Sí, ese es mi correo actual.
+
+[00:06:13] AGENTE: Perfecto. Entonces recibirá ahí toda la documentación. ¿Necesita alguna aclaración adicional sobre este tema o hay algo más en lo que pueda ayudarle?
+
+[00:06:22] CLIENTE: No, creo que con esto es suficiente. Gracias por la atención y por resolver el problema tan rápidamente.
+
+[00:06:28] AGENTE: Ha sido un placer ayudarle, <PERSON>. En TelePlus nos tomamos muy en serio la seguridad de nuestros clientes y lamentamos las molestias que esta situación le haya podido causar. Si surge cualquier duda adicional o necesita más información sobre el proceso, no dude en contactarnos nuevamente. Le deseo un excelente día.
+
+[00:06:47] CLIENTE: Igualmente. Adiós.
+
+[00:06:49] AGENTE: Adiós. Gracias por confiar en TelePlus.
+
+[00:06:52] [FIN DE LA LLAMADA]

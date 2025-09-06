@@ -1,0 +1,26 @@
+[00:00:00] AGENTE: <LOCATION>. Buenas tardes, le saluda Andrés. ¿Con quién tengo el gusto de hablar?
+[00:00:03] CLIENTE: Hola, soy Roberto González. Estoy llamando porque acabo de recibir mi factura y me están cobrando un monto adicional que no entiendo. Quiero que me lo expliquen ya.
+[00:00:09] AGENTE: Lamento mucho lo ocurrido, Roberto. Te voy a ayudar de inmediato. ¿Puedes darme tu número de cliente o RUT, por favor?
+[00:00:14] CLIENTE: Mi RUT es 14.236.488-5.
+[00:00:17] AGENTE: Gracias, un momento mientras reviso tu cuenta… Ya la tengo. Veo que tu servicio de TV por cable fue actualizado recientemente, ¿es correcto?
+[00:00:24] CLIENTE: Sí, pero eso no justifica el cobro adicional que aparece en la factura. Estoy viendo que me cobran $10.000 más por “paquete adicional premium”. Yo no he solicitado eso.
+[00:00:33] AGENTE: Entiendo tu frustración, Roberto. Voy a revisar el detalle de la factura. Un momento, por favor… Parece que el sistema activó un paquete premium por error debido a una actualización automatizada.
+[00:00:41] CLIENTE: ¡Esto es increíble! Yo no pedí ningún paquete premium. Solo quiero ver los canales básicos.
+[00:00:46] AGENTE: Te pido disculpas por el inconveniente, Roberto. Voy a proceder con la cancelación de ese paquete premium y realizar un ajuste a tu factura.
+[00:00:52] CLIENTE: ¿Y cuánto tiempo me va a tomar recuperar el dinero? No quiero esperar hasta la próxima factura.
+[00:00:56] AGENTE: Lo entiendo perfectamente. El ajuste se reflejará en tu próxima factura, pero puedo generarte un reembolso inmediato al medio de pago original. ¿Te gustaría que lo haga?
+[00:01:05] CLIENTE: ¡Sí, por favor! ¡Esto ya es demasiado! Ya estoy harto de estos errores. ¿Cuándo puedo esperar el reembolso?
+[00:01:10] AGENTE: El reembolso se procesará en 24 horas y debería reflejarse en tu cuenta en un plazo de 3 a 5 días hábiles.
+[00:01:16] CLIENTE: ¡Eso está bien! Pero quiero asegurarme de que no vuelva a pasar. ¿Cómo evito que me sigan cobrando cosas que no pido?
+[00:01:22] AGENTE: Claro, Roberto. A partir de ahora, podemos configurar tu cuenta para que no se activen paquetes adicionales sin tu autorización. También recibirás un SMS de confirmación antes de cualquier cambio en tus servicios.
+[00:01:33] CLIENTE: Perfecto, pero me gustaría recibir confirmaciones por correo también. Así me aseguro de que todo esté bajo control.
+[00:01:37] AGENTE: Con gusto, Roberto. Voy a configurar las notificaciones por correo para cualquier cambio en tu cuenta.
+[00:01:43] CLIENTE: Bien, eso suena bien. Quiero que quede claro que no voy a tolerar más errores de facturación. Esto ya me ha pasado antes.
+[00:01:50] AGENTE: Entiendo tu molestia, Roberto. Estoy registrando tu reclamo para que no se repita en el futuro. También puedes consultar tus facturas en nuestra app o página web en cualquier momento.
+[00:01:58] CLIENTE: Perfecto. Espero que esta sea la última vez que tengo que llamar por algo así.
+[00:02:02] AGENTE: Te aseguro que vamos a hacer todo lo posible para que no vuelva a ocurrir. El reembolso ya está procesado, y las notificaciones están activadas. ¿Hay algo más en lo que te pueda ayudar?
+[00:02:08] CLIENTE: No, eso es todo. Gracias por resolverlo rápido.
+[00:02:11] AGENTE: A ti, Roberto. Lamento mucho el inconveniente y gracias por tu paciencia. Que tengas un excelente día.
+[00:02:16] CLIENTE: Igualmente. Chau.
+[00:02:17] AGENTE: Chau, chau.
+[00:02:19] *** LLAMADA FINALIZADA ***

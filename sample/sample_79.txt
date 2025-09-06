@@ -1,0 +1,32 @@
+[00:00:00] AGENTE: <LOCATION>. Buenas tardes, le saluda Andrés. ¿Con quién tengo el gusto de hablar?
+[00:00:04] CLIENTE: Hola, me llamo Paula Barrera. Estoy llamando porque mi internet lleva caído desde ayer y nadie me da una solución concreta.
+[00:00:10] AGENTE: Lamento mucho escuchar eso, Paula. Permítame ayudarte. ¿Podrías indicarme tu número de cliente o RUT, por favor?
+[00:00:15] CLIENTE: 18.554.332-5.
+[00:00:18] AGENTE: Gracias. Un momento… Ya estoy revisando tu cuenta. Me podrías confirmar tu dirección para validar, por favor.
+[00:00:23] CLIENTE: Santa Victoria 145, departamento 902.
+[00:00:26] AGENTE: Perfecto, gracias por la confirmación. Veo aquí que efectivamente tu servicio está reportando una interrupción desde ayer a las 14:37 hrs.
+[00:00:34] CLIENTE: Sí, ¡lo sé! El problema es que ya van más de 24 horas y nadie me dice cuánto va a tardar ni qué pasó.
+[00:00:40] AGENTE: Entiendo tu frustración, créeme. Según el reporte técnico, hubo una falla masiva en el nodo del sector Providencia. Ya está siendo atendido por el equipo en terreno.
+[00:00:49] CLIENTE: ¿Y por qué no se les ocurrió avisarme? Yo trabajo desde casa, perdí reuniones importantes. ¿Van a compensarme?
+[00:00:55] AGENTE: Lamento mucho lo ocurrido, Paula. Puedo dejar un registro de tu caso para solicitar la evaluación de un descuento proporcional por el tiempo sin servicio.
+[00:01:02] CLIENTE: No, no quiero una evaluación. Quiero que lo descuenten. Esto no es la primera vez que pasa.
+[00:01:07] AGENTE: Comprendo. Voy a escalar el caso como prioridad alta. Además, te informo que si el servicio no vuelve en las próximas 4 horas, se aplicará automáticamente un reembolso parcial en tu próxima boleta.
+[00:01:18] CLIENTE: Bueno, eso espero. ¿Hay algún número directo al que pueda llamar si esto no se resuelve hoy?
+[00:01:23] AGENTE: Puedes marcar el 800-123-800 y usar tu número de cliente. También puedes escribirnos por WhatsApp para atención más rápida.
+[00:01:30] CLIENTE: Ya. ¿Tienen idea exacta de cuándo se va a solucionar esto?
+[00:01:33] AGENTE: El equipo técnico estimó la normalización para hoy antes de las 20:00 hrs, si no hay inconvenientes adicionales.
+[00:01:41] CLIENTE: ¡Eso me dijeron ayer también! No tengo cómo seguir trabajando. Es una vergüenza.
+[00:01:46] AGENTE: Te entiendo completamente. Voy a generar un informe especial para que quede constancia de tus reclamos. ¿Te parece?
+[00:01:52] CLIENTE: Hazlo, por favor. Y mándame el número del ticket por correo.
+[00:01:56] AGENTE: Claro. Te llegará a tu correo registrado en los próximos minutos. El número del caso es 5932108.
+[00:02:02] CLIENTE: Ya, gracias. ¿Y si esto sigue mañana?
+[00:02:05] AGENTE: Si el servicio no vuelve hoy, se escalará como falla prolongada y se enviará un técnico a tu domicilio en un plazo máximo de 24 horas. Yo misma dejaré agendada esa posibilidad ahora por si acaso.
+[00:02:14] CLIENTE: Bien, eso está mejor. ¿Y pueden contactarme ustedes si hay novedades?
+[00:02:18] AGENTE: Sí, dejé una alerta para que recibas notificaciones automáticas por SMS cada vez que se actualice el estado.
+[00:02:23] CLIENTE: Perfecto. Espero que cumplan esta vez.
+[00:02:26] AGENTE: Gracias por tu paciencia, Paula. Realmente lamento todo este inconveniente.
+[00:02:30] CLIENTE: Ok. Gracias por tu atención, pero ojalá no tenga que volver a llamar mañana por lo mismo.
+[00:02:34] AGENTE: Espero lo mismo. Que tengas buena tarde, y estamos atentos a cualquier novedad.
+[00:02:37] CLIENTE: Chau.
+[00:02:38] AGENTE: Chau.
+[00:02:40] *** LLAMADA FINALIZADA ***

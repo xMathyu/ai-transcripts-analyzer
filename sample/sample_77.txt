@@ -1,0 +1,38 @@
+[00:00:00] AGENTE: <LOCATION>. Muy buenos días, le saluda Diego. ¿Con quién tengo el gusto de hablar?
+[00:00:04] CLIENTE: Hola Diego, te habla <PERSON>. Quería consultar sobre el proceso de portabilidad de mi número.
+[00:00:09] AGENTE: Hola <PERSON>, un gusto saludarte. Claro, con gusto te puedo ayudar con eso. ¿Me indicas tu número actual, por favor?
+[00:00:13] CLIENTE: Sí, es el 987654321.
+[00:00:16] AGENTE: Perfecto. ¿Y me podrías confirmar tu número de RUT o documento de identidad, por favor?
+[00:00:21] CLIENTE: Es 15.890.347-6.
+[00:00:24] AGENTE: Muchas gracias. ¿Y tu dirección registrada en el sistema?
+[00:00:27] CLIENTE: Calle Los Alerces 2480, departamento 1102.
+[00:00:31] AGENTE: Perfecto. Ya tengo tu información en pantalla. Entonces, deseas traer tu número actual desde otra compañía, ¿verdad?
+[00:00:36] CLIENTE: Exactamente. Estoy con Movistar ahora, pero ya pedí la portabilidad hacia ustedes.
+[00:00:41] AGENTE: Entiendo. Veo aquí que tu solicitud fue ingresada ayer por la tarde. El proceso de portabilidad generalmente demora entre 24 y 48 horas hábiles, dependiendo del estado de la línea actual.
+[00:00:51] CLIENTE: ¿Y cómo sé si ya se realizó?
+[00:00:53] AGENTE: Una vez completado el proceso, recibirás un SMS confirmando que la portabilidad fue exitosa y ya podrás usar la SIM que te entregamos. ¿Ya la tienes contigo?
+[00:01:01] CLIENTE: Sí, me la entregaron en la tienda ayer.
+[00:01:04] AGENTE: Perfecto. ¿Probaste insertarla en tu teléfono?
+[00:01:06] CLIENTE: Sí, pero me sale "sin servicio", por eso estoy llamando.
+[00:01:10] AGENTE: Claro, es normal mientras el proceso no finalice. Pero revisando aquí veo que hay un pequeño problema: la portabilidad fue rechazada porque tu línea actual tiene un bloqueo por deuda pendiente con tu operador anterior.
+[00:01:22] CLIENTE: ¿En serio? Pero yo pagué todo antes de solicitar esto.
+[00:01:26] AGENTE: Puede ser que el sistema del otro operador aún no haya actualizado el estado. Te recomendaría comunicarte con ellos para confirmar que tu línea está completamente liberada.
+[00:01:34] CLIENTE: Ya… qué lata. Entonces, ¿ustedes no pueden hacer nada?
+[00:01:38] AGENTE: Nosotros podemos volver a intentar el proceso de portabilidad una vez que se resuelva ese bloqueo. Si deseas, puedo dejar la solicitud en pausa por 48 horas y luego la reintentamos.
+[00:01:47] CLIENTE: Sí, mejor eso. Así lo soluciono en la mañana.
+[00:01:50] AGENTE: Perfecto, ya dejé tu solicitud en pausa. Te recomiendo contactar a Movistar y pedir una constancia de que no tienes deuda pendiente. En cuanto eso esté resuelto, puedes volver a llamarnos o acercarte a una tienda.
+[00:02:02] CLIENTE: Ya, lo haré. ¿Y no pierdo el chip ni nada, cierto?
+[00:02:05] AGENTE: No, tu SIM ya está asociada a tu número en nuestro sistema. Solo debes esperar a que el proceso finalice correctamente para que funcione.
+[00:02:11] CLIENTE: Excelente. Otra duda: ¿el plan empieza a correr cuando se activa la línea o desde ahora?
+[00:02:16] AGENTE: Buenísima pregunta. El plan comienza a correr solo cuando se activa tu número en nuestra red, así que por ahora no se ha generado ningún cobro.
+[00:02:24] CLIENTE: Perfecto. ¿Y cuánto cuesta el plan que elegí?
+[00:02:27] AGENTE: Elegiste el plan de $13.990, que incluye 25 GB de navegación, redes sociales libres y 500 minutos.
+[00:02:34] CLIENTE: Buenísimo. ¿Y tiene permanencia mínima?
+[00:02:37] AGENTE: No, nuestros planes no tienen contrato de permanencia. Puedes cancelarlo o cambiarlo en cualquier momento.
+[00:02:42] CLIENTE: Excelente. Me gustó eso.
+[00:02:44] AGENTE: ¿Hay algo más en lo que pueda ayudarte hoy, <PERSON>?
+[00:02:47] CLIENTE: No, eso sería todo. Muchas gracias por la información.
+[00:02:50] AGENTE: A ti por comunicarte con <LOCATION>. Te deseamos un excelente día y quedamos atentos a cualquier otra consulta.
+[00:02:56] CLIENTE: Muchas gracias, igualmente. Chau.
+[00:02:58] AGENTE: Chau, chau.
+[00:03:00] *** LLAMADA FINALIZADA ***

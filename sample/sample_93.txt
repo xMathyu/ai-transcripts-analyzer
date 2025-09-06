@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Javier Rodríguez de <LOCATION>. ¿En qué puedo asistirlo hoy?
+[00:00:04] CLIENTE: Buenas tardes, Javier. Mi nombre es Adriana Pérez, y estoy llamando porque hace más de 24 horas que cambié de plan a uno de mayor capacidad, pero no se me ha activado correctamente. Necesito que esto se resuelva lo antes posible.
+[00:00:14] AGENTE: Lamento mucho los inconvenientes, Sra. Pérez. Voy a revisar su cuenta de inmediato. ¿Me puede proporcionar su número de cliente o RUT, por favor?
+[00:00:20] CLIENTE: Claro, mi RUT es 19.456.987-3.
+[00:00:23] AGENTE: Gracias, Sra. Pérez. Un momento mientras reviso su cuenta… Ya tengo la información. Veo que el cambio de plan fue solicitado el día de ayer, pero no se ha reflejado correctamente en nuestro sistema. Permítame investigar la razón de esto.
+[00:00:38] CLIENTE: Esto es realmente frustrante. Hice el cambio porque necesito más datos para trabajar, y todavía no tengo acceso a lo que pagué. ¿Qué está pasando con eso?
+[00:00:46] AGENTE: Entiendo perfectamente su frustración, Sra. Pérez. Según el registro de su solicitud, el cambio de plan fue procesado correctamente, pero parece que hubo un error técnico en la activación del servicio. Permítame proceder con la corrección de inmediato.
+[00:01:00] CLIENTE: Espero que lo solucionen rápidamente. No puedo seguir esperando más.
+[00:01:04] AGENTE: Le agradezco por su paciencia, Sra. Pérez. Procederé ahora a activar el plan de inmediato. Un momento, por favor… Listo, el cambio ya ha sido realizado y su plan debería estar activado en los próximos 10 minutos. ¿Puedo asistirla con algo más mientras tanto?
+[00:01:22] CLIENTE: ¿Y qué pasa con los datos que no pude utilizar durante estas 24 horas? Necesito que me den una compensación por este tiempo perdido.
+[00:01:29] AGENTE: Entiendo su preocupación, Sra. Pérez. Como parte de nuestra política, le ofreceremos un **descuento proporcional** en su próxima factura para compensar las horas de servicio no disponible. Este descuento se aplicará de forma automática.
+[00:01:43] CLIENTE: Bueno, eso suena razonable. ¿Cuándo aparecerá el descuento?
+[00:01:47] AGENTE: El descuento se aplicará directamente a su próxima factura, que se emitirá al final del ciclo de facturación. Además, recibirán una confirmación por correo electrónico una vez que el ajuste haya sido procesado.
+[00:01:59] CLIENTE: Está bien, espero que lo hagan tal como me dicen. No quiero seguir teniendo problemas con el servicio.
+[00:02:04] AGENTE: Le aseguro que estamos haciendo todo lo posible para que este tipo de inconvenientes no se repitan, Sra. Pérez. Hemos escalado su caso para garantizar que no vuelva a ocurrir. Recibirá una notificación en su correo cuando su plan esté completamente activado.
+[00:02:19] CLIENTE: Espero que todo funcione correctamente ahora. Aprecio la ayuda que me ha brindado.
+[00:02:23] AGENTE: Agradezco su comprensión, Sra. Pérez, y lamento profundamente los inconvenientes ocasionados. Si necesita más asistencia en el futuro, no dude en contactarnos. Estamos para ayudarla.
+[00:02:34] CLIENTE: Muchas gracias. Espero que esta sea la última vez que tengo que llamar por algo así.
+[00:02:37] AGENTE: Le aseguro que tomaremos todas las medidas necesarias para evitarlo. Que tenga una excelente tarde, Sra. Pérez.
+[00:02:42] CLIENTE: Igualmente. Buenas tardes.
+[00:02:44] AGENTE: Buenas tardes.
+[00:02:46] *** LLAMADA FINALIZADA ***

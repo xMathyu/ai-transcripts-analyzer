@@ -1,0 +1,25 @@
+[00:00:00] AGENTE: . Buenas tardes, le atiende Carla del área técnica. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Gabriela Mendoza. Estoy llamando porque desde hace más de una semana tengo problemas con el internet en mi casa. Se cae varias veces al día y la velocidad es muy baja.
+[00:00:15] AGENTE: Lamento mucho que estés pasando por esta situación, Gabriela. Te ayudaré a resolverlo. ¿Podrías brindarme tu número de cliente o RUT, por favor?
+[00:00:22] CLIENTE: Claro, es 12-789-654-1.
+[00:00:25] AGENTE: Gracias. ¿Me confirmas también tu dirección registrada?
+[00:00:28] CLIENTE: Calle Las Gardenias 458, departamento 303.
+[00:00:31] AGENTE: Perfecto. Ya accedí a tu cuenta. Veo que tienes contratado un plan de 300 Mbps. ¿Has notado este problema en ciertos momentos del día o es constante?
+[00:00:41] CLIENTE: Es constante, pero empeora en las noches. Y lo más molesto es que se desconecta cuando estoy trabajando.
+[00:00:47] AGENTE: Entiendo. Voy a hacer un test en tiempo real sobre tu conexión. Esto tomará unos segundos, por favor mantente en línea.
+[00:01:10] AGENTE: Gabriela, detecto una pérdida de paquetes y una fluctuación importante en la señal del módem. Es posible que el equipo esté presentando fallas o que haya interferencias en la red de tu zona. ¿Tienes el módem cerca de otros aparatos electrónicos o en una zona cerrada?
+[00:01:25] CLIENTE: Sí, está en una esquina del comedor, cerca de una TV y el microondas.
+[00:01:30] AGENTE: Eso podría estar afectando la calidad de la señal. Te recomiendo reubicar el módem en un espacio más abierto y alejado de otros aparatos. Mientras tanto, voy a escalar un ticket para que un técnico revise tu conexión más a fondo.
+[00:01:43] CLIENTE: ¿Tiene algún costo esa visita?
+[00:01:46] AGENTE: No, mientras el problema esté relacionado con el servicio o con el equipo que entregamos, no se cobra. El técnico solo te contactará si es necesario coordinar el ingreso.
+[00:01:56] CLIENTE: Perfecto. ¿Cuánto demora normalmente en venir el técnico?
+[00:01:59] AGENTE: Tenemos disponibilidad para mañana entre las 9:00 a.m. y 1:00 p.m. ¿Ese horario te acomoda?
+[00:02:04] CLIENTE: Sí, está bien.
+[00:02:06] AGENTE: Listo, agendado. Te llegará una confirmación por SMS y correo electrónico. Mientras tanto, voy a otorgarte un bono de 10 GB en tu línea móvil como respaldo temporal, para que puedas usar datos en caso el WiFi se caiga.
+[00:02:20] CLIENTE: ¡Muchísimas gracias! Eso me ayudará bastante hoy.
+[00:02:23] AGENTE: Ya ha sido activado. Lo verás reflejado en tu app MiTeleco en unos minutos. ¿Hay algo más en lo que pueda ayudarte?
+[00:02:29] CLIENTE: No, todo muy claro. Gracias por la atención, Carla.
+[00:02:32] AGENTE: A ti por comunicarte con nosotros, Gabriela. Que tengas una excelente tarde.
+[00:02:35] CLIENTE: Igualmente. Hasta luego.
+[00:02:37] AGENTE: Hasta luego.
+[00:02:38] SISTEMA: [Llamada finalizada]

@@ -1,0 +1,59 @@
+[00:00:00] AGENTE: <LOCATION>. Le saluda Carolina. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola, buenos días. Mi nombre es <PERSON>.
+
+[00:00:08] AGENTE: Buenos días <PERSON>. ¿Cómo se encuentra el día de hoy? Cuénteme, ¿en qué puedo ayudarle?
+
+[00:00:13] CLIENTE: Mire, estoy llamando porque tengo un problema con mi factura del mes pasado. Me están cobrando unos servicios adicionales que yo nunca solicité.
+
+[00:00:22] AGENTE: Entiendo su preocupación. Para poder verificar esta situación en el sistema, ¿me podría proporcionar su número de RUT, por favor?
+
+[00:00:30] CLIENTE: Sí, claro. Es el 15-867-432-9.
+
+[00:00:37] AGENTE: Muchas gracias. ¿Me confirma también su nombre completo, por favor?
+
+[00:00:41] CLIENTE: <PERSON>.
+
+[00:00:43] AGENTE: Perfecto, y ¿me podría indicar su dirección actual?
+
+[00:00:47] CLIENTE: Sí, es Avenida Los Nogales, número 278, <LOCATION>.
+
+[00:00:53] AGENTE: Excelente. Un momento por favor mientras verifico la información en nuestro sistema. No corte, por favor.
+
+[00:01:08] AGENTE: Gracias por su paciencia, <PERSON>. Estoy revisando su factura del mes pasado. ¿Me podría indicar específicamente qué servicios adicionales son los que usted menciona que no solicitó?
+
+[00:01:19] CLIENTE: En la factura aparece un cargo por "Servicio Premium de Internet" por 8.500 pesos y otro por "Canales Deportivos Extra" por 5.900 pesos. Yo nunca pedí ninguno de estos servicios.
+
+[00:01:33] AGENTE: Comprendo. Voy a revisar los detalles de la contratación de estos servicios. ¿Me permite unos minutos?
+
+[00:01:40] CLIENTE: Sí, claro. Aquí espero.
+
+[00:02:15] AGENTE: <PERSON>, le agradezco su paciencia. He revisado su cuenta y efectivamente veo que estos servicios fueron agregados el día 15 del mes pasado. Sin embargo, no encuentro ninguna solicitud formal de su parte para la activación de estos servicios.
+
+[00:02:31] CLIENTE: Exacto, porque yo nunca los solicité. Quiero que me los quiten y me devuelvan ese dinero.
+
+[00:02:38] AGENTE: No se preocupe. Voy a proceder a desactivar estos servicios inmediatamente y generaré una nota de crédito por el valor total de 14.400 pesos que se verá reflejado en su próxima factura. ¿Está de acuerdo?
+
+[00:02:53] CLIENTE: Sí, pero ¿no pueden hacer la devolución directa a mi cuenta bancaria? No quiero esperar hasta la próxima factura.
+
+[00:03:01] AGENTE: Entiendo su solicitud. Déjeme verificar esa posibilidad en el sistema. ¿Me podría proporcionar su número de cuenta bancaria, por favor?
+
+[00:03:10] CLIENTE: Es el banco <LOCATION>, cuenta corriente número 00456789345.
+
+[00:03:20] AGENTE: Gracias por la información. Voy a consultar si podemos realizar esta devolución directa. Un momento, por favor.
+
+[00:03:50] AGENTE: <PERSON>, he consultado con mi supervisor y sí podemos realizar la devolución directa a su cuenta bancaria. El proceso tomará entre 3 a 5 días hábiles. ¿Está de acuerdo con este procedimiento?
+
+[00:04:03] CLIENTE: Sí, perfecto. Muchas gracias por solucionar esto.
+
+[00:04:07] AGENTE: No hay de qué. También quiero informarle que ya he desactivado ambos servicios, por lo que no verá estos cargos en futuras facturas. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:04:19] CLIENTE: No, eso era todo. Muy amable por su ayuda.
+
+[00:04:23] AGENTE: Ha sido un placer poder ayudarle, <PERSON>. En nombre de <LOCATION>, le agradezco por su llamada. Que tenga un excelente día.
+
+[00:04:32] CLIENTE: Igualmente, muchas gracias. Adiós.
+
+[00:04:35] AGENTE: Adiós. Gracias por preferir nuestros servicios.
+
+[00:04:38] [FIN DE LA LLAMADA]

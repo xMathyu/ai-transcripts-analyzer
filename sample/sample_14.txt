@@ -1,0 +1,24 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Tomás del área de atención al cliente. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Daniela Torres. Estoy llamando porque tengo una consulta sobre el proceso de portabilidad. Quiero cambiar mi línea a su empresa pero tengo algunas dudas.
+[00:00:14] AGENTE: Claro que sí, Daniela. Estaré encantado de ayudarte. ¿Actualmente con qué operadora te encuentras?
+[00:00:19] CLIENTE: Estoy con MoviRed, pero el servicio ha estado fallando mucho últimamente y quisiera cambiarme. Sin embargo, quiero conservar mi número actual.
+[00:00:28] AGENTE: Entiendo. La buena noticia es que puedes conservar tu número sin problema. El proceso de portabilidad normalmente toma entre 24 y 48 horas, una vez que se aprueba tu solicitud. ¿Ya hiciste la solicitud en nuestra web o en alguna tienda?
+[00:00:41] CLIENTE: No, todavía no. Quería saber primero si tiene algún costo y qué plan me recomendarías según mi consumo.
+[00:00:48] AGENTE: Perfecto. Primero, no hay ningún costo por realizar la portabilidad. Respecto a los planes, veo que tu consumo promedio mensual, si vienes de un plan de 20 GB, podría ajustarse muy bien a nuestro plan Conecta+ de 25 GB, llamadas ilimitadas y redes sociales sin consumo por 59 soles al mes. ¿Te interesaría ese?
+[00:01:07] CLIENTE: Me parece bien. ¿Ese plan tiene permanencia mínima?
+[00:01:10] AGENTE: Sí, tiene una permanencia mínima de 6 meses. Si por algún motivo deseas cancelar antes, se aplicaría una penalidad proporcional al tiempo restante del contrato.
+[00:01:20] CLIENTE: Entiendo. ¿Y el chip me lo entregan en casa?
+[00:01:23] AGENTE: Sí, podemos enviártelo por delivery sin costo adicional. Solo necesito verificar tu dirección. ¿Podrías confirmarla, por favor?
+[00:01:29] CLIENTE: Claro, es Calle Los Cerezos 102, interior 5, San Miguel.
+[00:01:34] AGENTE: Perfecto. En ese caso, puedo registrar ahora mismo la solicitud de portabilidad. Te llegaría el chip en 1 a 2 días hábiles. Una vez que lo recibas, te llegará un mensaje para confirmar la portabilidad. A partir de ese momento, en un plazo máximo de 24 horas, ya estarás usando nuestra red.
+[00:01:51] CLIENTE: ¿Y tengo que hacer algo especial cuando reciba el chip?
+[00:01:54] AGENTE: Solo insertarlo en tu equipo y esperar a que llegue el SMS de activación. También puedes llamarnos si necesitas asistencia con la instalación o configuración.
+[00:02:03] CLIENTE: Todo claro, Tomás. Entonces sí quiero hacer la portabilidad.
+[00:02:06] AGENTE: Excelente, Daniela. Ya estoy registrando tu solicitud. ¿Deseas recibir el contrato en formato digital?
+[00:02:11] CLIENTE: Sí, por favor. Envíamelo a mi correo danielatorres@email.com.
+[00:02:14] AGENTE: Perfecto. Ya fue enviado. Te llegará también un SMS de confirmación en breve. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:02:21] CLIENTE: No, eso sería todo. Muchas gracias por la atención.
+[00:02:24] AGENTE: Gracias a ti por confiar en nosotros, Daniela. Bienvenida a nuestra red. Que tengas excelente tarde.
+[00:02:28] CLIENTE: Igualmente. Hasta luego.
+[00:02:30] AGENTE: Hasta luego.
+[00:02:31] SISTEMA: [Llamada finalizada]

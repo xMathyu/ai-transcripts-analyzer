@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: Buenas tardes, le habla Elena Rodríguez de <LOCATION>. ¿En qué puedo asistirte?
+[00:00:04] CLIENTE: Buenas tardes, Elena. Mi nombre es Daniel Herrera y estoy llamando porque acabo de recibir mi factura y hay un cargo adicional de $50.000 que no reconozco. Quiero saber qué está pasando con eso.
+[00:00:14] AGENTE: Lamento mucho que haya tenido este inconveniente, Sr. Herrera. Para poder verificar su cuenta y el cargo que menciona, ¿podría proporcionarme su número de cliente o RUT, por favor?
+[00:00:20] CLIENTE: Claro, mi RUT es 15.234.678-9.
+[00:00:23] AGENTE: Gracias, Sr. Herrera. Un momento mientras reviso su cuenta… Ya tengo la información. Veo que su factura corresponde al servicio de televisión y acceso a internet. El cargo adicional de $50.000 está relacionado con un "ajuste de consumo" por un plan adicional que parece haber sido activado. ¿Reconoce este cargo?
+[00:00:38] CLIENTE: No, absolutamente no. Yo no he solicitado ningún plan adicional. Mi plan es el básico y no he cambiado nada.
+[00:00:45] AGENTE: Comprendo su sorpresa, Sr. Herrera. Permítame investigar más a fondo. Un momento, por favor… He revisado los registros y parece que el cargo se generó debido a una **activación automática** de un paquete de canales premium. Este servicio se activó, aparentemente, por una promoción que se aplicó en su cuenta sin confirmación explícita. Lamento mucho la confusión.
+[00:01:08] CLIENTE: ¿Cómo es posible que me activen algo sin mi autorización? Esto es completamente inaceptable.
+[00:01:14] AGENTE: Tiene toda la razón, Sr. Herrera. Este tipo de situaciones no deberían ocurrir. Voy a proceder con la **cancelación inmediata** del servicio adicional y gestionaré el ajuste de su factura para eliminar ese cargo de $50.000.
+[00:01:26] CLIENTE: ¿Y cómo me van a compensar por este error? Esto me ha generado molestias y ha afectado mis planes financieros.
+[00:01:32] AGENTE: Lo entiendo perfectamente, Sr. Herrera. Como compensación, le ofreceremos un **descuento del 20%** en su próxima factura, además de la reversión total de este cargo no autorizado. Este ajuste será aplicado de inmediato.
+[00:01:45] CLIENTE: Espero que efectivamente lo hagan, porque no estoy dispuesto a seguir lidiando con este tipo de errores. No quiero más cargos inesperados.
+[00:01:51] AGENTE: Le aseguro, Sr. Herrera, que estamos tomando todas las medidas necesarias para evitar que esta situación se repita. Además, me aseguraré de que se active una alerta en su cuenta para que no se realicen cambios en sus servicios sin su consentimiento previo. ¿Le gustaría que le enviara un correo de confirmación de todo lo que hemos revisado y corregido?
+[00:02:09] CLIENTE: Sí, por favor. Necesito tener todo por escrito.
+[00:02:12] AGENTE: Claro, Sr. Herrera. Enviaré un correo con los detalles del ajuste y el descuento aplicado, así como la confirmación de la cancelación del paquete adicional. El correo se enviará en los próximos minutos. ¿Hay algo más en lo que pueda asistirlo?
+[00:02:24] CLIENTE: No, eso es todo. Solo quiero que se solucione esto rápidamente y que no vuelva a ocurrir.
+[00:02:30] AGENTE: Le agradezco por su comprensión, Sr. Herrera. El ajuste se reflejará en su cuenta en breve, y recibirán un correo con todo el detalle. Lamento mucho la confusión y los inconvenientes que esto le causó.
+[00:02:41] CLIENTE: Gracias. Espero que no haya más problemas.
+[00:02:45] AGENTE: A usted, Sr. Herrera, por su paciencia. Estamos a su disposición para cualquier otra consulta en el futuro. Que tenga una excelente tarde.
+[00:02:52] CLIENTE: Igualmente. Buenas tardes.
+[00:02:54] AGENTE: Buenas tardes, y gracias por elegirnos.
+[00:02:57] *** LLAMADA FINALIZADA ***

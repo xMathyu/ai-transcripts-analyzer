@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: . Buenas tardes, le habla Claudia. ¿En qué puedo ayudarle?
+[00:00:04] CLIENTE: Hola, buenas tardes. Soy José Ramírez y necesito ayuda con la configuración de mi internet, parece que no está funcionando bien.
+[00:00:10] AGENTE: Con gusto le ayudo, José. ¿Podría brindarme su número de cliente o RUT, por favor?
+[00:00:15] CLIENTE: Claro, es 23-578-910-2.
+[00:00:18] AGENTE: Gracias. Para confirmar identidad, ¿me podría decir su dirección registrada?
+[00:00:22] CLIENTE: Calle Las Violetas 890, departamento 402.
+[00:00:26] AGENTE: Perfecto, José. Un momento mientras reviso el estado de su conexión, por favor.
+[00:00:55] AGENTE: Gracias por esperar. Efectivamente detecto problemas de estabilidad en su señal desde esta mañana. ¿Ha intentado reiniciar su router?
+[00:01:03] CLIENTE: Sí, lo he reiniciado varias veces, pero el problema continúa.
+[00:01:07] AGENTE: Comprendo. Realizaré un diagnóstico remoto desde aquí, permítame un momento.
+[00:01:42] AGENTE: José, el diagnóstico muestra que podría ser un problema con la línea externa. Necesitamos enviar un técnico a su domicilio. ¿Le parece bien agendar una visita?
+[00:01:52] CLIENTE: Sí, claro. ¿Cuándo sería posible?
+[00:01:55] AGENTE: Tenemos disponibilidad mañana entre 10:00 y 13:00 horas, o por la tarde entre 15:00 y 18:00 horas. ¿Qué horario prefiere?
+[00:02:02] CLIENTE: Por la tarde está bien.
+[00:02:04] AGENTE: Muy bien, queda agendado para mañana entre 15:00 y 18:00 horas. El técnico se contactará con usted antes de su llegada.
+[00:02:11] CLIENTE: Perfecto, gracias.
+[00:02:13] AGENTE: ¿Algo más en lo que pueda asistirle, José?
+[00:02:15] CLIENTE: No, eso sería todo por ahora.
+[00:02:17] AGENTE: Excelente. Gracias por su llamada, que tenga muy buena tarde.
+[00:02:21] CLIENTE: Igualmente, Claudia. Hasta luego.
+[00:02:24] AGENTE: Hasta luego.
+[00:02:25] SISTEMA: [Llamada finalizada]

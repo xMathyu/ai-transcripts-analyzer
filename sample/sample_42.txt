@@ -1,0 +1,93 @@
+[00:00:00] AGENTE: <LOCATION>GlobalNet. Le atiende Patricia. ¿En qué puedo ayudarle hoy?
+
+[00:00:06] CLIENTE: Hola, buenos días. Llamaba porque quiero pasarme a vuestra compañía, pero manteniendo mi número actual.
+
+[00:00:13] AGENTE: Buenos días. Gracias por considerar GlobalNet como su nueva operadora. Con gusto le ayudaré con el proceso de portabilidad. ¿Actualmente con qué compañía tiene contratado el servicio?
+
+[00:00:24] CLIENTE: Estoy con TeleMundo, llevo ya tres años con ellos.
+
+[00:00:28] AGENTE: Entiendo. ¿Podría indicarme el número que desea portar a nuestra compañía?
+
+[00:00:33] CLIENTE: Sí, es el 645-789-321.
+
+[00:00:38] AGENTE: Gracias. ¿Y me puede confirmar su nombre completo, por favor?
+
+[00:00:42] CLIENTE: <PERSON>.
+
+[00:00:44] AGENTE: Perfecto, <PERSON>. Para iniciar el proceso de portabilidad, necesitaré algunos datos adicionales. ¿Podría indicarme su número de documento de identidad?
+
+[00:00:54] CLIENTE: Sí, es el 53472819Z.
+
+[00:01:00] AGENTE: Muchas gracias. ¿Me podría indicar también su dirección actual y código postal?
+
+[00:01:05] CLIENTE: Vivo en Calle del Roble 42, 2º C, código postal 28033.
+
+[00:01:12] AGENTE: Perfecto. ¿Y un correo electrónico para enviarle la documentación?
+
+[00:01:16] CLIENTE: Mi correo es ejemplo@correo.com.
+
+[00:01:20] AGENTE: Excelente. Ahora, para poder ofrecerle el plan que mejor se adapte a sus necesidades, ¿podría decirme qué uso suele darle a su línea? ¿Realiza muchas llamadas, utiliza bastantes datos móviles?
+
+[00:01:32] CLIENTE: Uso bastantes datos, diría que unos 15GB al mes aproximadamente. No hago muchas llamadas, pero sí uso mucho las aplicaciones y navego por internet.
+
+[00:01:41] AGENTE: Entendido. Basándome en su perfil de consumo, podría recomendarle nuestro Plan Digital 20, que incluye 20GB de datos, llamadas ilimitadas y SMS ilimitados por 19,95€ al mes. También tenemos el Plan Digital 30, con 30GB por 24,95€ si prefiere tener más margen de datos.
+
+[00:02:00] CLIENTE: El de 20GB me parece bien. ¿Tiene alguna promoción por portabilidad?
+
+[00:02:05] AGENTE: Sí, actualmente tenemos una promoción especial para nuevos clientes que traen su número. Los primeros tres meses tendría un descuento del 50% en la cuota mensual, pagando solo 9,97€. Además, le regalaríamos 10GB adicionales durante los primeros 6 meses.
+
+[00:02:22] CLIENTE: Eso suena bien. ¿Y hay algún compromiso de permanencia?
+
+[00:02:26] AGENTE: No, en GlobalNet no tenemos compromiso de permanencia en ninguno de nuestros planes móviles. Usted puede darse de baja cuando lo desee sin penalización.
+
+[00:02:35] CLIENTE: Perfecto. ¿Qué necesito para hacer la portabilidad y cuánto tiempo tarda?
+
+[00:02:40] AGENTE: El proceso es muy sencillo. Necesitaré que me confirme que desea proceder con la portabilidad y, si es posible, una factura reciente de su operador actual para verificar que es usted el titular de la línea. La portabilidad suele completarse en 1-2 días hábiles. Recibirá una nueva SIM de GlobalNet por mensajería en 24-48 horas, y le avisaremos por SMS justo antes de que se haga efectiva la portabilidad para que pueda cambiar la tarjeta.
+
+[00:03:05] CLIENTE: De acuerdo. ¿Y si tengo algún problema durante el proceso?
+
+[00:03:09] AGENTE: No se preocupe, le asignaremos un gestor personal que estará pendiente de todo el proceso y le mantendrá informado. Además, recibirá un correo electrónico con todos los detalles y un número de contacto directo para cualquier consulta relacionada con su portabilidad.
+
+[00:03:23] CLIENTE: Me parece bien. Quiero proceder entonces con la portabilidad al Plan Digital 20.
+
+[00:03:28] AGENTE: Excelente elección. Voy a preparar todo en el sistema. ¿Podría confirmarme la dirección de envío para la nueva SIM? ¿Es la misma que me ha indicado anteriormente?
+
+[00:03:37] CLIENTE: Sí, es la misma.
+
+[00:03:39] AGENTE: Perfecto. ¿Y en qué franja horaria preferiría recibir el envío? ¿Mañana (8:00-14:00), tarde (14:00-20:00) o le viene bien cualquier horario?
+
+[00:03:48] CLIENTE: Por la tarde sería mejor, que estoy en casa.
+
+[00:03:51] AGENTE: Anotado. Ahora necesitaré los datos de una tarjeta de crédito o débito para configurar el método de pago mensual. ¿Prefiere domiciliación bancaria o cargo en tarjeta?
+
+[00:04:01] CLIENTE: Prefiero domiciliación bancaria.
+
+[00:04:04] AGENTE: De acuerdo. ¿Me podría facilitar su número de cuenta IBAN, por favor?
+
+[00:04:09] CLIENTE: Sí, es ES76 2100 0418 4012 3456 7891.
+
+[00:04:22] AGENTE: Gracias. Un momento mientras completo el registro y confirmo la solicitud de portabilidad.
+
+[00:04:52] AGENTE: <PERSON>, he registrado toda la información correctamente. Su solicitud de portabilidad ha sido iniciada con el número de referencia POR-35721. Recibirá un SMS de confirmación en los próximos minutos y un correo electrónico con todos los detalles. La SIM será enviada mañana para entrega en horario de tarde, y la portabilidad se hará efectiva en un plazo máximo de 2 días hábiles.
+
+[00:05:15] CLIENTE: ¿Y tendré que hacer algo especial cuando llegue la SIM?
+
+[00:05:19] AGENTE: Simplemente deberá esperar a recibir un SMS que le indicará cuándo la portabilidad va a hacerse efectiva. En ese momento, deberá apagar su teléfono, reemplazar la SIM actual por la nueva que le enviaremos, y volver a encenderlo. A partir de ese momento, su número ya estará funcionando con GlobalNet. En el paquete de la SIM encontrará instrucciones detalladas y un número de asistencia por si necesita ayuda.
+
+[00:05:42] CLIENTE: Entendido. ¿Y mi contrato con TeleMundo se cancela automáticamente?
+
+[00:05:47] AGENTE: La línea móvil se da de baja automáticamente en TeleMundo cuando se completa la portabilidad. Sin embargo, si tiene otros servicios con ellos, como internet fijo o televisión, esos seguirían activos y tendría que cancelarlos por separado si lo desea.
+
+[00:06:01] CLIENTE: No, solo tengo el móvil con ellos, así que no hay problema.
+
+[00:06:05] AGENTE: Perfecto entonces. Todo está listo para proceder con su portabilidad al Plan Digital 20. ¿Tiene alguna otra pregunta o duda sobre el proceso?
+
+[00:06:14] CLIENTE: No, creo que ha quedado todo claro. Muchas gracias por la información.
+
+[00:06:19] AGENTE: Ha sido un placer atenderle, <PERSON>. Le agradecemos por confiar en GlobalNet como su nueva operadora. Recibirá toda la información por correo electrónico y SMS, y estamos a su disposición para cualquier consulta adicional. Que tenga un excelente día.
+
+[00:06:34] CLIENTE: Igualmente, gracias. Adiós.
+
+[00:06:36] AGENTE: Adiós.
+
+[00:06:37] [FIN DE LA LLAMADA]

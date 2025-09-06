@@ -1,0 +1,28 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Andrea. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buenos días. Me llamo Ricardo.
+[00:00:07] AGENTE: <LOCATION>. ¡Hola Ricardo! ¿Cómo estás? Espero que te encuentres bien. Cuéntame, ¿en qué te puedo ayudar el día de hoy?
+[00:00:12] CLIENTE: Sí, llamaba porque quiero hacer una consulta sobre un cargo adicional que apareció en mi factura este mes.
+[00:00:20] AGENTE: Claro, con gusto te ayudo. ¿Me puedes indicar tu número de cliente para revisar en el sistema?
+[00:00:26] CLIENTE: Sí, es 89-245-673.
+[00:00:30] AGENTE: Muchas gracias. Un momento, por favor, mientras reviso tu información.
+[00:00:40] AGENTE: Ricardo, veo que hay un cargo adicional de $15 por un paquete de datos extra. ¿Recuerdas si solicitaste este servicio recientemente?
+[00:00:50] CLIENTE: No, la verdad no recuerdo haber solicitado ningún paquete adicional.
+[00:00:55] AGENTE: Entiendo. Permíteme validar si fue activado automáticamente o si hubo un error en la facturación.
+[00:01:05] AGENTE: Revisando el sistema, veo que el paquete de datos extra se activó el 10 de este mes, debido a que superaste el límite de datos de tu plan.
+[00:01:15] CLIENTE: Ah, entiendo. Pero no recibí ningún aviso previo.
+[00:01:20] AGENTE: De acuerdo. Puedo verificar si hay posibilidad de un ajuste en el cobro. ¿Te gustaría que realice la solicitud?
+[00:01:30] CLIENTE: Sí, por favor, me ayudaría mucho.
+[00:01:35] AGENTE: Perfecto. Estoy ingresando la solicitud ahora mismo. Un momento, por favor.
+[00:01:45] AGENTE: Listo, Ricardo. La solicitud ha sido enviada. En un plazo de 48 horas recibirás una notificación confirmando si el ajuste fue aprobado.
+[00:01:55] CLIENTE: Genial, muchas gracias.
+[00:02:00] AGENTE: Con gusto. ¿Te gustaría también configurar una alerta para evitar futuras activaciones automáticas de paquetes?
+[00:02:10] CLIENTE: Sí, por favor. Así evito sorpresas en la próxima factura.
+[00:02:15] AGENTE: Hecho. A partir de ahora recibirás un mensaje de confirmación antes de cualquier activación de datos extra.
+[00:02:25] CLIENTE: Excelente. ¡Gracias por tu ayuda!
+[00:02:30] AGENTE: Con mucho gusto, Ricardo. ¿Hay algo más en lo que pueda asistirte?
+[00:02:35] CLIENTE: No, eso sería todo por ahora.
+[00:02:40] AGENTE: Perfecto. Entonces te agradezco tu tiempo y paciencia. Que tengas un excelente día.
+[00:02:45] CLIENTE: Gracias, igualmente. Hasta luego.
+[00:02:50] AGENTE: Hasta luego.
+[00:02:52] [Llamada finalizada]
+

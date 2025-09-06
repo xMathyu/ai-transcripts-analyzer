@@ -1,0 +1,26 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Martín. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buenos días. Me llamo Andrés.
+[00:00:07] AGENTE: <LOCATION>. ¡Hola, Andrés! ¿Cómo estás? Espero que te encuentres bien. Cuéntame, ¿en qué te puedo ayudar el día de hoy?
+[00:00:12] CLIENTE: Llamo porque tengo problemas con la señal de mi línea móvil, se corta constantemente.
+[00:00:20] AGENTE: Entiendo, Andrés. Voy a revisar tu línea para verificar si hay alguna incidencia en la zona. ¿Podrías proporcionarme tu número, por favor?
+[00:00:26] CLIENTE: Sí, es 987-654-321.
+[00:00:30] AGENTE: Muchas gracias. Un momento mientras consulto la información en el sistema.
+[00:00:40] AGENTE: Andrés, veo que en tu zona ha habido reportes recientes de intermitencias en la red. ¿Cuánto tiempo llevas experimentando este problema?
+[00:00:50] CLIENTE: Ya llevo al menos tres días con la señal inestable. A veces no puedo hacer ni recibir llamadas.
+[00:00:55] AGENTE: Comprendo. Parece que hay mantenimiento en algunas antenas cercanas. El servicio debería mejorar en las próximas 24 horas.
+[00:01:05] CLIENTE: ¿Y mientras tanto qué puedo hacer? Me urge tener una conexión estable.
+[00:01:10] AGENTE: Como solución temporal, te sugiero activar la red 3G en lugar de 4G o 5G desde la configuración de tu teléfono. A veces, esto mejora la estabilidad.
+[00:01:20] CLIENTE: Voy a intentarlo. ¿Hay alguna forma de recibir una notificación cuando el servicio se estabilice?
+[00:01:25] AGENTE: Sí, puedo registrarte en el sistema para que recibas un mensaje cuando finalice el mantenimiento.
+[00:01:35] CLIENTE: Perfecto, agrégame, por favor.
+[00:01:40] AGENTE: Listo, Andrés. También, debido a las molestias, puedo ofrecerte un descuento del 10% en tu próxima factura. ¿Te gustaría aceptarlo?
+[00:01:50] CLIENTE: Claro, sería genial.
+[00:01:55] AGENTE: Excelente. Ya he aplicado el descuento y recibirás la confirmación en tu correo electrónico.
+[00:02:05] CLIENTE: Muchas gracias. Voy a probar lo de la red 3G y esperaré el mensaje sobre el mantenimiento.
+[00:02:10] AGENTE: De nada, Andrés. ¿Puedo ayudarte con algo más?
+[00:02:15] CLIENTE: No, eso sería todo. Aprecio mucho tu ayuda.
+[00:02:20] AGENTE: Gracias a ti. Que tengas un excelente día.
+[00:02:25] CLIENTE: Igualmente. Hasta luego.
+[00:02:27] AGENTE: Hasta luego.
+[00:02:30] [Llamada finalizada]
+

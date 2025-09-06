@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda David. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buenos días. Me llamo Laura.
+[00:00:07] AGENTE: <LOCATION>. ¡Hola, Laura! ¿Cómo estás? Espero que te encuentres bien. Cuéntame, ¿en qué te puedo ayudar el día de hoy?
+[00:00:12] CLIENTE: Llamo porque me han estado cobrando un servicio adicional que yo no contraté.
+[00:00:20] AGENTE: Entiendo, Laura. Voy a revisar tu cuenta para verificar el cargo. ¿Podrías proporcionarme tu número de línea, por favor?
+[00:00:26] CLIENTE: Sí, es 765-432-109.
+[00:00:30] AGENTE: Muchas gracias. Un momento mientras consulto la información en el sistema.
+[00:00:40] AGENTE: Laura, veo que en tu factura aparece un cargo por un paquete de datos extra de 5GB. ¿Recuerdas si se activó por alguna promoción o mensaje de confirmación?
+[00:00:50] CLIENTE: No, yo no solicité ese paquete. De hecho, ni siquiera sabía que estaba activo.
+[00:00:55] AGENTE: Comprendo. Voy a proceder con la cancelación del servicio adicional y gestionar el reembolso si corresponde. ¿Me permites un momento?
+[00:01:05] CLIENTE: Sí, claro.
+[00:01:10] AGENTE: Listo, he cancelado el paquete de datos extra. Además, he generado un ajuste en tu cuenta para que el monto te sea reembolsado en la próxima factura.
+[00:01:20] CLIENTE: Perfecto, muchas gracias. ¿Debo hacer algo más?
+[00:01:25] AGENTE: No, con esto ya está solucionado. De todas formas, te recomiendo revisar tu factura cada mes y, si ves algo inusual, puedes comunicarte con nosotros.
+[00:01:35] CLIENTE: Sí, lo haré. Aprecio mucho tu ayuda.
+[00:01:40] AGENTE: Con gusto, Laura. ¿Puedo ayudarte con algo más?
+[00:01:45] CLIENTE: No, eso sería todo. Muchas gracias.
+[00:01:50] AGENTE: Gracias a ti, Laura. Que tengas un excelente día.
+[00:01:55] CLIENTE: Igualmente. Hasta luego.
+[00:02:00] AGENTE: Hasta luego.
+[00:02:02] [Llamada finalizada]
+

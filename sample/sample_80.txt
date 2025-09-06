@@ -1,0 +1,32 @@
+[00:00:00] AGENTE: <LOCATION>. Buenas tardes, le habla Tamara. ¿Con quién tengo el gusto?
+[00:00:03] CLIENTE: Buenas. Habla Eduardo Vergara. Estoy llamando porque me llegó una factura con un cobro que no corresponde. Ya estoy cansado de esto.
+[00:00:09] AGENTE: Lamento mucho escuchar eso, señor Eduardo. Permítame ayudarlo. ¿Me puede indicar su RUT o número de cliente, por favor?
+[00:00:14] CLIENTE: 14.789.342-8.
+[00:00:17] AGENTE: Gracias. ¿Me puede confirmar su dirección, por favor?
+[00:00:20] CLIENTE: Calle Colón 3845, departamento 501.
+[00:00:24] AGENTE: Perfecto. Ya tengo su cuenta. Veo que la última factura fue por $42.850. ¿Ese es el monto que menciona?
+[00:00:30] CLIENTE: Sí, ¡y mi plan es de $24.990! ¿Cómo me cobran casi el doble?
+[00:00:35] AGENTE: Entiendo su molestia. Voy a revisar el detalle de la factura… Un momento, por favor… Bien, aquí aparece un cargo adicional por “roaming internacional”.
+[00:00:43] CLIENTE: ¡Eso es imposible! No he salido del país. Llevo meses en Santiago. Ese cobro no tiene sentido.
+[00:00:49] AGENTE: Comprendo. Puede haber un error en la detección de ubicación de red si se encuentra cerca de zonas fronterizas o si hubo una conexión no intencionada a una red externa.
+[00:00:57] CLIENTE: ¡Pero si vivo en Santiago Centro! ¿Qué frontera hay acá? Esto es un abuso.
+[00:01:02] AGENTE: Lamento mucho lo sucedido. Le aseguro que vamos a investigar este cobro. ¿Desea que lo ingrese como reclamo formal para anular el cargo?
+[00:01:09] CLIENTE: Obvio que sí. ¿Cuánto se demora eso?
+[00:01:12] AGENTE: El plazo máximo de respuesta es de 5 días hábiles, pero en la mayoría de los casos se resuelve en 48 horas. Le enviaremos un correo con el resultado y, si se confirma el error, el monto será descontado de su próxima factura.
+[00:01:23] CLIENTE: No quiero que me lo descuenten en la próxima. ¡Quiero que lo devuelvan ahora!
+[00:01:27] AGENTE: Lo entiendo. Pero por política interna, el ajuste solo puede reflejarse en la siguiente boleta. Si lo desea, también puede dejar una solicitud de devolución bancaria, pero eso demora más.
+[00:01:35] CLIENTE: Qué increíble. Entonces, me cobran por error y yo tengo que esperar. Increíble cómo tratan a los clientes.
+[00:01:40] AGENTE: De verdad lamento mucho lo ocurrido, señor Vergara. Estoy ingresando su reclamo ahora mismo con prioridad alta y dejaré constancia de su molestia.
+[00:01:48] CLIENTE: Más les vale. Ya van dos veces este año que pasa algo parecido.
+[00:01:52] AGENTE: Lo entiendo. Acabo de generar el reclamo número 5582097. ¿Desea que le envíe el comprobante por correo?
+[00:01:58] CLIENTE: Sí. Al mismo correo de siempre.
+[00:02:00] AGENTE: Perfecto. Le llegará en los próximos minutos. ¿Desea bloquear el servicio de roaming para evitar este tipo de cobros en el futuro?
+[00:02:07] CLIENTE: Sí, por favor. Bloquéenlo de inmediato.
+[00:02:10] AGENTE: Ya quedó registrado. A partir de ahora, cualquier intento de conexión fuera del país será bloqueado automáticamente.
+[00:02:17] CLIENTE: Gracias. ¿Hay algo más que pueda hacer para evitar este tipo de errores?
+[00:02:21] AGENTE: Le recomiendo revisar mensualmente su factura en nuestra app y mantener el roaming desactivado desde los ajustes de su equipo, aunque ya quedó bloqueado desde nuestra red también.
+[00:02:30] CLIENTE: Ya. Espero no volver a tener que llamar por lo mismo.
+[00:02:34] AGENTE: De verdad espero lo mismo, señor Vergara. Gracias por su paciencia y, nuevamente, disculpas por los inconvenientes.
+[00:02:40] CLIENTE: Ok, gracias por tu ayuda. Chau.
+[00:02:42] AGENTE: Que tenga buena tarde. Chau.
+[00:02:44] *** LLAMADA FINALIZADA ***

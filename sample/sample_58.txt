@@ -1,0 +1,67 @@
+[00:00:00] AGENTE: <LOCATION>. Le saluda Carlos. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola, buenos días. Mi nombre es <PERSON>.
+
+[00:00:08] AGENTE: Buenos días <PERSON>. ¿En qué puedo ayudarle el día de hoy?
+
+[00:00:13] CLIENTE: Mire, estoy llamando porque he tenido problemas con mi factura del mes pasado. Me llegó un cobro que no corresponde.
+
+[00:00:21] AGENTE: Entiendo su preocupación. Para poder revisar su caso, necesito algunos datos para verificar su cuenta. ¿Me podría proporcionar su número de identificación, por favor?
+
+[00:00:32] CLIENTE: Sí, claro. Es 32-785-419-8.
+
+[00:00:39] AGENTE: Gracias. ¿Y me confirma su nombre completo?
+
+[00:00:43] CLIENTE: <PERSON>.
+
+[00:00:45] AGENTE: Perfecto. ¿Y su dirección actual, por favor?
+
+[00:00:49] CLIENTE: Calle Los Pinos 342, <LOCATION>.
+
+[00:00:54] AGENTE: Muchas gracias. Un momento por favor mientras verifico la información en el sistema.
+
+[00:01:12] AGENTE: Bien, estoy revisando su cuenta y veo que efectivamente hay un cargo adicional en su última factura por 8.500 pesos. ¿Es este el cargo al que hace referencia?
+
+[00:01:24] CLIENTE: Exactamente. Ese cargo no debería estar ahí porque yo tengo un plan fijo de 23.900.
+
+[00:01:32] AGENTE: Comprendo. Déjeme revisar a qué corresponde ese cargo adicional.
+
+[00:01:50] AGENTE: Veo que este cargo corresponde a un servicio adicional que se activó el 15 del mes pasado. Según el sistema, se solicitó una ampliación temporal de su plan de datos.
+
+[00:02:04] CLIENTE: Eso no es posible. Yo no solicité ninguna ampliación. Tiene que haber un error.
+
+[00:02:10] AGENTE: Entiendo. Vamos a revisar más a fondo. ¿Me permite el número de teléfono vinculado a su cuenta?
+
+[00:02:17] CLIENTE: Sí, es el 9-84-752-361.
+
+[00:02:23] AGENTE: Gracias. Un momento más mientras hago una verificación detallada.
+
+[00:02:43] AGENTE: <PERSON>, revisando el historial de la cuenta, veo que la solicitud fue realizada a través de la aplicación móvil. ¿Usted o alguien más que tenga acceso a su cuenta podría haber activado esta opción quizás por error?
+
+[00:03:01] CLIENTE: Mmm, es posible que mi hijo lo haya hecho. Él a veces usa mi teléfono. Pero en todo caso, no fue una solicitud consciente y me gustaría que se revirtiera ese cargo.
+
+[00:03:14] AGENTE: Comprendo perfectamente. Dado que es la primera vez que ocurre este tipo de situación en su cuenta y considerando su buen historial como cliente, voy a proceder a generar una nota de crédito para revertir este cargo de 8.500 pesos.
+
+[00:03:31] CLIENTE: Muchas gracias. ¿Y cuándo se verá reflejado eso en mi cuenta?
+
+[00:03:35] AGENTE: El ajuste se verá reflejado en su próxima factura, que debería llegarle aproximadamente el día 10 del próximo mes. También quisiera recomendarle que configure un control parental en la aplicación para evitar cambios no autorizados en el futuro.
+
+[00:03:52] CLIENTE: Me parece bien. ¿Y cómo puedo hacer eso?
+
+[00:03:55] AGENTE: Es muy sencillo. Cuando ingrese a la aplicación, vaya al menú de "Configuración", luego seleccione "Seguridad de cuenta" y allí encontrará la opción "Control parental". Puede establecer una contraseña adicional para cualquier cambio que implique cargos extras.
+
+[00:04:13] CLIENTE: Perfecto, lo haré hoy mismo entonces.
+
+[00:04:16] AGENTE: Excelente decisión. ¿Hay algo más en lo que pueda ayudarle hoy?
+
+[00:04:21] CLIENTE: No, eso sería todo. Muchas gracias por su ayuda.
+
+[00:04:25] AGENTE: Ha sido un placer atenderle, <PERSON>. Recuerde que puede llamarnos en cualquier momento si tiene alguna otra consulta o necesita asistencia. Que tenga un excelente día.
+
+[00:04:37] CLIENTE: Igualmente, gracias.
+
+[00:04:39] AGENTE: Gracias por comunicarse con <LOCATION>. Hasta luego.
+
+[00:04:43] CLIENTE: Hasta luego.
+
+[00:04:45] SISTEMA: Llamada finalizada.

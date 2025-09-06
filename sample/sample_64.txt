@@ -1,0 +1,65 @@
+[00:00:00] AGENTE: <LOCATION>. Le saluda Martín. ¿Con quién tengo el gusto de hablar?
+
+[00:00:05] CLIENTE: Hola, buenas tardes. Mi nombre es <PERSON>.
+
+[00:00:08] AGENTE: Buenas tardes <PERSON>. ¿Cómo se encuentra hoy? Dígame, ¿en qué puedo ayudarle con su servicio de telefonía móvil?
+
+[00:00:15] CLIENTE: Mire, estoy llamando porque quiero cambiar mi plan actual por uno con más datos. El que tengo ahora se me acaba muy rápido.
+
+[00:00:23] AGENTE: Entiendo perfectamente su necesidad. Para poder revisar las opciones disponibles, ¿me podría facilitar su número de RUT, por favor?
+
+[00:00:31] CLIENTE: Sí, es 17-543-290-6.
+
+[00:00:36] AGENTE: Gracias. ¿Y me confirma también su nombre completo?
+
+[00:00:40] CLIENTE: <PERSON>.
+
+[00:00:42] AGENTE: Perfecto. ¿Me podría indicar también el número telefónico asociado a su cuenta?
+
+[00:00:47] CLIENTE: Sí, es el 965 832 417.
+
+[00:00:52] AGENTE: Muchas gracias por la información. Un momento por favor mientras consulto su plan actual y las opciones de mejora que tenemos disponibles para usted. No corte, por favor.
+
+[00:01:08] AGENTE: <PERSON>, gracias por su paciencia. Veo que actualmente cuenta con nuestro Plan Conecta 15, que incluye 15 GB de navegación, llamadas ilimitadas y 200 SMS por 12.900 pesos mensuales. ¿Es correcto?
+
+[00:01:23] CLIENTE: Sí, ese es mi plan actual.
+
+[00:01:25] AGENTE: Perfecto. Basado en sus necesidades, puedo ofrecerle varias alternativas. Tenemos el Plan Conecta 25 con 25 GB por 15.900 pesos, el Plan Conecta 40 con 40 GB por 19.900 pesos, o nuestro Plan Premium con datos ilimitados por 27.900 pesos. Todos incluyen llamadas y SMS ilimitados. ¿Cuál de estas opciones le interesaría más?
+
+[00:01:52] CLIENTE: Mmm, creo que el de 40 GB estaría bien. ¿Tiene alguna promoción especial para ese plan?
+
+[00:02:00] AGENTE: Excelente elección. Justamente tenemos una promoción vigente hasta fin de mes. Si contrata hoy el Plan Conecta 40, le podemos ofrecer un 15% de descuento durante los primeros 3 meses, lo que significa que pagaría solo 16.915 pesos mensuales durante ese período. Además, incluiríamos acceso gratuito a nuestra plataforma de streaming musical por 6 meses.
+
+[00:02:24] CLIENTE: Eso suena bien. ¿Y hay algún costo por hacer el cambio de plan?
+
+[00:02:29] AGENTE: No se preocupe, el cambio de plan no tiene ningún costo adicional. Y al ser cliente actual, podemos hacer la migración conservando su mismo número y sin interrumpir su servicio. ¿Le gustaría proceder con el cambio al Plan Conecta 40 con la promoción mencionada?
+
+[00:02:45] CLIENTE: Sí, hagámoslo. ¿Desde cuándo aplicaría el cambio?
+
+[00:02:49] AGENTE: El cambio se aplicaría a partir de mañana. Sin embargo, es importante mencionar que el ciclo de facturación se mantendría igual. Como su ciclo actual comenzó el día 10 de este mes, se realizará un cálculo proporcional: se descontarán los días no utilizados de su plan actual y se cobrarán los días restantes con el nuevo plan en su próxima factura.
+
+[00:03:13] CLIENTE: Entiendo. ¿Y cómo sabré que el cambio se ha realizado correctamente?
+
+[00:03:18] AGENTE: Excelente pregunta. Recibirá un mensaje SMS confirmando la activación del nuevo plan. Además, puede verificarlo a través de nuestra aplicación móvil o ingresando a nuestro sitio web con sus credenciales. También le enviaremos un correo electrónico con los detalles del cambio. ¿Me podría confirmar su correo para enviarle esta información?
+
+[00:03:37] CLIENTE: Sí, es cliente@correo.com.
+
+[00:03:42] AGENTE: Perfecto. Voy a proceder con el cambio de plan. ¿Me permite unos minutos?
+
+[00:03:47] CLIENTE: Claro, aquí espero.
+
+[00:04:15] AGENTE: <PERSON>, le agradezco su paciencia. He realizado el cambio exitosamente. A partir de mañana disfrutará de su nuevo Plan Conecta 40 con 40 GB de navegación, llamadas y SMS ilimitados. La promoción del 15% de descuento ya está aplicada para los próximos 3 meses, y el acceso gratuito a nuestra plataforma de streaming musical estará disponible en las próximas 24 horas. En unos minutos recibirá el SMS y el correo de confirmación.
+
+[00:04:42] CLIENTE: Perfecto, muchas gracias. ¿Hay algo más que deba saber sobre el nuevo plan?
+
+[00:04:47] AGENTE: Sí, quiero mencionarle que el Plan Conecta 40 incluye la posibilidad de compartir datos (tethering) sin restricciones y acceso a nuestra red 5G donde esté disponible. También tiene 5 GB para uso en roaming internacional en países de Latinoamérica. Si viaja fuera de la región, puede adquirir paquetes adicionales a través de nuestra app. ¿Tiene alguna otra consulta?
+
+[00:05:10] CLIENTE: No, creo que eso es todo. Muchas gracias por su ayuda.
+
+[00:05:14] AGENTE: Ha sido un placer atenderle, <PERSON>. Le agradezco por preferir <LOCATION>. Si tiene cualquier duda adicional, no dude en contactarnos nuevamente o visitar nuestra aplicación móvil donde encontrará soporte 24/7. Que tenga una excelente tarde.
+
+[00:05:29] CLIENTE: Igualmente, gracias. Hasta luego.
+
+[00:05:32] AGENTE: Hasta luego. Gracias por su llamada.
+
+[00:05:35] [FIN DE LA LLAMADA]

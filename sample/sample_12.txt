@@ -1,0 +1,25 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Lorena del área de soporte técnico. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Esteban Ríos. Estoy llamando porque desde hace varios días tengo una señal muy inestable en mi celular. Se va completamente en algunas zonas y luego regresa.
+[00:00:14] AGENTE: Lamento mucho que estés teniendo estos inconvenientes, Esteban. Estoy aquí para ayudarte. ¿Podrías brindarme tu número de cliente o RUT?
+[00:00:21] CLIENTE: Claro, es 13-854-297-6.
+[00:00:24] AGENTE: Gracias. ¿Puedes confirmarme también tu dirección registrada, por favor?
+[00:00:27] CLIENTE: Sí, vivo en Calle Nueva Aurora 123, casa 9.
+[00:00:30] AGENTE: Perfecto. Ya tengo acceso a tu cuenta. ¿Me puedes indicar desde cuándo estás notando esta inestabilidad?
+[00:00:36] CLIENTE: Desde el viernes pasado. He tenido llamadas que se cortan y no puedo usar bien los datos móviles. Me pasa en mi casa y también en la zona donde trabajo.
+[00:00:45] AGENTE: Gracias por el detalle. Voy a verificar la cobertura y calidad de señal en tu zona. Esto tomará unos segundos.
+[00:01:10] AGENTE: Esteban, acabo de revisar y efectivamente hay una incidencia registrada en tu zona por trabajos de mantenimiento en una antena cercana. El servicio se ha visto afectado de forma intermitente desde el viernes. La estimación de normalización es mañana por la noche.
+[00:01:25] CLIENTE: ¿Y por qué no se notificó? No recibí ningún aviso sobre esta interrupción.
+[00:01:29] AGENTE: Tienes razón. En algunos casos, si el mantenimiento es de urgencia o afecta parcialmente una zona, no se llega a notificar a todos los usuarios. Voy a registrar una queja formal para que lo tomen en cuenta en futuras comunicaciones.
+[00:01:41] CLIENTE: Me parece bien. Además, estos días he usado más mis datos móviles en otras redes por el problema. ¿Hay forma de compensar ese gasto adicional?
+[00:01:49] AGENTE: Sí, puedo solicitar un bono de compensación por 5 GB de datos que se te otorgaría sin costo, válido por 30 días. ¿Deseas que lo gestione?
+[00:01:57] CLIENTE: Claro, sería lo justo.
+[00:01:59] AGENTE: Muy bien, el bono ya ha sido aplicado a tu línea. Lo verás reflejado en tu app MiTeleco dentro de los próximos minutos.
+[00:02:06] CLIENTE: Perfecto. ¿Y si el problema persiste después de mañana?
+[00:02:09] AGENTE: En ese caso, te recomiendo comunicarte nuevamente para que podamos escalar el caso a ingeniería de red. De todos modos, dejaré programado un seguimiento automático en tu cuenta para revisar el estado el día miércoles.
+[00:02:21] CLIENTE: Me parece bien. Gracias por tu ayuda, Lorena.
+[00:02:24] AGENTE: Con gusto, Esteban. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:02:27] CLIENTE: No, eso es todo. Buenas tardes.
+[00:02:29] AGENTE: Gracias por comunicarte con nosotros. Que tengas buena tarde.
+[00:02:32] CLIENTE: Igualmente. Hasta luego.
+[00:02:34] AGENTE: Hasta luego.
+[00:02:35] SISTEMA: [Llamada finalizada]

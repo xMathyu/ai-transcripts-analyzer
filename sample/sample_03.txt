@@ -1,0 +1,22 @@
+[00:00:00] AGENTE: . Buen día, le saluda Luis. ¿En qué puedo ayudarle?
+[00:00:04] CLIENTE: Hola, buen día. Mi nombre es Ana Rodríguez, estoy llamando porque necesito información sobre mi plan de telefonía móvil.
+[00:00:11] AGENTE: Con gusto, Ana. ¿Podrías proporcionarme tu número de identificación o RUT, por favor?
+[00:00:15] CLIENTE: Sí, claro, es 19-345-678-9.
+[00:00:18] AGENTE: Muchas gracias. Para validar, ¿puedes confirmar tu dirección registrada?
+[00:00:22] CLIENTE: Calle Los Pinos 123, casa 15.
+[00:00:25] AGENTE: Excelente, dame un momento para revisar tu plan, por favor.
+[00:00:55] AGENTE: Ana, gracias por esperar. Actualmente tienes un plan mensual de 25 GB de datos y llamadas ilimitadas. ¿Quieres información sobre algún detalle específico o cambiar de plan?
+[00:01:06] CLIENTE: Me gustaría saber si puedo aumentar los datos de mi plan y cuánto costaría.
+[00:01:11] AGENTE: Claro que sí. Tenemos disponible una actualización a 40 GB por un incremento mensual de 3.000 pesos adicionales. ¿Te interesa esta opción?
+[00:01:20] CLIENTE: Sí, me parece bien. ¿Cómo hago para activarlo?
+[00:01:23] AGENTE: Lo puedo activar ahora mismo. ¿Quieres que proceda?
+[00:01:26] CLIENTE: Sí, por favor.
+[00:01:28] AGENTE: Muy bien, dame un momento mientras gestiono la actualización.
+[00:01:52] AGENTE: Ana, tu plan ha sido actualizado con éxito a 40 GB de datos. Verás reflejado este cambio a partir de tu próxima facturación.
+[00:02:00] CLIENTE: Perfecto, muchas gracias.
+[00:02:02] AGENTE: ¿Algo más en lo que pueda ayudarte hoy?
+[00:02:04] CLIENTE: No, eso es todo.
+[00:02:06] AGENTE: Gracias a ti por comunicarte con nosotros. Que tengas un excelente día.
+[00:02:10] CLIENTE: Igualmente, Luis. Hasta luego.
+[00:02:13] AGENTE: Hasta luego.
+[00:02:14] SISTEMA: [Llamada finalizada]

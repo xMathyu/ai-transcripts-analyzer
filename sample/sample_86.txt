@@ -1,0 +1,16 @@
+[00:00:00] AGENTE: <LOCATION>. Buenas tardes, le habla Laura. ¿Con quién tengo el gusto de hablar?
+[00:00:03] CLIENTE: Hola, Laura. Soy Javier López. Estoy llamando porque quiero cancelar el servicio de internet. Estoy harto de que me corten la señal cada dos por tres.
+[00:00:12] AGENTE: Lamento mucho que hayas tenido esta experiencia, Javier. Vamos a revisar tu caso y buscar la mejor solución. ¿Me puedes dar tu número de cliente o RUT, por favor?
+[00:00:17] CLIENTE: Mi RUT es 15.348.672-9.
+[00:00:19] AGENTE: Gracias, Javier. Un momento mientras reviso tu cuenta… Ya la tengo. Veo que tu servicio está experimentando cortes recurrentes en la señal desde hace 15 días. ¿Es correcto?
+[00:00:28] CLIENTE: Sí, eso es. ¡Es una locura! Ya no puedo trabajar desde casa, no puedo ver la TV ni conectarme a nada. He llamado varias veces y no me dan una solución real.
+[00:00:36] AGENTE: Te entiendo completamente, Javier. Lamento mucho que hayas tenido esta mala experiencia. He revisado tus registros y efectivamente hay interrupciones frecuentes en el servicio. Permíteme transferirte a nuestro equipo técnico para que te ayuden directamente.
+[00:00:48] CLIENTE: ¡No quiero más promesas! Quiero que me cancelen el contrato ya. Estoy cansado de pagar por un servicio que no funciona.
+[00:00:54] AGENTE: Entiendo tu frustración, Javier. Si deseas, puedo gestionar la cancelación del contrato de inmediato y procesar la baja del servicio. ¿Te gustaría proceder con eso?
+[00:01:02] CLIENTE: Sí, por favor. No quiero seguir perdiendo el tiempo con esto.
+[00:01:06] AGENTE: De acuerdo, he comenzado con el proceso de cancelación. El contrato será rescindido dentro de los próximos 3 días hábiles y no tendrás ningún cargo adicional por la cancelación. ¿Hay algo más que pueda hacer por ti?
+[00:01:16] CLIENTE: No, eso está bien. Solo quiero que esta pesadilla termine.
+[00:01:20] AGENTE: Te pido una disculpa nuevamente por todos los inconvenientes. El equipo de atención al cliente se pondrá en contacto contigo para confirmar la baja. Que tengas un buen día, Javier.
+[00:01:28] CLIENTE: Gracias, chau.
+[00:01:30] AGENTE: Chau, chau.
+[00:01:32] *** LLAMADA FINALIZADA ***

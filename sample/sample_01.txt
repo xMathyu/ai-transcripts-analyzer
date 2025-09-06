@@ -1,0 +1,27 @@
+[00:00:00] AGENTE: . Buenos días, le atiende Carlos. ¿Con quién tengo el gusto?
+[00:00:05] CLIENTE: Hola, buen día. Soy Mariana López.
+[00:00:08] AGENTE: Un gusto, Mariana. ¿En qué puedo ayudarte hoy?
+[00:00:11] CLIENTE: Estoy llamando porque quiero consultar sobre mi última factura, creo que hay un cargo adicional que no reconozco.
+[00:00:18] AGENTE: Claro que sí, con gusto te ayudo a revisarlo. ¿Me puedes indicar tu número de cliente o RUT, por favor?
+[00:00:24] CLIENTE: Sí, es 17-865-432-1.
+[00:00:28] AGENTE: Muchas gracias. ¿Me confirmas tu dirección registrada?
+[00:00:31] CLIENTE: Avenida Los Sauces, número 245.
+[00:00:34] AGENTE: Excelente, gracias Mariana. Un momento mientras verifico tu factura en sistema, por favor.
+[00:01:10] AGENTE: Gracias por esperar, Mariana. Efectivamente, aparece un cargo adicional por un paquete de datos extra activado el 15 de marzo. ¿Recuerdas haber solicitado este servicio?
+[00:01:21] CLIENTE: No recuerdo haber activado ningún paquete adicional. ¿Se pudo haber activado accidentalmente?
+[00:01:27] AGENTE: Puede suceder que al recibir alguna notificación vía SMS y responder o interactuar con el enlace, se active automáticamente. Puedo revisar si es tu caso.
+[00:01:35] CLIENTE: Sí, por favor.
+[00:01:37] AGENTE: Claro, dame un momento.
+[00:02:12] AGENTE: Mariana, revisé el historial y efectivamente fue activado desde un mensaje interactivo enviado el 15 de marzo alrededor de las 3:15 pm.
+[00:02:21] CLIENTE: Entiendo. ¿Y es posible cancelar ese cargo o solicitar una devolución?
+[00:02:27] AGENTE: Sí, como es la primera vez que sucede puedo gestionar una devolución como excepción, y también bloquear esos mensajes para evitar futuras activaciones accidentales. ¿Quieres que proceda así?
+[00:02:38] CLIENTE: Sí, por favor. Sería perfecto.
+[00:02:41] AGENTE: Excelente. Procederé con la devolución, verás reflejado el monto en tu próxima factura como un descuento por ajuste. Además, ya bloqueé los mensajes promocionales.
+[00:02:50] CLIENTE: Genial, muchas gracias.
+[00:02:52] AGENTE: ¿Algo más en lo que pueda ayudarte hoy, Mariana?
+[00:02:55] CLIENTE: No, eso era todo.
+[00:02:57] AGENTE: Muy bien, gracias por contactarnos, que tengas un excelente día.
+[00:03:01] CLIENTE: Igualmente, Carlos, gracias.
+[00:03:04] AGENTE: Gracias a ti. Hasta luego.
+[00:03:06] CLIENTE: Hasta luego.
+[00:03:08] SISTEMA: [Llamada finalizada]

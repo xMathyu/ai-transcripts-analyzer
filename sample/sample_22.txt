@@ -1,0 +1,28 @@
+[00:00:00] AGENTE: . Buenas tardes, le saluda Natalia del área de atención técnica. ¿Con quién tengo el gusto?
+[00:00:04] CLIENTE: Buenas tardes, soy Felipe Arrieta. Estoy llamando porque quiero configurar el control parental en mi router. Tengo niños en casa y quiero limitar el acceso a ciertas páginas.
+[00:00:14] AGENTE: Entiendo, Felipe. Es una excelente decisión. Con gusto te ayudo. ¿Podrías brindarme tu número de cliente o RUT?
+[00:00:19] CLIENTE: Sí, es 25-603-772-4.
+[00:00:22] AGENTE: Gracias. ¿Podrías confirmarme también tu dirección registrada?
+[00:00:25] CLIENTE: Avenida El Bosque 421, casa 6.
+[00:00:29] AGENTE: Perfecto. Veo que tienes nuestro router modelo SmartBox G4, que permite configurar control parental desde la app MiRed. ¿Ya descargaste la app?
+[00:00:38] CLIENTE: No, aún no. ¿Está disponible en Android?
+[00:00:40] AGENTE: Sí, puedes descargarla desde Google Play como "MiRed Telecom". Una vez descargada, ingresa con tu usuario y contraseña. Si quieres, te puedo guiar en el proceso.
+[00:00:50] CLIENTE: Sí, por favor. Ya estoy descargando la app.
+[00:00:53] AGENTE: Perfecto, avísame cuando la abras.
+[00:01:15] CLIENTE: Listo, ya la abrí.
+[00:01:17] AGENTE: Muy bien. Ahora selecciona la opción "Mi red WiFi", luego ingresa a "Configuración avanzada" y busca "Control parental". Ahí podrás crear perfiles, asignar dispositivos y establecer horarios o bloquear sitios.
+[00:01:32] CLIENTE: Aquí está. Voy a crear un perfil para mi hija.
+[00:01:35] AGENTE: Excelente. Puedes añadir su dispositivo a ese perfil y definir las horas de navegación permitidas o directamente bloquear el acceso a ciertas páginas.
+[00:01:45] CLIENTE: Ya lo hice. ¿Y si quiero bloquear redes sociales durante la semana?
+[00:01:49] AGENTE: Dentro del mismo perfil, puedes usar la opción de "Restricción por categoría". Ahí seleccionas redes sociales, juegos, videos, etc. Puedes dejar solo acceso a sitios educativos, por ejemplo.
+[00:02:00] CLIENTE: Esto es justo lo que necesitaba. ¿Hay forma de recibir alertas si intentan ingresar a páginas bloqueadas?
+[00:02:05] AGENTE: Sí, en la configuración general de la app activa las notificaciones de control parental. Recibirás alertas en tiempo real si hay intentos de acceso a contenido restringido.
+[00:02:14] CLIENTE: Excelente. Muchas gracias por la orientación, Natalia.
+[00:02:17] AGENTE: Con gusto, Felipe. ¿Deseas que te envíe un resumen por correo de los pasos que vimos hoy?
+[00:02:21] CLIENTE: Sí, sería ideal. Envíamelo a felipe.arrieta@email.com.
+[00:02:24] AGENTE: Ya fue enviado. ¿Algo más en lo que pueda ayudarte hoy?
+[00:02:27] CLIENTE: No, eso es todo. Gracias por la ayuda.
+[00:02:29] AGENTE: Gracias a ti por confiar en nosotros. Que tengas una excelente tarde.
+[00:02:32] CLIENTE: Igualmente. Hasta luego.
+[00:02:34] AGENTE: Hasta luego.
+[00:02:35] SISTEMA: [Llamada finalizada]
