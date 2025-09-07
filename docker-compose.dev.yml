@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  # Development API with hot reload
+  api-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: development
+    container_name: ai-transcripts-analyzer-dev
+    restart: unless-stopped
+    ports:
+      - '3000:3000'
+      - '9229:9229' # Debug port
+    environment:
+      - NODE_ENV=development
+      - PORT=3000
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4o-mini}
+    volumes:
+      # Hot reload - mount source code
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    command: npm run start:debug
