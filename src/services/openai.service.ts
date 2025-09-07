@@ -51,9 +51,9 @@ export class OpenAiService {
       this.tokenUsage.completion += usage.completion_tokens || 0;
       this.tokenUsage.total += usage.total_tokens || 0;
 
-      // GPT-5 mini pricing: Input $0.250/1M tokens, Output $2.000/1M tokens
-      const promptCost = ((usage.prompt_tokens || 0) * 0.25) / 1000000;
-      const completionCost = ((usage.completion_tokens || 0) * 2.0) / 1000000;
+      // gpt-4o-mini pricing: Input $0.15/1M tokens, Output $0.60/1M tokens
+      const promptCost = ((usage.prompt_tokens || 0) * 0.15) / 1000000;
+      const completionCost = ((usage.completion_tokens || 0) * 0.6) / 1000000;
       this.estimatedCost += promptCost + completionCost;
 
       this.logger.log(
@@ -234,9 +234,9 @@ ${summary}`;
 
   canPerformOperation(estimatedTokens: number): boolean {
     const budget = 5.0;
-    // GPT-5 mini: Average cost estimation (assuming 50% input, 50% output)
-    // Input: $0.25/1M, Output: $2.0/1M, Average: ~$1.125/1M tokens
-    const estimatedCost = (estimatedTokens * 1.125) / 1000000;
+    // gpt-4o-mini: Average cost estimation (assuming 50% input, 50% output)
+    // Input: $0.15/1M, Output: $0.6/1M, Average: ~$0.375/1M tokens
+    const estimatedCost = (estimatedTokens * 0.375) / 1000000;
     return this.estimatedCost + estimatedCost <= budget;
   }
 }
