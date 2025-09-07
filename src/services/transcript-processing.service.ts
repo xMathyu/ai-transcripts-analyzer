@@ -223,7 +223,7 @@ export class TranscriptProcessingService {
     for (const transcript of this.transcripts) {
       totalMessages += transcript.messages.length;
 
-      const category = transcript.category || 'sin_clasificar';
+      const category = transcript.category || 'unclassified';
       categoriesDistribution[category] =
         (categoriesDistribution[category] || 0) + 1;
     }

@@ -39,7 +39,10 @@ export class OpenAiService {
     this.openai = new OpenAI({
       apiKey: this.configService.get<string>('OPENAI_API_KEY'),
     });
-    this.model = this.configService.get<string>('OPENAI_MODEL') || 'gpt-5-mini';
+    this.model =
+      this.configService.get<string>('OPENAI_MODEL') || 'gpt-4o-mini';
+
+    this.logger.log(`Using OpenAI model: ${this.model}`);
   }
 
   private trackUsage(usage: TokenUsage | undefined): void {
@@ -48,14 +51,29 @@ export class OpenAiService {
       this.tokenUsage.completion += usage.completion_tokens || 0;
       this.tokenUsage.total += usage.total_tokens || 0;
 
-      const promptCost = ((usage.prompt_tokens || 0) * 0.0005) / 1000;
-      const completionCost = ((usage.completion_tokens || 0) * 0.0015) / 1000;
+      // GPT-5 mini pricing: Input $0.250/1M tokens, Output $2.000/1M tokens
+      const promptCost = ((usage.prompt_tokens || 0) * 0.25) / 1000000;
+      const completionCost = ((usage.completion_tokens || 0) * 2.0) / 1000000;
       this.estimatedCost += promptCost + completionCost;
 
       this.logger.log(
-        `Token usage - Prompt: ${usage.prompt_tokens}, Completion: ${usage.completion_tokens}, Total cost: $${this.estimatedCost.toFixed(4)}`,
+        `Token usage - Prompt: ${usage.prompt_tokens}, Completion: ${usage.completion_tokens}, Total cost: $${this.estimatedCost.toFixed(6)}`,
       );
     }
+  }
+
+  private cleanJsonResponse(content: string): string {
+    let cleaned = content.trim();
+    if (cleaned.startsWith('```json')) {
+      cleaned = cleaned.replace(/^```json\s*/, '');
+    }
+    if (cleaned.startsWith('```')) {
+      cleaned = cleaned.replace(/^```\s*/, '');
+    }
+    if (cleaned.endsWith('```')) {
+      cleaned = cleaned.replace(/\s*```$/, '');
+    }
+    return cleaned.trim();
   }
 
   async classifyTranscript(
@@ -85,15 +103,14 @@ Respond in JSON format with:
       const response = await this.openai.chat.completions.create({
         model: this.model,
         messages: [{ role: 'user', content: prompt }],
-        max_tokens: 150,
-        temperature: 0.1,
+        max_completion_tokens: 150,
       });
 
       this.trackUsage(response.usage);
 
-      const result = JSON.parse(
-        response.choices[0].message.content || '{}',
-      ) as ClassificationResponse;
+      const rawContent = response.choices[0].message.content || '{}';
+      const cleanedContent = this.cleanJsonResponse(rawContent);
+      const result = JSON.parse(cleanedContent) as ClassificationResponse;
 
       return {
         transcriptId: transcript.id,
@@ -106,7 +123,13 @@ Respond in JSON format with:
         `Error classifying transcript ${transcript.id}:`,
         error,
       );
-      throw error;
+
+      return {
+        transcriptId: transcript.id,
+        category: 'error',
+        confidence: 0,
+        reasoning: `Classification failed: ${error instanceof Error ? error.message : String(error)}`,
+      };
     }
   }
 
@@ -138,15 +161,15 @@ Identify common patterns, recurring problems, and main themes. Respond in JSON f
       const response = await this.openai.chat.completions.create({
         model: this.model,
         messages: [{ role: 'user', content: prompt }],
-        max_tokens: 300,
-        temperature: 0.3,
+        max_completion_tokens: 300,
       });
 
       this.trackUsage(response.usage);
 
-      const result = JSON.parse(
+      const cleanedContent = this.cleanJsonResponse(
         response.choices[0].message.content || '{"topics": []}',
-      ) as TopicResponse;
+      );
+      const result = JSON.parse(cleanedContent) as TopicResponse;
 
       return result.topics.map((topic) => ({
         topic: topic.topic,
@@ -171,8 +194,7 @@ ${summary}`;
       const response = await this.openai.chat.completions.create({
         model: this.model,
         messages: [{ role: 'user', content: prompt }],
-        max_tokens: 100,
-        temperature: 0.2,
+        max_completion_tokens: 100,
       });
 
       this.trackUsage(response.usage);
@@ -212,7 +234,9 @@ ${summary}`;
 
   canPerformOperation(estimatedTokens: number): boolean {
     const budget = 5.0;
-    const estimatedCost = (estimatedTokens * 0.001) / 1000;
+    // GPT-5 mini: Average cost estimation (assuming 50% input, 50% output)
+    // Input: $0.25/1M, Output: $2.0/1M, Average: ~$1.125/1M tokens
+    const estimatedCost = (estimatedTokens * 1.125) / 1000000;
     return this.estimatedCost + estimatedCost <= budget;
   }
 }

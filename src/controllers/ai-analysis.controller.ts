@@ -154,6 +154,176 @@ export class AiAnalysisController {
     }
   }
 
+  @Post('classify/all')
+  @ApiOperation({
+    summary: 'Classify ALL transcripts using AI (Batch Operation)',
+    description:
+      'Uses OpenAI to automatically categorize ALL available transcripts. This is a heavy operation that consumes many AI tokens. Use with caution.',
+  })
+  @ApiResponse({
+    status: 200,
+    description: 'All transcripts classified successfully using AI',
+    schema: {
+      example: {
+        success: true,
+        data: {
+          totalProcessed: 99,
+          successful: 97,
+          failed: 2,
+          results: [
+            {
+              transcriptId: 'sample_01',
+              category: 'technical_issues',
+              confidence: 0.89,
+              reasoning: 'Customer reported connectivity problems',
+            },
+            {
+              transcriptId: 'sample_02',
+              category: 'billing_issues',
+              confidence: 0.95,
+              reasoning: 'Customer inquired about billing charges',
+            },
+          ],
+          estimatedCost: 2.45,
+          processingTime: '45.3 seconds',
+        },
+      },
+    },
+  })
+  @ApiResponse({
+    status: 402,
+    description: 'AI budget exceeded - cannot perform operation',
+  })
+  async classifyAllTranscriptsWithAI(): Promise<ApiResponseInterface<any>> {
+    try {
+      const startTime = Date.now();
+      const cacheKey = 'ai-classify-all-transcripts';
+      const cachedResult =
+        this.cacheService.get<ApiResponseInterface<any>>(cacheKey);
+
+      if (cachedResult) {
+        this.logger.log('Cache hit for bulk AI classification');
+        return cachedResult;
+      }
+
+      const allTranscripts = this.transcriptService.getTranscripts();
+      const estimatedTokens = allTranscripts.length * 500;
+
+      if (!this.openAiService.canPerformOperation(estimatedTokens)) {
+        throw new HttpException(
+          `AI budget exceeded. Estimated cost too high for ${allTranscripts.length} transcripts.`,
+          HttpStatus.PAYMENT_REQUIRED,
+        );
+      }
+
+      this.logger.log(
+        `Starting bulk classification of ${allTranscripts.length} transcripts...`,
+      );
+
+      const results: any[] = [];
+      const batchSize = 5;
+      let successful = 0;
+      let failed = 0;
+
+      for (let i = 0; i < allTranscripts.length; i += batchSize) {
+        const batch = allTranscripts.slice(i, i + batchSize);
+        this.logger.log(
+          `Processing batch ${Math.floor(i / batchSize) + 1}/${Math.ceil(allTranscripts.length / batchSize)}...`,
+        );
+
+        const batchPromises = batch.map(async (transcript) => {
+          try {
+            if (
+              transcript.category &&
+              transcript.category !== 'uncategorized'
+            ) {
+              this.logger.log(
+                `Transcript ${transcript.id} already classified as ${transcript.category}`,
+              );
+              return {
+                transcriptId: transcript.id,
+                category: transcript.category,
+                confidence: 1.0,
+                reasoning: 'Already classified',
+                status: 'skipped',
+              };
+            }
+
+            const classification =
+              await this.openAiService.classifyTranscript(transcript);
+
+            this.transcriptService.updateTranscriptClassification(
+              transcript.id,
+              classification.category,
+              '',
+            );
+
+            successful++;
+            return {
+              ...classification,
+              status: 'success',
+            };
+          } catch (error) {
+            failed++;
+            this.logger.error(
+              `Failed to classify transcript ${transcript.id}:`,
+              error,
+            );
+            return {
+              transcriptId: transcript.id,
+              error: (error as Error).message || 'Unknown error',
+              status: 'failed',
+            };
+          }
+        });
+
+        const batchResults = await Promise.all(batchPromises);
+        results.push(...batchResults);
+
+        if (i + batchSize < allTranscripts.length) {
+          await new Promise((resolve) => setTimeout(resolve, 1000));
+        }
+      }
+
+      const endTime = Date.now();
+      const processingTime = ((endTime - startTime) / 1000).toFixed(1);
+      const usageStats = this.openAiService.getUsageStats();
+
+      const response: ApiResponseInterface<any> = {
+        success: true,
+        data: {
+          totalProcessed: allTranscripts.length,
+          successful,
+          failed,
+          results: results.slice(0, 10),
+          estimatedCost: usageStats.estimatedCost,
+          processingTime: `${processingTime} seconds`,
+          note:
+            successful > 0
+              ? 'Transcripts have been classified and are now searchable by category'
+              : 'No transcripts were classified',
+        },
+      };
+
+      this.cacheService.set(cacheKey, response, 24 * 60 * 60 * 1000);
+
+      this.logger.log(
+        `Bulk classification completed: ${successful} successful, ${failed} failed in ${processingTime}s`,
+      );
+
+      return response;
+    } catch (error) {
+      this.logger.error('Error in bulk transcript classification:', error);
+      if (error instanceof HttpException) {
+        throw error;
+      }
+      throw new HttpException(
+        'Error classifying transcripts with AI',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
+    }
+  }
+
   @Post('classify/:id')
   @ApiOperation({
     summary: 'Classify a specific transcript using AI',
@@ -210,6 +380,9 @@ export class AiAnalysisController {
       }
 
       if (!this.openAiService.canPerformOperation(500)) {
+        this.logger.warn(
+          `AI budget exceeded for transcript ${id}. Current cost: $${this.openAiService.getUsageStats().estimatedCost.toFixed(6)}`,
+        );
         throw new HttpException(
           'AI budget exceeded. Cannot perform this operation.',
           HttpStatus.PAYMENT_REQUIRED,
@@ -222,17 +395,21 @@ export class AiAnalysisController {
       let summary = '';
       if (this.openAiService.canPerformOperation(200)) {
         summary = await this.openAiService.generateSummary(transcript);
-        this.transcriptService.updateTranscriptClassification(
-          id,
-          classification.category,
-          summary,
-        );
       }
+
+      this.transcriptService.updateTranscriptClassification(
+        id,
+        classification.category,
+        summary,
+      );
 
       const response: ApiResponseInterface<any> = {
         success: true,
         data: {
-          ...classification,
+          transcriptId: classification.transcriptId,
+          category: classification.category,
+          confidence: classification.confidence,
+          reasoning: classification.reasoning,
           summary,
         },
       };

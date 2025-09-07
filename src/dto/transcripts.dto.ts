@@ -11,12 +11,12 @@ import { Type } from 'class-transformer';
 import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
 
 export enum TranscriptCategory {
-  TECHNICAL_PROBLEMS = 'technical_problems',
+  TECHNICAL_ISSUES = 'technical_issues',
   COMMERCIAL_SUPPORT = 'commercial_support',
   ADMINISTRATIVE_REQUESTS = 'administrative_requests',
   BILLING_ISSUES = 'billing_issues',
   SERVICE_ACTIVATION = 'service_activation',
-  COMPLAINTS = 'complaints',
+  COMPLAINTS_CLAIMS = 'complaints_claims',
 }
 
 export class SearchTranscriptsDto {
@@ -30,7 +30,7 @@ export class SearchTranscriptsDto {
   @ApiPropertyOptional({
     description: 'Filter by category',
     enum: TranscriptCategory,
-    example: TranscriptCategory.TECHNICAL_PROBLEMS,
+    example: TranscriptCategory.TECHNICAL_ISSUES,
   })
   @IsOptional()
   @IsEnum(TranscriptCategory)
