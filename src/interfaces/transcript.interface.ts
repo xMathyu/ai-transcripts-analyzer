@@ -25,6 +25,7 @@ export interface TopicAnalysis {
   topic: string;
   frequency: number;
   relevantTranscripts: string[];
+  categories?: string[];
   description?: string;
 }
 

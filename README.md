@@ -94,8 +94,11 @@ GET /api/transcripts
 # Get specific transcript
 GET /api/transcripts/:id
 
-# Search by keywords
-GET /api/transcripts/search?q=internet&speaker=CLIENTE
+# Search by keywords (basic)
+GET /api/transcripts/search?query=internet
+
+# Search with pagination and filters
+GET /api/transcripts/search?query=internet&limit=10&page=1&category=technical_issues
 
 # General statistics
 GET /api/transcripts/statistics
@@ -109,11 +112,12 @@ POST /api/ai/classify/:id
 # Classify all transcripts
 POST /api/ai/classify/all
 
-# Extract main topics
+# Extract and analyze topics from specific transcripts
 POST /api/ai/topics/extract
 {
-  "transcriptIds": ["sample_01", "sample_02"],
-  "maxTopics": 5
+  "transcriptIds": ["sample_01", "sample_02", "sample_03"],
+  "topicsCount": 5,
+  "category": "billing_issues"
 }
 
 # Generate transcript summary
@@ -141,14 +145,37 @@ POST /api/ai/summarize/:id
   "success": true,
   "data": [
     {
-      "topic": "internet_issues",
-      "frequency": 15,
-      "description": "Connectivity and speed problems",
-      "relevantTranscripts": ["sample_01", "sample_05"]
+      "topic": "Billing inquiries",
+      "frequency": 3,
+      "relevantTranscripts": ["sample_01", "sample_03", "sample_07"],
+      "description": "Issues related to billing, charges, and payment inquiries"
+    },
+    {
+      "topic": "Technical issues", 
+      "frequency": 2,
+      "relevantTranscripts": ["sample_02", "sample_05"],
+      "description": "Technical problems with services like internet, TV, or phone"
+    },
+    {
+      "topic": "Service activation",
+      "frequency": 1,
+      "relevantTranscripts": ["sample_04"],
+      "description": "Service activation and setup requests"
     }
   ]
 }
 ```
+
+### API Endpoint Details
+
+**Topic Extraction Endpoint:**
+- **Purpose**: Analyzes individual transcripts to identify main topics and themes
+- **Output**: Topics with frequency count and specific transcript associations
+- **Use Case**: Understanding common issues across customer interactions
+- **Parameters**:
+  - `transcriptIds` (optional): Specific transcripts to analyze 
+  - `topicsCount` (optional): Maximum topics to return (default: 5)
+  - `category` (optional): Filter transcripts by category first
 
 ## 🏗️ Technical Architecture
 

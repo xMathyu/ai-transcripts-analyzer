@@ -165,10 +165,18 @@ export class TranscriptProcessingService {
   ): void {
     const transcript = this.getTranscriptById(transcriptId);
     if (transcript) {
+      const oldCategory = transcript.category || 'unclassified';
       transcript.category = category;
       if (summary) {
         transcript.summary = summary;
       }
+      console.log(
+        `Updated transcript ${transcriptId}: ${oldCategory} → ${category}`,
+      );
+    } else {
+      console.error(
+        `Transcript ${transcriptId} not found for classification update`,
+      );
     }
   }
 
@@ -188,27 +196,68 @@ export class TranscriptProcessingService {
       );
     }
 
-    const topicFrequency: { [key: string]: string[] } = {};
+    const transcriptsWithTopics = targetTranscripts.filter(
+      (transcript) => transcript.topics && transcript.topics.length > 0,
+    );
 
-    for (const transcript of targetTranscripts) {
-      if (transcript.topics) {
-        for (const topic of transcript.topics) {
-          if (!topicFrequency[topic]) {
-            topicFrequency[topic] = [];
-          }
-          topicFrequency[topic].push(transcript.id);
-        }
-      }
+    if (transcriptsWithTopics.length === 0) {
+      return [];
     }
 
-    return Object.entries(topicFrequency)
+    const topicFrequency = new Map<string, Set<string>>();
+
+    transcriptsWithTopics.forEach((transcript) => {
+      transcript.topics!.forEach((topic) => {
+        const normalizedTopic = topic.toLowerCase().trim();
+        if (!topicFrequency.has(normalizedTopic)) {
+          topicFrequency.set(normalizedTopic, new Set());
+        }
+        topicFrequency.get(normalizedTopic)!.add(transcript.id);
+      });
+    });
+
+    const topics: TopicAnalysis[] = Array.from(topicFrequency.entries())
       .map(([topic, transcriptIds]) => ({
-        topic,
-        frequency: transcriptIds.length,
-        relevantTranscripts: transcriptIds,
+        topic: this.capitalizeFirstLetter(topic),
+        frequency: transcriptIds.size,
+        relevantTranscripts: Array.from(transcriptIds),
+        description: this.getAITopicDescription(topic),
       }))
       .sort((a, b) => b.frequency - a.frequency)
       .slice(0, 10);
+
+    return topics;
+  }
+
+  private capitalizeFirstLetter(str: string): string {
+    return str.charAt(0).toUpperCase() + str.slice(1);
+  }
+
+  private getAITopicDescription(topic: string): string {
+    const descriptions: Record<string, string> = {
+      billing: 'Issues related to billing, charges, and payment inquiries',
+      technical: 'Technical problems with services like internet, TV, or phone',
+      activation: 'Service activation and setup requests',
+      support: 'General customer support and assistance requests',
+      complaint: 'Customer complaints and dissatisfaction issues',
+      commercial: 'Commercial inquiries about plans, promotions, and upgrades',
+      refund: 'Refund requests and credit adjustments',
+      cancellation: 'Service cancellation and termination requests',
+      internet: 'Internet connectivity and speed related issues',
+      plan: 'Plan changes, upgrades, and service modifications',
+      disputed: 'Disputed charges and billing discrepancies',
+      configuration: 'Service configuration and setup assistance',
+      appointment: 'Service appointment scheduling and coordination',
+    };
+
+    const lowerTopic = topic.toLowerCase();
+    for (const [key, desc] of Object.entries(descriptions)) {
+      if (lowerTopic.includes(key)) {
+        return desc;
+      }
+    }
+
+    return `AI-identified topic: ${topic}`;
   }
 
   getStatistics(): {
@@ -220,13 +269,21 @@ export class TranscriptProcessingService {
     const categoriesDistribution: { [key: string]: number } = {};
     let totalMessages = 0;
 
+    console.log(`Calculating statistics for ${totalTranscripts} transcripts`);
+
     for (const transcript of this.transcripts) {
       totalMessages += transcript.messages.length;
 
       const category = transcript.category || 'unclassified';
       categoriesDistribution[category] =
         (categoriesDistribution[category] || 0) + 1;
+
+      if (Object.keys(categoriesDistribution).length <= 5) {
+        console.log(`Transcript ${transcript.id}: category = ${category}`);
+      }
     }
+
+    console.log('Categories distribution:', categoriesDistribution);
 
     return {
       totalTranscripts,

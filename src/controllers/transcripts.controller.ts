@@ -230,9 +230,9 @@ export class TranscriptsController {
 
   @Get('topics/frequent')
   @ApiOperation({
-    summary: 'Get most frequent topics (local analysis)',
+    summary: 'Get most frequent topics from AI-analyzed transcripts',
     description:
-      'Returns the most frequently occurring topics based on local keyword analysis (faster, no AI required)',
+      'Returns the most frequently occurring topics from transcripts that have been analyzed with AI. Only shows results from transcripts that have been processed through the topic extraction endpoint.',
   })
   @ApiQuery({
     name: 'category',
@@ -249,21 +249,23 @@ export class TranscriptsController {
         success: true,
         data: [
           {
-            topic: 'internet',
-            frequency: 28,
-            relevantTranscripts: [
-              'sample_01',
-              'sample_03',
-              'sample_07',
-              'sample_12',
-            ],
-            description: 'Internet-related issues and connectivity problems',
+            topic: 'Disputed charges',
+            frequency: 3,
+            relevantTranscripts: ['sample_01', 'sample_06', 'sample_12'],
+            description:
+              'Issues related to billing, charges, and payment inquiries',
           },
           {
-            topic: 'billing',
-            frequency: 18,
-            relevantTranscripts: ['sample_02', 'sample_05', 'sample_09'],
-            description: 'Billing inquiries and payment-related topics',
+            topic: 'Internet configuration',
+            frequency: 2,
+            relevantTranscripts: ['sample_02', 'sample_05'],
+            description: 'Internet connectivity and speed related issues',
+          },
+          {
+            topic: 'Service activation',
+            frequency: 1,
+            relevantTranscripts: ['sample_01'],
+            description: 'Service activation and setup requests',
           },
         ],
       },

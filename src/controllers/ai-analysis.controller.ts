@@ -30,32 +30,55 @@ export class AiAnalysisController {
 
   @Post('topics/extract')
   @ApiOperation({
-    summary: 'Extract main topics from transcripts using AI',
+    summary: 'Extract and analyze topics from transcripts with AI',
     description:
-      'Uses OpenAI to analyze transcripts and extract the most relevant topics with frequency analysis. This endpoint consumes AI tokens and may take longer to process.',
+      'Analyzes individual transcripts using OpenAI to identify main topics and themes. Returns topics with their frequency and the specific transcript IDs where each topic appears. Useful for understanding common issues and patterns across customer interactions. Consumes OpenAI tokens.',
   })
   @ApiResponse({
     status: 200,
-    description: 'Topics extracted successfully using AI analysis',
+    description: 'Topics extracted successfully with transcript associations',
     schema: {
       example: {
         success: true,
-        data: [
-          {
-            topic: 'internet connectivity issues',
-            frequency: 15,
-            relevantTranscripts: ['sample_01', 'sample_03', 'sample_07'],
-            description:
-              'Problems related to internet connection, slow speeds, and network outages',
+        data: {
+          transcripts: [
+            {
+              transcriptId: 'sample_01',
+              category: 'billing_issues',
+              confidence: 0.9,
+              topics: ['billing problems', 'refund request'],
+            },
+            {
+              transcriptId: 'sample_02',
+              category: 'technical_issues',
+              confidence: 0.95,
+              topics: ['internet connectivity', 'technical support'],
+            },
+          ],
+          aggregatedTopics: [
+            {
+              topic: 'Billing problems',
+              frequency: 2,
+              relevantTranscripts: ['sample_01', 'sample_03'],
+              categories: ['billing_issues'],
+              description:
+                'Issues related to billing, charges, and payment inquiries',
+            },
+            {
+              topic: 'Technical support',
+              frequency: 1,
+              relevantTranscripts: ['sample_02'],
+              categories: ['technical_issues'],
+              description:
+                'Technical problems with services like internet, TV, or phone',
+            },
+          ],
+          summary: {
+            totalTranscripts: 2,
+            totalTopics: 2,
+            categories: ['billing_issues', 'technical_issues'],
           },
-          {
-            topic: 'billing inquiries',
-            frequency: 12,
-            relevantTranscripts: ['sample_02', 'sample_05'],
-            description:
-              'Questions about charges, payment methods, and invoice discrepancies',
-          },
-        ],
+        },
       },
     },
   })
@@ -99,19 +122,32 @@ export class AiAnalysisController {
       }
 
       const batchSize = 10;
-      const allTopics: TopicAnalysis[] = [];
+      const allTranscriptAnalyses: Array<{
+        transcriptId: string;
+        category: string;
+        confidence: number;
+        topics: string[];
+      }> = [];
+      const allAggregatedTopics: (TopicAnalysis & {
+        categories?: string[];
+      })[] = [];
 
       for (let i = 0; i < transcripts.length; i += batchSize) {
         const batch = transcripts.slice(i, i + batchSize);
-        const batchTopics = await this.openAiService.extractTopicsFromBatch(
+        const batchResult = await this.openAiService.extractTopicsFromBatch(
           batch,
           extractDto.topicsCount,
         );
-        allTopics.push(...batchTopics);
+
+        allTranscriptAnalyses.push(...batchResult.transcripts);
+        allAggregatedTopics.push(...batchResult.aggregatedTopics);
       }
 
-      const topicsMap = new Map<string, TopicAnalysis>();
-      for (const topic of allTopics) {
+      const topicsMap = new Map<
+        string,
+        TopicAnalysis & { categories: string[] }
+      >();
+      for (const topic of allAggregatedTopics) {
         const existing = topicsMap.get(topic.topic);
         if (existing) {
           existing.frequency += topic.frequency;
@@ -121,24 +157,52 @@ export class AiAnalysisController {
               ...topic.relevantTranscripts,
             ]),
           );
+          if (topic.categories) {
+            existing.categories = Array.from(
+              new Set([...existing.categories, ...topic.categories]),
+            );
+          }
         } else {
-          topicsMap.set(topic.topic, topic);
+          topicsMap.set(topic.topic, {
+            ...topic,
+            categories: topic.categories || [],
+          });
         }
       }
 
-      const finalTopics = Array.from(topicsMap.values())
+      const finalAggregatedTopics = Array.from(topicsMap.values())
         .sort((a, b) => b.frequency - a.frequency)
-        .slice(0, extractDto.topicsCount);
+        .slice(0, extractDto.topicsCount || 5);
+
+      for (const analysis of allTranscriptAnalyses) {
+        this.transcriptService.updateTranscriptClassification(
+          analysis.transcriptId,
+          analysis.category,
+          `Classified with ${Math.round(analysis.confidence * 100)}% confidence`,
+        );
+      }
+
+      this.cacheService.delete('statistics');
 
       const response: ApiResponseInterface<any> = {
         success: true,
-        data: finalTopics,
+        data: {
+          transcripts: allTranscriptAnalyses,
+          aggregatedTopics: finalAggregatedTopics,
+          summary: {
+            totalTranscripts: allTranscriptAnalyses.length,
+            totalTopics: finalAggregatedTopics.length,
+            categories: Array.from(
+              new Set(allTranscriptAnalyses.map((t) => t.category)),
+            ),
+          },
+        },
       };
 
       this.cacheService.set(cacheKey, response, 60 * 60 * 1000);
 
       this.logger.log(
-        `AI Topics extracted: ${finalTopics.length} topics found`,
+        `AI Analysis completed: ${allTranscriptAnalyses.length} transcripts classified and persisted, ${finalAggregatedTopics.length} topics extracted`,
       );
 
       return response;
@@ -326,9 +390,9 @@ export class AiAnalysisController {
 
   @Post('classify/:id')
   @ApiOperation({
-    summary: 'Classify a specific transcript using AI',
+    summary: 'Classify and extract topics from a specific transcript using AI',
     description:
-      'Uses OpenAI to automatically categorize a transcript into predefined categories. This endpoint consumes AI tokens.',
+      'Uses OpenAI to automatically categorize a transcript into predefined categories AND extract main topics. This endpoint consumes AI tokens.',
   })
   @ApiParam({
     name: 'id',
@@ -337,7 +401,8 @@ export class AiAnalysisController {
   })
   @ApiResponse({
     status: 200,
-    description: 'Transcript classified successfully using AI',
+    description:
+      'Transcript classified and topics extracted successfully using AI',
     schema: {
       example: {
         success: true,
@@ -347,6 +412,11 @@ export class AiAnalysisController {
           confidence: 0.89,
           reasoning:
             'Customer reported internet connectivity problems and requested technical support for troubleshooting',
+          topics: [
+            'internet connectivity',
+            'technical support',
+            'troubleshooting',
+          ],
           summary:
             'Customer experiencing internet connection issues since yesterday, technician scheduled for tomorrow',
         },
@@ -389,8 +459,8 @@ export class AiAnalysisController {
         );
       }
 
-      const classification =
-        await this.openAiService.classifyTranscript(transcript);
+      const result =
+        await this.openAiService.classifyAndExtractTopics(transcript);
 
       let summary = '';
       if (this.openAiService.canPerformOperation(200)) {
@@ -399,17 +469,23 @@ export class AiAnalysisController {
 
       this.transcriptService.updateTranscriptClassification(
         id,
-        classification.category,
+        result.classification.category,
         summary,
       );
+
+      // También guardamos los topics extraídos
+      this.transcriptService.updateTranscriptTopics(id, result.topics);
+
+      this.cacheService.delete('statistics');
 
       const response: ApiResponseInterface<any> = {
         success: true,
         data: {
-          transcriptId: classification.transcriptId,
-          category: classification.category,
-          confidence: classification.confidence,
-          reasoning: classification.reasoning,
+          transcriptId: result.classification.transcriptId,
+          category: result.classification.category,
+          confidence: result.classification.confidence,
+          reasoning: result.classification.reasoning,
+          topics: result.topics,
           summary,
         },
       };
@@ -417,7 +493,7 @@ export class AiAnalysisController {
       this.cacheService.set(cacheKey, response, 24 * 60 * 60 * 1000);
 
       this.logger.log(
-        `Transcript ${id} classified with AI as ${classification.category}`,
+        `Transcript ${id} classified with AI as ${result.classification.category} with topics: ${result.topics.join(', ')}`,
       );
 
       return response;
