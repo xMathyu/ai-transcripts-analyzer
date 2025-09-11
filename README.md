@@ -11,6 +11,18 @@ Robust and efficient backend system for semantic analysis of customer service ca
 - 💰 **OpenAI budget optimization** ($5 USD limit)
 - 📈 **Scalability** for large data volumes
 
+## 🏗️ Architecture
+
+The system follows a modular NestJS architecture with clear separation between local analysis (fast and free) and AI analysis (powerful but token-consuming):
+
+![Architecture Diagram](docs/images/backend-diagram.png)
+
+### Key Components:
+- **Controllers Layer**: RESTful API endpoints for different analysis types
+- **Services Layer**: Business logic for transcript processing, OpenAI integration, and caching
+- **Data Layer**: Type-safe interfaces and DTOs for data validation
+- **External Dependencies**: OpenAI API, file system, and documentation tools
+
 ## 🚀 Quick Start
 
 ### Prerequisites
